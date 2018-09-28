@@ -1,4 +1,6 @@
-.. _modeles-de-citation-des-differents-types-de-documents:
+.. contents::
+   :depth: 3
+..
 
 Modèles de citation des différents types de documents
 =====================================================
@@ -14,8 +16,6 @@ Modèles de citation des différents types de documents
 Notes CSL globales
 ------------------
 
-.. _titre-et-complement-de-titre:
-
 Titre et complément de titre
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -26,9 +26,8 @@ dans la bibliothèque Zotero :
 -  le *Titre, complément du titre* dans le champ ``Titre``,
 -  le *Titre* dans le champ ``Titre abrégé``.
 
-`Exemple KSE9EUTP dans la bib Zotero de groupe`_
-
-.. _titre-des-melanges:
+`Exemple KSE9EUTP dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/KSE9EUTP>`__
 
 Titre des mélanges
 ~~~~~~~~~~~~~~~~~~
@@ -41,14 +40,11 @@ cite globalement le volume.
 -  le titre abrégé du type *Mélanges XX* sera saisi dans le champ
    ``XXX`` et apparaîtra dans les notes de bas de page.
 
-.. _melange-dans-un-volume-de-melanges:
-
 Mélange dans un volume de mélanges
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-= à faire `Exemple N8ZRTXUF dans la bib Zotero de groupe`_
-
-.. _mention-de-page,-de-pagination-et-de-nombre-de-pages:
+= à faire `Exemple N8ZRTXUF dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/N8ZRTXUF>`__
 
 Mention de page, de pagination et de nombre de pages
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -62,19 +58,15 @@ ou de section précisée comme ``locator``. En l'absence de ``locator``,
 rien n'est affiché, *i. e.* on n'affiche pas la pagination ni le nombre
 de pages ; ces éléments sont réservés à la bibliographie.
 
-.. _citations-de-references-multiples:
-
 Citations de références multiples
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-= améliorer rédaction Seule ponctuation insérée automatiquement = ````
+= améliorer rédaction Seule ponctuation insérée automatiquement = \` \`
 Cas du texte à insérer : préconiser préfixe et suffixe/ sauf pour notes
 longues
-`https://forums.zotero.org/discussion/33069/adding-text-excerpts-to-footnotes`_
+https://forums.zotero.org/discussion/33069/adding-text-excerpts-to-footnotes
 et
-`https://forums.zotero.org/discussion/61387/how-can-i-add-text-to-a-footnote-with-references-from-zotero`_
-
-.. _mentions-ajoutees-a-une-reference-en-note-de-bas-de-page-(prefixe-et-suffixe,-mention-de-page,-de-partie,-etc.):
+https://forums.zotero.org/discussion/61387/how-can-i-add-text-to-a-footnote-with-references-from-zotero
 
 Mentions ajoutées à une référence en note de bas de page (préfixe et suffixe, mention de page, de partie, etc.)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -85,16 +77,11 @@ boîte de dialogue de l'extension de traitement de texte pour ce faire.
 Cela permet d'intégrer le contenu au champ Zotero et de le conserver au
 fil des mises à jour du document.
 
-Voir la `page plugin sur le site de Zotero`_
-
---------------
-
-.. _citer-un-ouvrage-imprime:
+Voir la `page plugin sur le site de
+Zotero <https://www.zotero.org/support/word_processor_plugin_usage>`__
 
 Citer un ouvrage imprimé
 ------------------------
-
-.. _modele-pour-la-bibliographie:
 
 Modèle pour la bibliographie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -102,23 +89,1480 @@ Modèle pour la bibliographie
 Auteur [NOM prénom], *Titre de l’ouvrage, complément du titre*, tomaison
 [vol. X], édition [Xe éd.], autre responsabilité (préface, traduction,
 dirigé par…) [Nom prénom (préf., trad., dir.)], ville de publication,
-éditeur, année d’édition, pagination globale.
-
-.. _modele-pour-les-notes-de-bas-de-page:
+éditeur, année d’édition, pagination globale.
 
 Modèle pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Auteur [NOM prénom], *Titre de l’ouvrage*, éditeur, année
-d’édition, numéro des pages concernées.
+d’édition, numéro des pages concernées.
 
 Exemples pour la bibliographie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-DUGUIT Léon, \_L’État‎, le droit objectif et la lo
+DUGUIT Léon, *L’État‎, le droit objectif et la loi positive*, Moderne
+Franck (préf.), Paris, Dalloz, 2003, 623 p.
 
-.. _Exemple KSE9EUTP dans la bib Zotero de groupe: https://www.zotero.org/groups/2190104/items/KSE9EUTP
-.. _Exemple N8ZRTXUF dans la bib Zotero de groupe: https://www.zotero.org/groups/2190104/items/N8ZRTXUF
-.. _`https://forums.zotero.org/discussion/33069/adding-text-excerpts-to-footnotes`: https://forums.zotero.org/discussion/33069/adding-text-excerpts-to-footnotes
-.. _`https://forums.zotero.org/discussion/61387/how-can-i-add-text-to-a-footnote-with-references-from-zotero`: https://forums.zotero.org/discussion/61387/how-can-i-add-text-to-a-footnote-with-references-from-zotero
-.. _page plugin sur le site de Zotero: https://www.zotero.org/support/word_processor_plugin_usage
+`Exemple UMRJGXBR dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/UMRJGXBR>`__
+
+BAUDRY-LACANTINERIE Gabriel, *Précis de droit civil*, vol. 1, 14e éd.,
+Paris, Sirey, 1926, 914 p.
+
+`Exemple XPL2K7WU dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/XPL2K7WU>`__
+
+DALLOZ Édouard, VERGÉ Charles, VERGÉ Charles fils *et al.*, *Code des
+lois politiques et administratives*, vol. 2, Bureau de la Jurisprudence
+Générale, 1891, 1432 p.
+
+`Exemple V8T4989M dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/V8T4989M>`__
+
+Exemples pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DUGUIT Léon, *L’État‎, le droit objectif et la loi positive*, Dalloz,
+2003, p. 68 s.
+
+BAUDRY-LACANTINERIE Gabriel, *Précis de droit civil*, Sirey, 1926, p.
+8-12.
+
+DALLOZ Édouard, VERGÉ Charles, VERGÉ Charles fils *et al.*, *Code des
+lois politiques et administratives*, Bureau de la Jurisprudence
+Générale, 1891, p. 686-712.
+
+Notes CSL
+~~~~~~~~~
+
+-  Ne pas mentionner d'URL, c'est un critère d'affichage pour la mention
+   ``[en ligne]`` pour les ouvrages numériques - voir *infra*.
+-  S'il n'y a pas d'auteur, Zotero affiche le nom de l'éditeur avec le
+   même formatage que les noms d'auteur, pour prendre en compte le cas
+   des actes publiés d'un colloque.
+-  Les mentions de responsabilités secondaires (traducteur, etc.) sont
+   générées automatiquement par Zotero à partir du moment où les rôles
+   sont correctement saisis.
+
+`Exemple 9KHHPKTJ dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/9KHHPKTJ>`__
+
+-  Le rôle de préfacier n'existe pas dans Zotero : si applicable, on
+   utilise le rôle ``editorial-director``. Ce champ n'existe pas en
+   standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir
+   sous la forme :
+
+::
+
+    editorial-director: Moderne || Franck
+
+Rappel `Exemple UMRJGXBR dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/UMRJGXBR>`__
+
+Citer un ouvrage numérique
+--------------------------
+
+Modèle pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM prénom], *Titre de l’ouvrage, complément du titre* [en
+ligne], tomaison [vol. X], édition [Xe éd.], autre responsabilité
+(préface, traduction, dirigé par…) [Nom prénom (préf., trad., dir.)],
+ville de publication, éditeur, année d’édition, pagination globale,
+[consulté le JJ mois AAAA]. URL
+
+Modèle pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM prénom], *Titre de l’ouvrage* [en ligne], éditeur, année
+d’édition, numéro des pages concernées [consulté le JJ mois AAAA].
+
+Exemples pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+COURBE Patrick et GOUTTENOIRE Adeline, *Droit de la famille* [en ligne],
+7e éd., Paris, Sirey, 2017, 572 p., [consulté le 9 janvier 2017].
+http://www.dalloz-bibliotheque.fr/bibliotheque/Droit_de_la_famille-58206.htm
+
+`Exemple 8ZY72VYJ dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/8ZY72VYJ>`__
+
+MÉLIN-SOUCRAMANIEN Ferdinand et PACTET Pierre, *Droit
+constitutionnel*\ [en ligne], 34eéd., Paris, Sirey, 2015, 680 p.,
+[consulté le 20 janvier 2017].
+http://www.dalloz-bibliotheque.fr/bibliotheque/Droit_constitutionnel-38072.htm
+
+`Exemple 6CL9SIY9 dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/6CL9SIY9>`__
+
+Exemples pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+COURBE Patrick et GOUTTENOIRE Adeline, *Droit de la famille* [en ligne],
+Sirey, 2017, p. 98-105, [consulté le 9 janvier 2017].
+
+MÉLIN-SOUCRAMANIEN Ferdinand et PACTET Pierre, *Droit
+constitutionnel*\ [en ligne], Sirey, 2015, p. 18, 54 et 101-103 spéc.,
+[consulté le 20 janvier 2017].
+
+Citer des travaux universitaires imprimés (thèses et mémoires)
+--------------------------------------------------------------
+
+Il s’agit ici des éditions de dépôt dans les bibliothèques
+universitaires, c’est-à-dire des éditions non-commerciales. Les éditions
+de thèses et mémoires publiées chez des éditeurs commerciaux sont
+traitées comme des ouvrages.
+
+Modèle pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM Prénom], *Titre, complément du titre*, nom du/des
+directeur(s) [Nom Prénom (dir.)], intitulé du diplôme, discipline, nom
+de l’université, année, pagination globale.
+
+Modèle pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM Prénom], *Titre*, intitulé du diplôme, discipline, nom de
+l’université, année, numéro des pages concernées.
+
+Exemples pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+AUBIN Gérard, *La seigneurie en Bordelais au 18eme siècle d'après la
+pratique notariale (1715-1789)*, Jaubert Pierre (dir.), thèse de
+doctorat, droit, université de Bordeaux I, 1981, 958 p.
+
+`Exemple 4DVMV6KA dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/4DVMV6KA>`__
+
+RADÉ Christophe, *Le droit à l’insertion dans la loi du 1er décembre
+1988 relative au revenu minimum d’insertion*, Laborde Jean-Pierre
+(dir.), mémoire de DEA, droit social, université de Bordeaux I, 1991, 93
+p.
+
+`Exemple R2IX2IRW dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/R2IX2IRW>`__
+
+Exemples pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+AUBIN Gérard, *La seigneurie en Bordelais au 18eme siècle d'après la
+pratique notariale (1715-1789)*, thèse de doctorat, droit, université de
+Bordeaux I, 1981, part. 1.
+
+RADÉ Christophe, *Le droit à l’insertion dans la loi du 1er décembre
+1988 relative au revenu minimum d’insertion*, mémoire de DEA, droit
+social, université de Bordeaux I, 1991, p. 74.
+
+Notes
+~~~~~
+
+-  L’intitulé du diplôme, de la discipline et le nom de l’université
+   sont repris de la page de titre ou de couverture ;
+-  Le niveau d’étude (par ex. diplôme d’étude approfondi) peut être
+   abrégé (DEA).
+
+Notes CSL
+~~~~~~~~~
+
+-  Le champ "discipline" n'existe pas dans Zotero ni CSL, renseigner la
+   discipline à la suite de l'intitulé du diplôme dans le champ
+   ``Type``.
+-  Ne pas mentionner d'URL, c'est un critère d'affichage pour la mention
+   ``[en ligne]`` des travaux universitaires numériques - voir *infra*.
+-  Mentionner obligatoirement le nombre de pages, l'absence du nombre de
+   pages est le critère d'affichage pour la mention ``[microfiche]`` -
+   voir *infra*.
+-  Le rôle de directeur de thèse n'existe pas dans Zotero : si
+   applicable, on utilise le rôle ``director``. Ce champ n'existe pas en
+   standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir
+   sous la forme :
+
+::
+
+    director: Jaubert || Pierre
+
+Citer des travaux universitaires numériques (thèses et mémoires)
+----------------------------------------------------------------
+
+Modèle pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM Prénom], *Titre, complément du titre* [en ligne], nom du/des
+directeur(s) [Nom Prénom (dir.)], intitulé du diplôme, discipline, nom
+de l’université, année, pagination globale, [consulté le JJ mois AAAA].
+URL
+
+Modèle pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM Prénom], *Titre* [en ligne], intitulé du diplôme,
+discipline, nom de l’université, année, numéro des pages concernées,
+[consulté le JJ mois AAAA].
+
+Exemples pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MANGEMATIN Céline, *La faute de fonction en droit privé* [en ligne],
+Malabat Valérie (dir.), thèse, droit, université Montesquieu-Bordeaux
+IV, 2012, 770 p., [consulté le 20 janvier 2017].
+http://www.theses.fr/2012BOR40027
+
+`Exemple PT2DWA4B dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/PT2DWA4B>`__
+
+LESTRADE Éric, *Les principes directeurs du procès dans la jurisprudence
+du Conseil Constitutionnel* [en ligne], Mélin-Soucramanien Ferdinand
+(dir.), thèse, droit, université Montesquieu-Bordeaux IV, 2013, 714 p.,
+[consulté le 9 janvier 2017]. http://www.theses.fr/2013BOR40033
+
+`Exemple GWXKFFTC dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/GWXKFFTC>`__
+
+Exemples pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MANGEMATIN Céline, *La faute de fonction en droit privé* [en ligne],
+thèse, droit, université Montesquieu-Bordeaux IV, 2012, p. 88, [consulté
+le 20 janvier 2017].
+
+LESTRADE Éric, *Les principes directeurs du procès dans la jurisprudence
+du Conseil Constitutionnel* [en ligne], thèse, droit, université
+Montesquieu-Bordeaux IV, 2013, p. 105-120 et 178, [consulté le 9 janvier
+2017].
+
+Notes
+~~~~~
+
+Les URL du site *theses.fr*, portail de diffusion de l’ensemble des
+thèses numériques en France, sont uniques et pérennes.
+
+Notes CSL
+~~~~~~~~~
+
+-  Mentionner obligatoirement le nombre de pages, l'absence du nombre de
+   pages est le critère d'affichage pour la mention ``[microfiche]`` -
+   voir *infra*.
+
+Citer des travaux universitaires microfichés (thèses et mémoires)
+-----------------------------------------------------------------
+
+Modèle pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Nom du docteur [NOM Prénom], *Titre, complément du titre* [microfiche],
+nom du/des directeur(s) [Nom Prénom (dir.)], intitulé du diplôme,
+discipline, nom de l’université, année.
+
+Modèle pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Nom du docteur [NOM Prénom], *Titre* [microfiche], intitulé du diplôme,
+discipline, nom de l’université, année.
+
+Exemples pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+SAINT-PAU Jean-Christophe, *L’anonymat et le droit* [microfiche], Conte
+Philippe (dir.), thèse de doctorat, droit, université
+Montesquieu-Bordeaux IV, 1998.
+
+`Exemple 26KXBI64 dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/26KXBI64>`__
+
+MAUBLANC Jean-Pierre, *L’interprétation de la loi fiscale par le juge de
+l’impôt* [microfiche], Lamarque Jean (dir.), thèse de doctorat, droit,
+université de Bordeaux I, 1984.
+
+`Exemple VQVZW3CU dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/VQVZW3CU>`__
+
+Exemples pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+SAINT-PAU Jean-Christophe, *L’anonymat et le droit* [microfiche], thèse
+de doctorat, droit, université Montesquieu-Bordeaux IV, 1998.
+
+MAUBLANC Jean-Pierre, *L’interprétation de la loi fiscale par le juge de
+l’impôt* [microfiche], thèse de doctorat, droit, université de Bordeaux
+I, 1984.
+
+Note
+~~~~
+
+Pas de mention de la pagination.
+
+Note CSL
+~~~~~~~~
+
+-  Ne pas mentionner le nombre de pages ni d'URL, l'absence du nombre de
+   pages ET l'absence d'URL sont les critère d'affichage pour la mention
+   ``[microfiche]``.
+
+Citer des contributions à un ouvrage (articles de mélanges, d’ouvrage collectif…)
+---------------------------------------------------------------------------------
+
+Modèles pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Contributeur [NOM Prénom], « Titre de la contribution, complément du
+titre », in responsabilité du document principal [Nom Prénom (éd.)],
+*Titre du document principal*, édition, ville d’édition, éditeur, année
+d’édition, pages de la contribution [p. X-X].
+
+Modèles pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Contributeur [NOM Prénom], « Titre de la contribution », in *Titre du
+document principal*, éditeur, année d’édition, numéro des pages
+concernées.
+
+Exemple pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+BOIS DE GAUDUSSON Jean (du), « Réflexions sur les nouveaux
+développements du constitutionalisme en Afrique », in Aubin Gérard
+(éd.), *Liber amicorum, études offertes à Pierre Jaubert*, Talence,
+Presses universitaires de Bordeaux, 1992, p. 179-187.
+
+`Exemple N8ZRTXUF dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/N8ZRTXUF>`__
+
+Exemple pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+BOIS DE GAUDUSSON Jean (du), « Réflexions sur les nouveaux
+développements du constitutionalisme en Afrique », in *Mélanges
+Jaubert*, Presses universitaires de Bordeaux, 1992.
+
+.. raw:: html
+
+   <!--ajouter spécifications mélange-->
+
+Citer un article de revue imprimée
+----------------------------------
+
+Modèle pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM prénom], « Titre de l’article, complément du titre », *Titre
+de la revue*, partie, mois année, numéro, pagination globale.
+
+Modèle pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM prénom], « Titre de l’article », *Titre de la revue abrégé*,
+partie, année, numéro de paragraphe ou des pages concernées.
+
+Exemples pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HAUSER Jean, « Le préjudice d’être né, question de principe », *Droit et
+patrimoine*, janvier 2001, n° 89, p. 6-8.
+
+`Exemple M327JFZG dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/M327JFZG>`__
+
+GOGOS-GINTRAND Amélie, « Le pacte commissoire : une institution
+dangereuse par nature », *Revue de la recherche juridique. Droit
+prospectif*, septembre 2011, n° 1, p. 401-422.
+
+`Exemple TUM2L65L dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/TUM2L65L>`__
+
+Exemples pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HAUSER Jean, « Le préjudice d’être né, question de principe », *Droit et
+pat.*, 2001, p. 7.
+
+GOGOS-GINTRAND Amélie, « Le pacte commissoire : une institution
+dangereuse par nature », *Rev. rech. jurid., droit prospect.*, 2011, p.
+403.
+
+Note
+~~~~
+
+NB : on se réfèrera utilement à la façon dont chaque revue prescrit de
+référencer ses contenus, ainsi que l’abréviation recommandée par la
+revue. Par défaut, une liste des abréviations recommandées figure en
+annexe de ce document.
+
+Note CSL
+~~~~~~~~
+
+-  On renseignera la mention de partie dans le champ ``Volume`` de la
+   notice Zotero.
+
+`Exemple RI3TNQIV dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/RI3TNQIV>`__
+
+Citer un article de revue numérique
+-----------------------------------
+
+Modèles pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM prénom], « Titre de l’article, complément du titre » [en
+ligne], *Titre de la revue*, partie, mois année, numéro, pagination
+globale, [consulté le JJ mois AAAA]. URL
+
+Modèles pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM prénom], « Titre de l’article » [en ligne], *Titre de la
+revue abrégé*, partie, année, numéro de paragraphe ou des pages
+concernées, [consulté le JJ mois AAAA].
+
+Note CSL 
+~~~~~~~~~
+
+Par défaut, Zotero ignore les champs ``URL`` et ``Consulté le``
+lorsqu'une **pagination** est renseignée. Ainsi, afin que la date de
+consultation et l'URL soient bien affichées, vous devez activer l'option
+"Inclure les adresses URL des articles de journaux dans les références"
+depuis le gestionnaire de styles Zotero. La procédure est détaillée dans
+la `page "Citer" de la documentation
+Zotero <https://www.zotero.org/support/fr/preferences/cite>`__.
+
+Exemples pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DAUGAREILH Isabelle, « L’audace retenue du Comité européen des droits
+sociaux » [en ligne], *Revue de droit sanitaire et social*, juillet
+2005, n° 4, p. 555-564, [consulté le 16 mars 2017]. http://www.dalloz.fr
+
+`Exemple 59CX6YJL dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/59CX6YJL>`__
+
+DUPRAT Jean-Pierre, « Le parlement évaluateur » [en ligne], *Revue
+internationale de droit comparé*, avril 1998, n° 2, p. 552-576,
+[consulté le 16 mars 2017]. http://www.persee.fr
+
+`Exemple 9CRLLBQP dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/9CRLLBQP>`__
+
+Exemples pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DAUGAREILH Isabelle, « L’audace retenue du Comité européen des droits
+sociaux » [en ligne], *RDSS*, 2005, p. 556, [consulté le 16 mars 2017].
+
+DUPRAT Jean-Pierre, « Le parlement évaluateur » [en ligne], *RIDC*,
+1998, p. 555, [consulté le 16 mars 2017].
+
+Citer un article de presse ou de magazine imprimé
+-------------------------------------------------
+
+.. raw:: html
+
+   <!-- découper presse et magazine -->
+
+-  jour = si applicable = pour les articles de journal et non de
+   magazine
+-  on n'abrège pas les titres de journal ni de magazine
+
+Modèle pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM prénom], « Titre de l’article, complément du titre », *Titre
+du journal ou du magazine*, JJ mois AAAA, numéro, pagination globale.
+
+Modèle pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM prénom], « Titre de l’article », *Titre du journal ou du
+magazine*, JJ mois AAAA, numéro de paragraphe ou des pages concernées.
+
+Exemples pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DUCOURTIEUX Cécile, « État de droit : l'UE incapable de sanctionner
+Budapest et Varsovie », *Le Monde*, 20 septembre 2018, p. 3.
+
+`Exemple RSBZ3Y9L dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/RSBZ3Y9L>`__
+
+DAVERAT Xavier, « Un arrêt de la CJUE ouvre la porte à la création d'un
+nouveau droit voisin », *Les Petites Affiches*, 22 décembre 2016, n°
+255, p. 13.
+
+[Exemple 2STBMD26 dans la bib Zotero de
+groupe]https://www.zotero.org/groups/2190104/items/2STBMD26
+
+Exemples pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DUCOURTIEUX Cécile, « État de droit : l'UE incapable de sanctionner
+Budapest et Varsovie », *Le Monde*, 20 septembre 2018.
+
+DAVERAT Xavier, « Un arrêt de la CJUE ouvre la porte à la création d'un
+nouveau droit voisin », *Les Petites Affiches*, 22 décembre 2016.
+
+Citer un article de presse ou de magazine numérique
+---------------------------------------------------
+
+Modèles pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM prénom], « Titre de l’article, complément du titre » [en
+ligne], *Titre du journal ou du magazine*, JJ mois AAAA, numéro,
+pagination globale, [consulté le JJ mois AAAA]. URL
+
+Modèles pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM prénom], « Titre de l’article » [en ligne], *Titre du
+journal ou du magazine*, JJ mois AAAA, numéro de paragraphe ou des pages
+concernées, [consulté le JJ mois AAAA].
+
+Exemples pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DUCOURTIEUX Cécile, « État de droit : l'UE incapable de sanctionner
+Budapest et Varsovie » [en ligne], *Le Monde*, 19 septembre 2018,
+[consulté le 26 septembre 2018].
+https://www.lemonde.fr/europe/article/2018/09/19/etat-de-droit-une-procedure-article-7-symbolique-mais-quasi-inapplicable\_5357222\_3214.html
+
+[Exemple 8Y3QA4YK dans la bib Zotero de
+groupe]https://www.zotero.org/groups/2190104/items/8Y3QA4YK
+
+DAVERAT Xavier, « Un arrêt de la CJUE ouvre la porte à la création d'un
+nouveau droit voisin » [en ligne], *Les Petites Affiches*, 22 décembre
+2016, n° 255, p. 13 [consulté le 26 septembre 2018].
+https://www-lextenso-fr.docelec.u-bordeaux.fr/petites-affiches/LPA121r1
+
+[Exemple 5X4XHJ94 dans la bib Zotero de
+groupe]https://www.zotero.org/groups/2190104/items/5X4XHJ94
+
+Exemples pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DUCOURTIEUX Cécile, « État de droit : l'UE incapable de sanctionner
+Budapest et Varsovie » [en ligne], *Le Monde*, 19 septembre 2018,
+[consulté le 26 septembre 2018].
+
+DAVERAT Xavier, « Un arrêt de la CJUE ouvre la porte à la création d'un
+nouveau droit voisin » [en ligne], *Les Petites Affiches*, 22 décembre
+2016, [consulté le 26 septembre 2018].
+
+Citer les actes publiés d’un colloque
+-------------------------------------
+
+Modèle pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Responsabilité du colloque [NOM prénom (dir.)], *Titre du colloque*,
+lieu d’édition, éditeur, année, pagination globale.
+
+Modèle pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Responsabilité du colloque [NOM prénom (dir.)], *Titre du colloque*,
+éditeur, année, numéro des pages concernées.
+
+Exemples pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+BONIS-GARÇON Évelyne (dir.), *Pour une refonte du droit des peines:
+quels changements si les préconisations de la Commission Cotte étaient
+suivies ?*, Paris, LexisNexis, 2016, 226 p.
+
+`Exemple JZSAUCG7 dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/JZSAUCG7>`__
+
+ALLINNE Jean-Pierre et SOULA Mathieu (dir.), *La mort pénale : les
+enjeux historiques et contemporains de la peine de mort*, Rennes,
+Presses Universitaires de Rennes, 2015, 208 p.
+
+`Exemple 4NKQTQRQ dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/4NKQTQRQ>`__
+
+SOCIÉTÉ FRANÇAISE POUR LE DROIT INTERNATIONAL (dir.), *Droit
+international et droit communautaire, perspectives actuelles*, Paris,
+Pedone, 2000, 448 p.
+
+`Exemple KBMA75AS dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/KBMA75AS>`__
+
+CENTRE D’ÉTUDES ET DE RECHERCHES SUR LE DROIT DE LA MER (dir.),
+*L'immobilisation forcée des navires*, Talence, Presses Universitaires
+de Bordeaux, 1990, 175 p.
+
+`Exemple 47NCZPCL dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/47NCZPCL>`__
+
+Exemples pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+BONIS-GARÇON Évelyne (dir.), *Pour une refonte du droit des peines:
+quels changements si les préconisations de la Commission Cotte étaient
+suivies ?*, LexisNexis, 2016, p. 14.
+
+ALLINNE Jean-Pierre et SOULA Mathieu (dir.), *La mort pénale : les
+enjeux historiques et contemporains de la peine de mort*, Presses
+Universitaires de Rennes, 2015, p. 150.
+
+SOCIÉTÉ FRANÇAISE POUR LE DROIT INTERNATIONAL (dir.), *Droit
+international et droit communautaire, perspectives actuelles*, Pedone,
+2000, p. 37.
+
+CENTRE D’ÉTUDES ET DE RECHERCHES SUR LE DROIT DE LA MER
+(dir.),*L'immobilisation forcée des navires*, Presses Universitaires de
+Bordeaux, 1990, p. 3.
+
+Citer une contribution parmi les actes publiés d’un colloque
+------------------------------------------------------------
+
+Modèle pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM prénom], Titre de la contribution, in Responsabilité du
+colloque [NOM prénom (dir.)], *Titre du colloque*, lieu d’édition,
+éditeur, année, pagination globale.
+
+Modèle pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. raw:: html
+
+   <!--NB modèle et exemples modifiés = ajout éditeur-->
+
+Auteur [NOM prénom], Titre de la contribution, in Responsabilité du
+colloque [NOM prénom (dir.)], *Titre du colloque*, éditeur, année,
+numéro des pages concernées.
+
+Exemples pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MALABAT Valérie, Simplifier mais comment ?, in BONIS-GARÇON Évelyne
+(dir.), *Pour une refonte du droit des peines : quels changements si les
+préconisations de la Commission Cotte étaient suivies ?*, Paris,
+LexisNexis, 2016, p. 89-93.
+
+`Exemple L9EMWHDG dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/L9EMWHDG>`__
+
+GAUTRON Jean-Claude et GRARD Loïc, Le droit international dans la
+construction de l’Union européenne, in SOCIÉTÉ FRANÇAISE POUR LE DROIT
+INTERNATIONAL (dir.), *Droit international et droit communautaire,
+perspectives actuelles*, Paris, Pedone, 2000, p. 11-152.
+
+`Exemple HBL825EX dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/HBL825EX>`__
+
+Exemples pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MALABAT Valérie, Simplifier mais comment ?, in BONIS-GARÇON Évelyne
+(dir.), *Pour une refonte du droit des peines : quels changements si les
+préconisations de la Commission Cotte étaient suivies ?*, 2016, p. 90.
+
+GAUTRON Jean-Claude et GRARD Loïc, Le droit international dans la
+construction de l’Union européenne, in SOCIÉTÉ FRANÇAISE POUR LE DROIT
+INTERNATIONAL (dir.), *Droit international et droit communautaire,
+perspectives actuelles*, 2000, p. 57.
+
+-  
+
+Citer une norme juridique
+-------------------------
+
+Modèle pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PAYS, AUTEUR, *Intitulé de la norme*, Journal Officiel / Bulletin
+Officiel, n° XXX, date de publication, page de départ, numéro NOR.
+
+Modèle pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PAYS, AUTEUR, *Intitulé de la norme*, Journal Officiel / Bulletin
+Officiel, n° XXX, date de publication.
+
+Exemples pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+FRANCE, MINISTÈRE DE L’ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE,
+*Décret n° 2013-805 du 3 septembre 2013 portant création de l’Université
+de Bordeaux*, Journal officiel, n° 206, 5 septembre 2013, p. 15020,
+ESRS1317830D.
+
+`Exemple AU2GMBDG dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/AU2GMBDG>`__
+
+FRANCE, MINISTÈRE DE L’ÉDUCATION NATIONALE, *Décret du 13 juillet 1949
+approuvant une délibération du conseil de l’université de Bordeaux
+portant création à Fort-de-France d’un institut d’études juridiques,
+politiques et économiques de cette université*, Journal officiel, 16
+juillet 1949, p. 6921.
+
+`Exemple FSMT6V8I dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/FSMT6V8I>`__
+
+Exemples pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+FRANCE, MINISTÈRE DE L’ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE,
+*Décret n° 2013-805 du 3 septembre 2013 portant création de l’Université
+de Bordeaux*, Journal officiel, n°206, 5 septembre 2013.
+
+MINISTÈRE DE L’ÉDUCATION NATIONALE, *Décret du 13 juillet 1949
+approuvant une délibération du conseil de l’université de Bordeaux
+portant création à Fort-de-France d’un institut d’études juridiques,
+politiques et économiques de cette université*, Journal officiel, 16
+juillet 1949.
+
+Note
+~~~~
+
+NB : le pays n’est indiqué que s’il est utile pour différencier des
+institutions de pays différents (par ex. BELGIQUE, CONSEIL D’ÉTAT et
+FRANCE, CONSEIL D’ÉTAT). Si le pays est systématiquement absent, il
+sous-entend donc la nationalité française des institutions concernées.
+
+Note CSL
+~~~~~~~~
+
+Se référer aux modèles dans la bibliothèque Zotero ; le champ "Pays"
+n'est prévu ni par CSL ni par Zotero, aussi le champ
+``Corps législatif`` est-il utilisé pour renseigner le pays.
+
+Citer un site en ligne, un blogue
+---------------------------------
+
+Modèle pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+AUTEUR, *Titre de la page d'accueil, complément du titre* [en ligne],
+[consulté le JJ mois AAAA]. URL
+
+Modèle pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+AUTEUR, *Titre de la page d'accueil* [en ligne], [consulté le JJ mois
+AAAA].
+
+Exemples pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MAÎTRE ÉOLAS, *Journal d’un avocat : Instantanés de la justice et du
+droit* [en ligne], [consulté le 5 octobre 2014].
+http://www.maitre-eolas.fr
+
+`Exemple C3DARG2J dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/C3DARG2J>`__
+
+GROUPE D’INFORMATION ET DE SOUTIEN DES IMMIGRÉ.E.S, *Gisti* [en ligne],
+[consulté le 5 octobre 2014]. http://www.gisti.org
+
+`Exemple IXTT3BIR dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/IXTT3BIR>`__
+
+Exemples pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MAÎTRE ÉOLAS, *Journal d’un avocat* [en ligne], [consulté le 5 octobre
+2014].
+
+GROUPE D’INFORMATION ET DE SOUTIEN DES IMMIGRÉ.E.S, *Gisti* [en ligne],
+[consulté le 5 octobre 2014].
+
+Notes CSL
+~~~~~~~~~
+
+-  Type = page web
+-  Laisser les champs ``Titre`` et ``Date`` vides
+
+Citer un article ou une page d’un site en ligne, un blogue
+----------------------------------------------------------
+
+Modèles pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+AUTEUR, « Titre de l’article ou de la page », sur *Titre de la page
+d'accueil* [en ligne], publié le JJ mois AAAA, [consulté le JJ mois
+AAAA]. URL
+
+Modèles pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+AUTEUR, « Titre de l’article ou de la page », sur *Titre de la page
+d'accueil* [en ligne], publié le JJ mois AAAA, [consulté le JJ mois
+AAAA].
+
+Exemples pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MAÎTRE ÉOLAS, « Pour en finir avec la séparation des pouvoirs », sur
+*Journal d’un avocat : Instantanés de la justice et du droit* [en
+ligne], publié le 21 février 2017, [consulté le 21 mars 2017].
+http://www.maitre-eolas.fr](http://www.maitre-eolas.fr)
+
+`Exemple SWMIJKGL dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/SWMIJKGL>`__
+
+GROUPE D’INFORMATION ET DE SOUTIEN DES IMMIGRÉ.E.S, « Pour en finir avec
+le délit de solidarité », sur *Gisti* [en ligne], publié le 12 janvier
+2017, [consulté le 21 mars 2017].
+https://www.gisti.org/spip.php?article5605
+
+`Exemple I6MKTFB5 dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/I6MKTFB5>`__
+
+Exemples pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MAÎTRE ÉOLAS, « Pour en finir avec la séparation des pouvoirs », sur
+*Journal d’un avocat : Instantanés de la justice et du droit*\ [en
+ligne], publié le 21 février 2017, [consulté le 21 mars 2017].
+
+GROUPE D’INFORMATION ET DE SOUTIEN DES IMMIGRÉ.E.S, « Pour en finir avec
+le délit de solidarité », sur *Gisti* [en ligne], publié le 12 janvier
+2017, [consulté le 21 mars 2017].
+
+Note
+~~~~
+
+Pour les sites d’institutions, le nom de la page d’accueil du site sera
+souvent le même que celui de l’institution.
+
+Citer un brevet
+---------------
+
+Modèle pour la bibliographie et pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Brevet [nationalité] n° XXX, *Titre du brevet*, date complète de
+publication du brevet déposé.
+
+Exemples pour la bibliographie et pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Brevet américain n° US D709251 S, *Set of hamster wheels*, 15 juillet
+2014.
+
+`Exemple 2E5RLHFY dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/2E5RLHFY>`__
+
+Brevet américain n° US Des. 430708, *Playground for small animal such as
+hamster* , 5 septembre 2000.
+
+`Exemple UXCQVZRT dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/UXCQVZRT>`__
+
+Brevet européen n° EP3155925, *Boîtier d’attache sucette*, 19 avril
+2017.
+
+`Exemple 3WQ3VFVJ dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/3WQ3VFVJ>`__
+
+Note CSL
+~~~~~~~~
+
+Veiller à bien respecter le modèle fourni dans la bibliothèque ; tous
+les champs Zotero n'ont pas de variable équivalente en CSL, ce qui a
+contraint à des adaptations.
+
+Citer un courriel
+-----------------
+
+Modèle pour la liste des ressources et les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM Prénom], *Sujet du courriel* [courriel], date de l’envoi [JJ
+mois AAAA].
+
+Exemple pour la liste des ressources et les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+HOURQUEBIE Fabrice, *Re: Guide de la rédaction biblio : projet confirmé*
+[courriel], 9 novembre 2016.
+
+`Exemple RYNNPNIP dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/RYNNPNIP>`__
+
+Note
+~~~~
+
+Ce type de références rejoint préférentiellement la liste des ressources
+utilisées, plutôt que la bibliographie.
+
+Note CSL 
+~~~~~~~~~
+
+-  Le style est paramétré pour générer automatiquement une liste des
+   ressources à la suite de la bibliographie ; il conviendra d'ajouter
+   un saut de page, un intertitre ou autre lorsque le document sera
+   entièrement finalisé et que la bibliographie ne sera plus mise à jour
+   (sinon il faudra recommencer après chaque mise à jour...).
+
+Citer une contribution à une liste de diffusion
+-----------------------------------------------
+
+Modèle pour la liste des ressources
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM Prénom], *Sujet du courriel* [courriel], sur [*Nom de la
+liste de diffusion ou du forum*], date de l’envoi [JJ mois AAAA],
+[consulté le JJ mois AAAA]. URL
+
+Modèle pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM Prénom], *Sujet du courriel* [courriel], sur [*Nom de la
+liste de diffusion ou du forum*], date de l’envoi [JJ mois AAAA],
+[consulté le JJ mois AAAA].
+
+Exemple pour la liste des ressources
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+GASNAULT Jean, *Quel logiciel de veille pour une direction juridique ?*
+[courriel], sur *Jurisconnexion*, 5 juin 2017, [consulté le 6 juin
+2017].
+https://fr.groups.yahoo.com/neo/groups/juriconnexion/conversations/messages
+
+`Exemple VHQTPB6X dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/VHQTPB6X>`__
+
+Exemple pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+GASNAULT Jean, *Quel logiciel de veille pour une direction juridique ?*
+[courriel], sur *Jurisconnexion*, 5 juin 2017, [consulté le 6 juin
+2017].
+
+Note
+~~~~
+
+ce type de références rejoint préférentiellement la liste des ressources
+utilisées, plutôt que la bibliographie.
+
+Note CSL
+~~~~~~~~
+
+Le style est paramétré pour générer automatiquement une liste des
+ressources à la suite de la bibliographie ; il conviendra d'ajouter un
+saut de page, un intertitre ou autre lorsque le document sera
+entièrement finalisé et que la bibliographie ne sera plus mise à jpour
+(sinon il faudra recommencer après chaque mise à jour...).
+
+Citer un entretien oral
+-----------------------
+
+Modèle pour la liste des ressources
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Personne interrogée [NOM Prénom], *Titre ou sujet de l’entretien*
+[entretien] mené par Nom Prénom, lieu, date [JJ mois AAAA],
+éventuellement pagination de la transcription si elle est jointe en
+annexe au travail de recherche.
+
+Modèle pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Personne interrogée [NOM Prénom], *Titre ou sujet de l’entretien*
+[entretien] mené par Nom Prénom, lieu, date [JJ mois AAAA].
+
+Exemple pour la liste des ressources
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+GRANGER Sabrina, *Modalités de publication d’un guide bibliographique*
+[entretien] mené par Gravier Pierre, Pessac, 13 novembre 2016.
+
+`Exemple Z7FAZSL6 dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/Z7FAZSL6>`__
+
+Exemple pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+GRANGER Sabrina, *Modalités de publication d’un guide bibliographique*
+[entretien] mené par Gravier Pierre, Pessac, 13 novembre 2016.
+
+Note
+~~~~
+
+Ce type de références rejoint préférentiellement la liste des ressources
+utilisées, plutôt que la bibliographie.
+
+Note CSL
+~~~~~~~~
+
+-  Le style est paramétré pour générer automatiquement une liste des
+   ressources à la suite de la bibliographie ; il conviendra d'ajouter
+   un saut de page, un intertitre ou autre lorsque le document sera
+   entièrement finalisé et que la bibliographie ne sera plus mise à
+   jpour (sinon il faudra recommencer après chaque mise à jour...).
+-  Veiller à bien respecter le modèle fourni dans la bibliothèque ;
+   Zotero ne prévoit pas de champ ``Lieu`` pour les entretiens oraux, ce
+   qui a contraint à quelques adaptations. Il faut ainsi saisir le lieu
+   dans le champ ``Loc. dans l'archive``.
+-  La pagination de la transcription est reportée dans le champ ``Cote``
+
+Recommandations particulières
+=============================
+
+Citation de documents en langue étrangère
+-----------------------------------------
+
+Si un texte en langue étrangère doit être cité, il est plus approprié de
+le traduire, même pour l’anglais et même s’il est supposé que le
+lectorat comprend l’anglais. On recherche alors l’œuvre traduite pour la
+citer. À défaut, notamment pour les articles, on effectue la traduction
+en terminant la citation par [nous traduisons] et en donnant la version
+originale du texte en note de bas de page, notamment si la formulation
+en langue étrangère a de l’importance (concept propre à une langue,
+concept différent en français...).
+
+Note CSL
+~~~~~~~~
+
+La mention [nous traduisons] doit être insérée en tant que suffixe à la
+référence bibliographique dans la boîte de dialogue de l'extension de
+traitement de texte Zotero.
+
+Cas particuliers concernant les auteurs
+---------------------------------------
+
+Les noms des auteurs seront séparés par des virgules, sauf le nom des
+deux derniers qui sont séparés par « et ». On mentionnera un maximum de
+trois auteurs pour un document donné. Pour un plus grand nombre
+d’auteurs, le nom du troisième est suivi de « \ *et al.* » :
+
+    DALLOZ Édouard, VERGÉ Charles, VERGÉ Charles fils *et al.*, *Code
+    des lois politiques et administratives*, tome 2, Bureau de la
+    Jurisprudence Générale, 1891, 1432 p.
+
+On respecte habituellement l’ordre des auteurs tel qu’indiqué sur la
+page de titre, de haut en bas puis de gauche à droite. Un auteur, dont
+l’omission nuirait à la bonne compréhension de la référence ou de son
+choix, peut exceptionnellement être placé en quatrième position avant la
+mention « \ *et al.* ».
+
+Les civilités (madame, monsieur…), qualités ou titres (professeur,
+docteur, conseiller d’État, avocat…) ne sont pas mentionnées en
+complément du nom.
+
+Les responsabilités secondaires (traducteur, préfacier, éditeur
+scientifique…) ne sont mentionnées que lorsqu’elles apportent une
+information particulière sur le document exploité. Elles sont alors
+mentionnées à leur place indiquée dans les modèles, après le titre, en
+abrégé.
+
+Note CSL
+~~~~~~~~
+
+Le style gère l'affichage automatique de la mention « \ *et al.* » en
+fonction du nombre d'auteur.
+
+Il n'est en revanche pas possible de paramétrer l'affichage sporadique
+d'un auteur en quatrième position.
+
+Cas particuliers concernant les titres
+--------------------------------------
+
+La fin des titres ou sous-titre d’une longueur excessive peut être
+abrégée par […].
+
+Note CSL
+========
+
+Un titre abrégé suivi de la mention […] sera saisi dans le champ
+``Titre abrégé`` et affiché seulement en note de bas de page. En
+bibliographie, le titre complet saisi dans le champ ``Titre`` est
+toujours affiché
+
+Cas particuliers concernant les éditions
+----------------------------------------
+
+La mention de l’édition est réduite au minimum, en employant des
+chiffres arabes : « XIIe édition revue et corrigée » devient dans les
+références bibliographiques : « 12e éd. ».
+
+Cas particuliers concernant la publication
+------------------------------------------
+
+La page de titre peut mentionner plusieurs éditeurs et plusieurs villes
+de publication. On ne cite alors qu’un seul éditeur et sa ville, en
+retenant de manière privilégiée l’éditeur français et la ville qui lui
+est liée.
+
+Pour la date de publication, on retient par ordre de préférence :
+
+-  la date de publication mentionnée sur la page de titre,
+-  la date de dépôt légal (parfois précédée de « DL ») mentionnée au
+   verso de la page de titre ou dans les dernières pages du document,
+-  la date de copyright souvent précédée de © et souvent mentionnée au
+   verso de la page de titre,
+-  la date d’impression souvent mentionnée dans les toutes dernières
+   pages du document.
+
+Si ces informations manquent, on notera à leur place :
+
+-  pas de lieu identifiable (sans lieu) : [s.l.],
+-  pas d’éditeur identifiable (sans nom) : [s.n.],
+-  pas de date identifiable (sans date) : [s.d.].
+
+Si un de ces éléments peut être deviné, on le mentionnera entre
+crochets : [Paris], Dalloz, 1959. Pour résoudre ces difficultés, les
+catalogues de bibliothèques restituent ces informations de manière
+validée et structurée.
+
+Note CSL
+~~~~~~~~
+
+Les mentions [s.l.], [s.n.] et [s.d.] sont générées automatiquement par
+Zotero lorsque les champs correspondants ne sont pas renseignés, et pour
+les types de document pour lesquelles ces mentions sont applicables, *i.
+e.* :
+
+-  les ouvrages,
+-  les chapitres,
+-  les contributions à un colloque.
+
+Cas particuliers concernant la pagination
+-----------------------------------------
+
+En bibliographie, pour un livre ou une thèse, on mentionne la pagination
+totale du document, en se référant simplement à la dernière page
+numérotée du document. L’abréviation de « pages » est placée après leur
+nombre (347 p.). Pour un article ou une contribution à un ouvrage
+collectif, on mentionne la tranche de pages concernée et l’abréviation
+de « pages » est placée avant cette indication (p. 47-58).
+
+En note de bas de page, on mentionne les pages concernées par la
+citation. L’abréviation de « pages » est placée avant la page ou la
+tranche concernée (p. 49). On peut employer les abréviations suivantes :
+
+-  p. 8-12 = Pages 8 à 12
+-  p. 8 ; 12 = Pages 8 et 12
+-  p. 47 s. = Page 47 et suivantes
+-  p. 47 spéc. = Spécialement page 47
+-  *passim* = En différents endroits du document, qu’on choisit de ne
+   pas lister
+
+Note CSL
+~~~~~~~~
+
+En bibliographie comme en note de bas de page, l'abréviation de "pages"
+est générée automatiquement par Zotero.
+
+Pour les mentions de page, on utilisera le champ ``locator`` dans la
+boîte de dialogue de l'extension de traitement de texte Zotero, en
+veillant à sélectionner le type adéquat (page, paragraphe, etc.) afin de
+générer l'abréviation adéquate. On ne peut pas intégrer de texte avant
+l'abréviation, aussi restituer ``spéc. p. 47`` ne sera pas possible. On
+pourrait en revanche générer ``p. 47 spéc.`` en saisissant ``47 spéc.``
+dans le champ ``locator``.
+
+Pour la mention *passim*, on veillera à effectuer la saisie dans le
+champ ``Suffixe`` de la boîte de dialogue de l'extension de traitement
+de texte Zotero, sous la forme suivante :
+
+::
+
+    , <i>passim</i>
+
+Utilisation des termes latins de renvoi
+---------------------------------------
+
+Les termes latins qui suivent renvoient toujours, soit à l’auteur cité
+précédemment, soit à l’œuvre citée précédemment. Leur emploi
+s’accompagne donc d’une grande vigilance, notamment quand plusieurs de
+ces termes se succèdent.
+
+*Idem*, abrégé en *Id.*, signifie « le même ». Cette abréviation est
+employée pour indiquer qu’il s’agit du même auteur que pour la citation
+précédente.
+
+    BARCKHAUSEN Henri, *Essai sur le régime législatif de Bordeaux au
+    Moyen-âge*, Bordeaux, Gounouilhou, 1890, 34 p.
+
+    Id., *Rapport de la commission de la Faculté sur le projet de
+    réorganisation de la Licence en droit*, Bordeaux, Cadoret, 1889, 11
+    p.
+
+*Ibidem*, abrégé en *ibid.*, signifie « au même endroit ». Cette
+abréviation est employée pour indiquer qu’il s’agit du même auteur ET de
+la même œuvre que pour la citation précédente. Sans mention particulière
+de page, il s’agit également de la même page. Avec mention d’une page,
+il s’agit d’une page différente.
+
+    BENZACAR Joseph, *Fondements juridiques de la délimitation du cru
+    bordelais : l'appellation et la marque « Bordeaux »*, Bordeaux,
+    discours, 1910, p. 3.
+
+    *Ibid.*
+
+    *Ibid.*, p. 7.
+
+*Loco citato*, abrégé en *loc. cit.*, signifie « passage cité ». Cette
+abréviation est employée pour indiquer qu’il s’agit du même auteur ET de
+la même œuvre ET de la même page que pour la citation précédente[^6].
+
+*Opere citato*, abrégé en *op. cit.*, signifie « œuvre citée ». Cette
+abréviation est employée pour indiquer qu’il s’agit de la dernière œuvre
+citée de cet auteur.
+
+    TRAISSAC Élisabeth, Un projet de ville dans le Médoc au XVIIIe
+    siècle, *Bulletin et mémoires de la Société archéologique de
+    Bordeaux*, 1972, tome LXVI, p. 167-175.
+
+    BEDEL Vanina, *La maréchaussée dans la généralité de Guyenne au
+    XVIIIème siècle (1720-1790)*, Guyon Gérard (dir.), thèse de
+    doctorat, droit, Université Montesquieu-Bordeaux IV, p. 201.
+
+    TRAISSAC Élisabeth, *op. cit.*
+
+Au fur et à mesure de la rédaction du document et de ses réécritures, la
+manière dont un terme latin renvoie à la précédente citation peut être
+modifiée. Toute insertion de citation dans une partie de document déjà
+rédigée doit conduire à vérifier que la nouvelle citation ne s’intercale
+pas entre un terme latin de renvoi et sa citation de référence.
+
+Notes CSL
+~~~~~~~~~
+
+-  Le style génère automatiquement les termes de renvoi, à l'exception
+   de *Loco citato*, qui correspond au même cas que *Ibidem*. Au lieu de
+   *loc. cit.* sera affiché *Ibid.*
+-  Le terme de renvoi *op. cit.* est généré automatiquement lorsque la
+   référence citée n'est pas distante de plus de **7** notes de la
+   dernière occurrence ce cette référence.
+-  L'abréviation "Id." pour remplacer les auteurs est générée uniquement
+   en bibliographie et non en note de bas de page. Elle est affichée
+   lorsque **tous les auteurs** de la référence bibliographique
+   précédente sont exactement identiques à **tous les auteurs** de la
+   référence considérée. La liste entière des noms, y compris les termes
+   tels que "et" ou "et al.", est alors remplacée par "Id."
+
+Abréviations conseillées – Codes
+--------------------------------
+
+La liste suivante ne peut être exhaustive, elle ne recense notamment pas
+toutes les variantes de titres portés par les codes au long de leur vie
+éditoriale et chez les différents éditeurs.
+
+Le document de recherche comprendra, avant son introduction, une liste
+des abréviations de codes utilisées.
+
+Par exception, lorsqu’un code est cité de manière habituelle, il peut
+l’être en note de bas de page avec pour seule information son
+abréviation.
+
+Cependant, lorsqu’un code étranger est cité, le pays producteur de la
+législation est cité comme auteur du document, afin de le différencier
+du code français. Ainsi :
+
+BELGIQUE, Code civil\_, 4 éd., Philippe Denis et Dehasse Delphine (éd.),
+Bruylant, Bruxelles, 2006, 428 p.
+
++-------+-----------------------------------------------------------------------+
+| Cod   | e administratif C. adm.                                               |
++=======+=======================================================================+
+| Cod   | e civil C. civ.                                                       |
++-------+-----------------------------------------------------------------------+
+| Cod   | e constitutionnel et des droits fondamentaux C. const.                |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de commerce C. com.                                                 |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de justice administrative CJA                                       |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de l’action sociale et des familles CASF                            |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de l’avocat C. avocat                                               |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de l’éducation C. éduc.                                             |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de l’énergie C. énergie                                             |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de l’entrée et du séjour des étrangers et du droit d’asile Ceseda   |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de l’environnement C. envir.                                        |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de l’organisation judiciaire COJ                                    |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de l’urbanisme C. urb.                                              |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la communication C. communic.                                    |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la consommation C. consom.                                       |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la construction et de l’habitation CCH                           |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la copropriété C. copr.                                          |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la fonction publique C. fonc. publ.                              |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la mutualité C. mut.                                             |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la nationalité C. nat.                                           |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la propriété intellectuelle CPI                                  |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la route C. route                                                |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la santé publique CSP                                            |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la sécurité sociale CSS                                          |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de procédure civile C. pr. civ.                                     |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de procédure fiscale C. pr. fisc.                                   |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de procédure pénale C. pr. pén.                                     |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des associations C. assoc.                                          |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des assurances C. assur.                                            |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des baux C. baux                                                    |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des marchés publics C. marchés pub.                                 |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des ports maritimes C. ports mar.                                   |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des postes et télécommunications C. P et T                          |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des procédures civiles d’exécution C. pr. exéc.                     |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des procédures collectives C. pr. coll.                             |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des relations entre le public et l’administration CRPA              |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des sociétés C. soc.                                                |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des transports C. trans.                                            |
++-------+-----------------------------------------------------------------------+
+| Cod   | e du sport C. sport                                                   |
++-------+-----------------------------------------------------------------------+
+| Cod   | e du tourisme C. tourisme                                             |
++-------+-----------------------------------------------------------------------+
+| Cod   | e du travail C. trav.                                                 |
++-------+-----------------------------------------------------------------------+
+| Cod   | e du vin C. vin                                                       |
++-------+-----------------------------------------------------------------------+
+| Cod   | e électoral C. élect.                                                 |
++-------+-----------------------------------------------------------------------+
+| Cod   | e forestier C. for.                                                   |
++-------+-----------------------------------------------------------------------+
+| Cod   | e général de la propriété des personnes publiques CGPPP               |
++-------+-----------------------------------------------------------------------+
+| Cod   | e général des collectivités territoriales CGCT                        |
++-------+-----------------------------------------------------------------------+
+| Cod   | e général des impôts CGI                                              |
++-------+-----------------------------------------------------------------------+
+| Cod   | e minier C. minier                                                    |
++-------+-----------------------------------------------------------------------+
+| Cod   | e monétaire et financier C. mon. fin.                                 |
++-------+-----------------------------------------------------------------------+
+| Cod   | e pénal C. pén.                                                       |
++-------+-----------------------------------------------------------------------+
+| Cod   | e rural et de la pêche maritime C. rur.                               |
++-------+-----------------------------------------------------------------------+
+| Cod   | e rurale et forestier C. rur. et for.                                 |
++-------+-----------------------------------------------------------------------+
+| Liv   | re des procédures fiscales LPF                                        |
++-------+-----------------------------------------------------------------------+
+| Nou   | veau code de procédure civile NCPC                                    |
++-------+-----------------------------------------------------------------------+
+
+Abréviations conseillées – Juridictions
+---------------------------------------
+
+Les jugements et arrêts sont cités sous la forme : Juridiction, date du
+jugement ou de l’arrêt, numéro de référence, éventuellement nom des
+parties, commentaires éventuels. Ainsi :
+
+CE, 19 mai 1933, Benjamin
+
+Soc., 26 juin 2013, n° 12-15.208
+
+Crim., 25 juin 2008, n° 07-80.261
+
+Cons. const., 16 juin 1999, n° 99-411
+
+CEDH, 7 oct. 1988, série A, n° 141-A
+
+Le document de recherche comprendra avant son introduction une liste des
+abréviations de juridictions.
+
+Lorsqu’une juridiction étrangère, portant le même nom qu’une juridiction
+française, est citée, elle est précédée du nom du pays concerné.
+
+Conseil constitutionnel Cons. Const.
+
+Conseil des prud’hommes Cons. prud. Conseil d’État CE Conseil d’État,
+assemblée du contentieux CE ass. Conseil d’État, plénière CE plén.
+Conseil d’État, section CE sect. Cour administrative d’appel CAA Cour
+d’appel [Ville] Cour d’assises C. assises Cour d’assises des mineurs C.
+assises. min. Cour de cassation Cass. Cour de cassation, première
+chambre civile 1\ :sup:`re`\ civ. Cour de cassation, deuxième chambre
+civile 2\ :sup:`e` civ. Cour de cassation, troisième chambre civile
+3\ :sup:`e` civ. Cour de cassation, chambre commerciale Com. Cour de
+cassation, chambre sociale Soc. Cour de cassation, chambre criminelle
+Crim. Cour de cassation, chambre des requêtes Req. Cour de cassation,
+chambre mixte Ch. mixte Cour de cassation, chambre réunies Ch. réun.
+Cour de cassation, assemblée plénière Ass. plén. Cour de discipline
+budgétaire et financière CDBF Cour de justice de l’Union européenne CJUE
+Cour de justice de la Communauté européenne CJCE Cour des comptes C.
+comptes Cour européenne des droits de l’homme CEDH Cour internationale
+de justice CIJ Cour permanente de justice internationale CPJI Juge de
+proximité J. prox. Tribunal administratif TA Tribunal arbitral du sport
+TAS Tribunal correctionnel T. Corr. Tribunal de commerce T. Com.
+Tribunal de grande instance TGI Tribunal de police T. Pol. Tribunal des
+affaires de Sécurité Sociale TASS Tribunal des conflits T. Confl.
+Tribunal des enfants T. enfants Tribunal d’instance TI Tribunal
+paritaire des baux ruraux TPBR
+
+Abréviations conseillées – Revues
+---------------------------------
+
+Il n’est matériellement pas possible d’établir une liste d’abréviations
+recommandées, du fait du nombre des revues juridiques et de leurs
+fréquents changements de nom, fusions, scissions, etc.
+
+Il est recommandé d’établir une liste des abréviations utilisées en
+début de document de recherche pour les revues les plus utilisées. À
+cette fin, il est recommandé de se reporter à la manière dont les revues
+préconisent de se citer elles-mêmes, en recourant à leur site et
+indications aux auteurs.
+
+Les bibliothèques universitaires de l’université Toulouse 1 Capitole
+proposent un tableau présentant les abréviations juridiques les plus
+courantes, notamment pour les revues :
+
+http://ressscd.ut-capitole.fr/scd/abrev/
+
+.. raw:: html
+
+   <!--
+   Version imprimée en 2017,
+
+   par le service imprimerie de l’université de Bordeaux, à Pessac,\
+   pour le compte de l’Urfist de Bordeaux.
+
+   ![](media/image3.png){width="1.879699256342957in"
+   height="1.2879418197725285in"}
+
+   [^1]: COLLARD Anne et MONBALLIN Michèle, *Référentiel pour l'élaboration
+       et la rédaction d'un travail scientifique en sciences humaines*,
+       3^e^ édition, Namur, Presses universitaires de Namur, 2014, p. 15.
+
+   [^2]: *Ibid*, p. 10.
+
+   [^3]: PACTEAU Bernard, Où on voit le Conseil d'État rejuger même si
+       c'est sans se déjuger, *RFDA,* 2010, n° 2, p. 297-300.
+
+   [^4]: AGUESSEAU Henri François (d'), Mercuriales, in *Œuvres complètes
+       du chancelier d'Aguesseau*, tome premier, Paris, chez les libraires
+       associés, 1759, 620 p. cité dans PACTEAU Bernard, Où on voit le
+       Conseil d'État rejuger même si c'est sans se déjuger, *RFDA*, 2010,
+       n° 2, p. 297-300.
+
+   [^5]: BALZAC Honoré (de), *Scènes de la vie privée*, tome 4, Paris,
+       Furne, 1845, p. 517.
+
+   [^6]: L’abréviation *eoc. loc.* (*eodem loco*, signifiant : au même
+       endroit) a la même valeur. -->
