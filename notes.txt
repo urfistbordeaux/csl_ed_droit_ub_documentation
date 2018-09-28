@@ -1,2 +1,537 @@
-Notes CSl globales
-=====================================================
+.. contents::
+   :depth: 3
+..
+
+Notes CSL globales
+==================
+
+Titre et complément de titre
+----------------------------
+
+Si on souhaite mentionner en note de bas de page seulement un *Titre* et
+en bibliographie un *Titre, complément du titre*, il convient de saisir
+dans la bibliothèque Zotero :
+
+-  le *Titre, complément du titre* dans le champ ``Titre``,
+-  le *Titre* dans le champ ``Titre abrégé``.
+
+`Exemple KSE9EUTP dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/KSE9EUTP>`__
+
+Titre des mélanges
+------------------
+
+On saisira selon un modèle analogue les titre des mélanges, lorsque l'on
+cite globalement le volume.
+
+-  le titre complet sera saisi dans le champ ``Titre`` et apparaîtra en
+   bibliographie,
+-  le titre abrégé du type *Mélanges XX* sera saisi dans le champ
+   ``XXX`` et apparaîtra dans les notes de bas de page.
+
+Mélange dans un volume de mélanges
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+= à faire `Exemple N8ZRTXUF dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/N8ZRTXUF>`__
+
+Mention de page, de pagination et de nombre de pages
+----------------------------------------------------
+
+La mention de la pagination (articles, chapitres, etc.) ou du nombre de
+pages (livre, thèse, etc.) est effectuée uniquement dans la
+bibliographie.
+
+Dans les notes de bas de page, on affiche seulement la mention de page
+ou de section précisée comme ``locator``. En l'absence de ``locator``,
+rien n'est affiché, *i. e.* on n'affiche pas la pagination ni le nombre
+de pages ; ces éléments sont réservés à la bibliographie.
+
+Citations de références multiples
+---------------------------------
+
+= améliorer rédaction Seule ponctuation insérée automatiquement = \` \`
+Cas du texte à insérer : préconiser préfixe et suffixe/ sauf pour notes
+longues
+https://forums.zotero.org/discussion/33069/adding-text-excerpts-to-footnotes
+et
+https://forums.zotero.org/discussion/61387/how-can-i-add-text-to-a-footnote-with-references-from-zotero
+
+Mentions ajoutées à une référence en note de bas de page (préfixe et suffixe, mention de page, de partie, etc.)
+---------------------------------------------------------------------------------------------------------------
+
+Lorsque l'on souhaite ajouter une mention à une référence
+bibliographique en note de bas de page , il convient de recourir à la
+boîte de dialogue de l'extension de traitement de texte pour ce faire.
+Cela permet d'intégrer le contenu au champ Zotero et de le conserver au
+fil des mises à jour du document.
+
+Voir la `page plugin sur le site de
+Zotero <https://www.zotero.org/support/word_processor_plugin_usage>`__
+
+Recommandations particulières
+-----------------------------
+
+Citation de documents en langue étrangère
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Si un texte en langue étrangère doit être cité, il est plus approprié de
+le traduire, même pour l’anglais et même s’il est supposé que le
+lectorat comprend l’anglais. On recherche alors l’œuvre traduite pour la
+citer. À défaut, notamment pour les articles, on effectue la traduction
+en terminant la citation par [nous traduisons] et en donnant la version
+originale du texte en note de bas de page, notamment si la formulation
+en langue étrangère a de l’importance (concept propre à une langue,
+concept différent en français...).
+
+Note CSL
+~~~~~~~~
+
+La mention [nous traduisons] doit être insérée en tant que suffixe à la
+référence bibliographique dans la boîte de dialogue de l'extension de
+traitement de texte Zotero.
+
+Cas particuliers concernant les auteurs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Les noms des auteurs seront séparés par des virgules, sauf le nom des
+deux derniers qui sont séparés par « et ». On mentionnera un maximum de
+trois auteurs pour un document donné. Pour un plus grand nombre
+d’auteurs, le nom du troisième est suivi de « \ *et al.* » :
+
+    DALLOZ Édouard, VERGÉ Charles, VERGÉ Charles fils *et al.*, *Code
+    des lois politiques et administratives*, tome 2, Bureau de la
+    Jurisprudence Générale, 1891, 1432 p.
+
+On respecte habituellement l’ordre des auteurs tel qu’indiqué sur la
+page de titre, de haut en bas puis de gauche à droite. Un auteur, dont
+l’omission nuirait à la bonne compréhension de la référence ou de son
+choix, peut exceptionnellement être placé en quatrième position avant la
+mention « \ *et al.* ».
+
+Les civilités (madame, monsieur…), qualités ou titres (professeur,
+docteur, conseiller d’État, avocat…) ne sont pas mentionnées en
+complément du nom.
+
+Les responsabilités secondaires (traducteur, préfacier, éditeur
+scientifique…) ne sont mentionnées que lorsqu’elles apportent une
+information particulière sur le document exploité. Elles sont alors
+mentionnées à leur place indiquée dans les modèles, après le titre, en
+abrégé.
+
+Note CSL
+~~~~~~~~
+
+Le style gère l'affichage automatique de la mention « \ *et al.* » en
+fonction du nombre d'auteur.
+
+Il n'est en revanche pas possible de paramétrer l'affichage sporadique
+d'un auteur en quatrième position.
+
+Cas particuliers concernant les titres
+--------------------------------------
+
+La fin des titres ou sous-titre d’une longueur excessive peut être
+abrégée par […].
+
+Note CSL
+========
+
+Un titre abrégé suivi de la mention […] sera saisi dans le champ
+``Titre abrégé`` et affiché seulement en note de bas de page. En
+bibliographie, le titre complet saisi dans le champ ``Titre`` est
+toujours affiché
+
+Cas particuliers concernant les éditions
+----------------------------------------
+
+La mention de l’édition est réduite au minimum, en employant des
+chiffres arabes : « XIIe édition revue et corrigée » devient dans les
+références bibliographiques : « 12e éd. ».
+
+Cas particuliers concernant la publication
+------------------------------------------
+
+La page de titre peut mentionner plusieurs éditeurs et plusieurs villes
+de publication. On ne cite alors qu’un seul éditeur et sa ville, en
+retenant de manière privilégiée l’éditeur français et la ville qui lui
+est liée.
+
+Pour la date de publication, on retient par ordre de préférence :
+
+-  la date de publication mentionnée sur la page de titre,
+-  la date de dépôt légal (parfois précédée de « DL ») mentionnée au
+   verso de la page de titre ou dans les dernières pages du document,
+-  la date de copyright souvent précédée de © et souvent mentionnée au
+   verso de la page de titre,
+-  la date d’impression souvent mentionnée dans les toutes dernières
+   pages du document.
+
+Si ces informations manquent, on notera à leur place :
+
+-  pas de lieu identifiable (sans lieu) : [s.l.],
+-  pas d’éditeur identifiable (sans nom) : [s.n.],
+-  pas de date identifiable (sans date) : [s.d.].
+
+Si un de ces éléments peut être deviné, on le mentionnera entre
+crochets : [Paris], Dalloz, 1959. Pour résoudre ces difficultés, les
+catalogues de bibliothèques restituent ces informations de manière
+validée et structurée.
+
+Note CSL
+~~~~~~~~
+
+Les mentions [s.l.], [s.n.] et [s.d.] sont générées automatiquement par
+Zotero lorsque les champs correspondants ne sont pas renseignés, et pour
+les types de document pour lesquelles ces mentions sont applicables, *i.
+e.* :
+
+-  les ouvrages,
+-  les chapitres,
+-  les contributions à un colloque.
+
+Cas particuliers concernant la pagination
+-----------------------------------------
+
+En bibliographie, pour un livre ou une thèse, on mentionne la pagination
+totale du document, en se référant simplement à la dernière page
+numérotée du document. L’abréviation de « pages » est placée après leur
+nombre (347 p.). Pour un article ou une contribution à un ouvrage
+collectif, on mentionne la tranche de pages concernée et l’abréviation
+de « pages » est placée avant cette indication (p. 47-58).
+
+En note de bas de page, on mentionne les pages concernées par la
+citation. L’abréviation de « pages » est placée avant la page ou la
+tranche concernée (p. 49). On peut employer les abréviations suivantes :
+
+-  p. 8-12 = Pages 8 à 12
+-  p. 8 ; 12 = Pages 8 et 12
+-  p. 47 s. = Page 47 et suivantes
+-  p. 47 spéc. = Spécialement page 47
+-  *passim* = En différents endroits du document, qu’on choisit de ne
+   pas lister
+
+Note CSL
+~~~~~~~~
+
+En bibliographie comme en note de bas de page, l'abréviation de "pages"
+est générée automatiquement par Zotero.
+
+Pour les mentions de page, on utilisera le champ ``locator`` dans la
+boîte de dialogue de l'extension de traitement de texte Zotero, en
+veillant à sélectionner le type adéquat (page, paragraphe, etc.) afin de
+générer l'abréviation adéquate. On ne peut pas intégrer de texte avant
+l'abréviation, aussi restituer ``spéc. p. 47`` ne sera pas possible. On
+pourrait en revanche générer ``p. 47 spéc.`` en saisissant ``47 spéc.``
+dans le champ ``locator``.
+
+Pour la mention *passim*, on veillera à effectuer la saisie dans le
+champ ``Suffixe`` de la boîte de dialogue de l'extension de traitement
+de texte Zotero, sous la forme suivante :
+
+::
+
+    , <i>passim</i>
+
+Utilisation des termes latins de renvoi
+---------------------------------------
+
+Les termes latins qui suivent renvoient toujours, soit à l’auteur cité
+précédemment, soit à l’œuvre citée précédemment. Leur emploi
+s’accompagne donc d’une grande vigilance, notamment quand plusieurs de
+ces termes se succèdent.
+
+*Idem*, abrégé en *Id.*, signifie « le même ». Cette abréviation est
+employée pour indiquer qu’il s’agit du même auteur que pour la citation
+précédente.
+
+    BARCKHAUSEN Henri, *Essai sur le régime législatif de Bordeaux au
+    Moyen-âge*, Bordeaux, Gounouilhou, 1890, 34 p.
+
+    Id., *Rapport de la commission de la Faculté sur le projet de
+    réorganisation de la Licence en droit*, Bordeaux, Cadoret, 1889, 11
+    p.
+
+*Ibidem*, abrégé en *ibid.*, signifie « au même endroit ». Cette
+abréviation est employée pour indiquer qu’il s’agit du même auteur ET de
+la même œuvre que pour la citation précédente. Sans mention particulière
+de page, il s’agit également de la même page. Avec mention d’une page,
+il s’agit d’une page différente.
+
+    BENZACAR Joseph, *Fondements juridiques de la délimitation du cru
+    bordelais : l'appellation et la marque « Bordeaux »*, Bordeaux,
+    discours, 1910, p. 3.
+
+    *Ibid.*
+
+    *Ibid.*, p. 7.
+
+*Loco citato*, abrégé en *loc. cit.*, signifie « passage cité ». Cette
+abréviation est employée pour indiquer qu’il s’agit du même auteur ET de
+la même œuvre ET de la même page que pour la citation précédente[^6].
+
+*Opere citato*, abrégé en *op. cit.*, signifie « œuvre citée ». Cette
+abréviation est employée pour indiquer qu’il s’agit de la dernière œuvre
+citée de cet auteur.
+
+    TRAISSAC Élisabeth, Un projet de ville dans le Médoc au XVIIIe
+    siècle, *Bulletin et mémoires de la Société archéologique de
+    Bordeaux*, 1972, tome LXVI, p. 167-175.
+
+    BEDEL Vanina, *La maréchaussée dans la généralité de Guyenne au
+    XVIIIème siècle (1720-1790)*, Guyon Gérard (dir.), thèse de
+    doctorat, droit, Université Montesquieu-Bordeaux IV, p. 201.
+
+    TRAISSAC Élisabeth, *op. cit.*
+
+Au fur et à mesure de la rédaction du document et de ses réécritures, la
+manière dont un terme latin renvoie à la précédente citation peut être
+modifiée. Toute insertion de citation dans une partie de document déjà
+rédigée doit conduire à vérifier que la nouvelle citation ne s’intercale
+pas entre un terme latin de renvoi et sa citation de référence.
+
+Notes CSL
+~~~~~~~~~
+
+-  Le style génère automatiquement les termes de renvoi, à l'exception
+   de *Loco citato*, qui correspond au même cas que *Ibidem*. Au lieu de
+   *loc. cit.* sera affiché *Ibid.*
+-  Le terme de renvoi *op. cit.* est généré automatiquement lorsque la
+   référence citée n'est pas distante de plus de **7** notes de la
+   dernière occurrence ce cette référence.
+-  L'abréviation "Id." pour remplacer les auteurs est générée uniquement
+   en bibliographie et non en note de bas de page. Elle est affichée
+   lorsque **tous les auteurs** de la référence bibliographique
+   précédente sont exactement identiques à **tous les auteurs** de la
+   référence considérée. La liste entière des noms, y compris les termes
+   tels que "et" ou "et al.", est alors remplacée par "Id."
+
+Abréviations conseillées – Codes
+--------------------------------
+
+La liste suivante ne peut être exhaustive, elle ne recense notamment pas
+toutes les variantes de titres portés par les codes au long de leur vie
+éditoriale et chez les différents éditeurs.
+
+Le document de recherche comprendra, avant son introduction, une liste
+des abréviations de codes utilisées.
+
+Par exception, lorsqu’un code est cité de manière habituelle, il peut
+l’être en note de bas de page avec pour seule information son
+abréviation.
+
+Cependant, lorsqu’un code étranger est cité, le pays producteur de la
+législation est cité comme auteur du document, afin de le différencier
+du code français. Ainsi :
+
+BELGIQUE, Code civil\_, 4 éd., Philippe Denis et Dehasse Delphine (éd.),
+Bruylant, Bruxelles, 2006, 428 p.
+
++-------+-----------------------------------------------------------------------+
+| Cod   | e administratif C. adm.                                               |
++=======+=======================================================================+
+| Cod   | e civil C. civ.                                                       |
++-------+-----------------------------------------------------------------------+
+| Cod   | e constitutionnel et des droits fondamentaux C. const.                |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de commerce C. com.                                                 |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de justice administrative CJA                                       |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de l’action sociale et des familles CASF                            |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de l’avocat C. avocat                                               |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de l’éducation C. éduc.                                             |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de l’énergie C. énergie                                             |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de l’entrée et du séjour des étrangers et du droit d’asile Ceseda   |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de l’environnement C. envir.                                        |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de l’organisation judiciaire COJ                                    |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de l’urbanisme C. urb.                                              |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la communication C. communic.                                    |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la consommation C. consom.                                       |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la construction et de l’habitation CCH                           |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la copropriété C. copr.                                          |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la fonction publique C. fonc. publ.                              |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la mutualité C. mut.                                             |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la nationalité C. nat.                                           |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la propriété intellectuelle CPI                                  |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la route C. route                                                |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la santé publique CSP                                            |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de la sécurité sociale CSS                                          |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de procédure civile C. pr. civ.                                     |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de procédure fiscale C. pr. fisc.                                   |
++-------+-----------------------------------------------------------------------+
+| Cod   | e de procédure pénale C. pr. pén.                                     |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des associations C. assoc.                                          |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des assurances C. assur.                                            |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des baux C. baux                                                    |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des marchés publics C. marchés pub.                                 |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des ports maritimes C. ports mar.                                   |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des postes et télécommunications C. P et T                          |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des procédures civiles d’exécution C. pr. exéc.                     |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des procédures collectives C. pr. coll.                             |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des relations entre le public et l’administration CRPA              |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des sociétés C. soc.                                                |
++-------+-----------------------------------------------------------------------+
+| Cod   | e des transports C. trans.                                            |
++-------+-----------------------------------------------------------------------+
+| Cod   | e du sport C. sport                                                   |
++-------+-----------------------------------------------------------------------+
+| Cod   | e du tourisme C. tourisme                                             |
++-------+-----------------------------------------------------------------------+
+| Cod   | e du travail C. trav.                                                 |
++-------+-----------------------------------------------------------------------+
+| Cod   | e du vin C. vin                                                       |
++-------+-----------------------------------------------------------------------+
+| Cod   | e électoral C. élect.                                                 |
++-------+-----------------------------------------------------------------------+
+| Cod   | e forestier C. for.                                                   |
++-------+-----------------------------------------------------------------------+
+| Cod   | e général de la propriété des personnes publiques CGPPP               |
++-------+-----------------------------------------------------------------------+
+| Cod   | e général des collectivités territoriales CGCT                        |
++-------+-----------------------------------------------------------------------+
+| Cod   | e général des impôts CGI                                              |
++-------+-----------------------------------------------------------------------+
+| Cod   | e minier C. minier                                                    |
++-------+-----------------------------------------------------------------------+
+| Cod   | e monétaire et financier C. mon. fin.                                 |
++-------+-----------------------------------------------------------------------+
+| Cod   | e pénal C. pén.                                                       |
++-------+-----------------------------------------------------------------------+
+| Cod   | e rural et de la pêche maritime C. rur.                               |
++-------+-----------------------------------------------------------------------+
+| Cod   | e rurale et forestier C. rur. et for.                                 |
++-------+-----------------------------------------------------------------------+
+| Liv   | re des procédures fiscales LPF                                        |
++-------+-----------------------------------------------------------------------+
+| Nou   | veau code de procédure civile NCPC                                    |
++-------+-----------------------------------------------------------------------+
+
+Abréviations conseillées – Juridictions
+---------------------------------------
+
+Les jugements et arrêts sont cités sous la forme : Juridiction, date du
+jugement ou de l’arrêt, numéro de référence, éventuellement nom des
+parties, commentaires éventuels. Ainsi :
+
+CE, 19 mai 1933, Benjamin
+
+Soc., 26 juin 2013, n° 12-15.208
+
+Crim., 25 juin 2008, n° 07-80.261
+
+Cons. const., 16 juin 1999, n° 99-411
+
+CEDH, 7 oct. 1988, série A, n° 141-A
+
+Le document de recherche comprendra avant son introduction une liste des
+abréviations de juridictions.
+
+Lorsqu’une juridiction étrangère, portant le même nom qu’une juridiction
+française, est citée, elle est précédée du nom du pays concerné.
+
+Conseil constitutionnel Cons. Const.
+
+Conseil des prud’hommes Cons. prud. Conseil d’État CE Conseil d’État,
+assemblée du contentieux CE ass. Conseil d’État, plénière CE plén.
+Conseil d’État, section CE sect. Cour administrative d’appel CAA Cour
+d’appel [Ville] Cour d’assises C. assises Cour d’assises des mineurs C.
+assises. min. Cour de cassation Cass. Cour de cassation, première
+chambre civile 1\ :sup:`re`\ civ. Cour de cassation, deuxième chambre
+civile 2\ :sup:`e` civ. Cour de cassation, troisième chambre civile
+3\ :sup:`e` civ. Cour de cassation, chambre commerciale Com. Cour de
+cassation, chambre sociale Soc. Cour de cassation, chambre criminelle
+Crim. Cour de cassation, chambre des requêtes Req. Cour de cassation,
+chambre mixte Ch. mixte Cour de cassation, chambre réunies Ch. réun.
+Cour de cassation, assemblée plénière Ass. plén. Cour de discipline
+budgétaire et financière CDBF Cour de justice de l’Union européenne CJUE
+Cour de justice de la Communauté européenne CJCE Cour des comptes C.
+comptes Cour européenne des droits de l’homme CEDH Cour internationale
+de justice CIJ Cour permanente de justice internationale CPJI Juge de
+proximité J. prox. Tribunal administratif TA Tribunal arbitral du sport
+TAS Tribunal correctionnel T. Corr. Tribunal de commerce T. Com.
+Tribunal de grande instance TGI Tribunal de police T. Pol. Tribunal des
+affaires de Sécurité Sociale TASS Tribunal des conflits T. Confl.
+Tribunal des enfants T. enfants Tribunal d’instance TI Tribunal
+paritaire des baux ruraux TPBR
+
+Abréviations conseillées – Revues
+---------------------------------
+
+Il n’est matériellement pas possible d’établir une liste d’abréviations
+recommandées, du fait du nombre des revues juridiques et de leurs
+fréquents changements de nom, fusions, scissions, etc.
+
+Il est recommandé d’établir une liste des abréviations utilisées en
+début de document de recherche pour les revues les plus utilisées. À
+cette fin, il est recommandé de se reporter à la manière dont les revues
+préconisent de se citer elles-mêmes, en recourant à leur site et
+indications aux auteurs.
+
+Les bibliothèques universitaires de l’université Toulouse 1 Capitole
+proposent un tableau présentant les abréviations juridiques les plus
+courantes, notamment pour les revues :
+
+http://ressscd.ut-capitole.fr/scd/abrev/
+
+.. raw:: html
+
+   <!--
+   Version imprimée en 2017,
+
+   par le service imprimerie de l’université de Bordeaux, à Pessac,\
+   pour le compte de l’Urfist de Bordeaux.
+
+   ![](media/image3.png){width="1.879699256342957in"
+   height="1.2879418197725285in"}
+
+   [^1]: COLLARD Anne et MONBALLIN Michèle, *Référentiel pour l'élaboration
+       et la rédaction d'un travail scientifique en sciences humaines*,
+       3^e^ édition, Namur, Presses universitaires de Namur, 2014, p. 15.
+
+   [^2]: *Ibid*, p. 10.
+
+   [^3]: PACTEAU Bernard, Où on voit le Conseil d'État rejuger même si
+       c'est sans se déjuger, *RFDA,* 2010, n° 2, p. 297-300.
+
+   [^4]: AGUESSEAU Henri François (d'), Mercuriales, in *Œuvres complètes
+       du chancelier d'Aguesseau*, tome premier, Paris, chez les libraires
+       associés, 1759, 620 p. cité dans PACTEAU Bernard, Où on voit le
+       Conseil d'État rejuger même si c'est sans se déjuger, *RFDA*, 2010,
+       n° 2, p. 297-300.
+
+   [^5]: BALZAC Honoré (de), *Scènes de la vie privée*, tome 4, Paris,
+       Furne, 1845, p. 517.
+
+   [^6]: L’abréviation *eoc. loc.* (*eodem loco*, signifiant : au même
+       endroit) a la même valeur. -->
