@@ -5,8 +5,8 @@ CSL ED droit - Documentation
 =======================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
-   notes d'application
-   modèles de citation 
+   notes
+   guide 
    
