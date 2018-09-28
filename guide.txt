@@ -1,0 +1,124 @@
+.. _modeles-de-citation-des-differents-types-de-documents:
+
+Modèles de citation des différents types de documents
+=====================================================
+
+.. raw:: html
+
+   <!--
+   à faire
+   *check url
+   *check notes globales
+   * redécoupage types de doc-->
+
+Notes CSL globales
+------------------
+
+.. _titre-et-complement-de-titre:
+
+Titre et complément de titre
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Si on souhaite mentionner en note de bas de page seulement un *Titre* et
+en bibliographie un *Titre, complément du titre*, il convient de saisir
+dans la bibliothèque Zotero :
+
+-  le *Titre, complément du titre* dans le champ ``Titre``,
+-  le *Titre* dans le champ ``Titre abrégé``.
+
+`Exemple KSE9EUTP dans la bib Zotero de groupe`_
+
+.. _titre-des-melanges:
+
+Titre des mélanges
+~~~~~~~~~~~~~~~~~~
+
+On saisira selon un modèle analogue les titre des mélanges, lorsque l'on
+cite globalement le volume.
+
+-  le titre complet sera saisi dans le champ ``Titre`` et apparaîtra en
+   bibliographie,
+-  le titre abrégé du type *Mélanges XX* sera saisi dans le champ
+   ``XXX`` et apparaîtra dans les notes de bas de page.
+
+.. _melange-dans-un-volume-de-melanges:
+
+Mélange dans un volume de mélanges
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+= à faire `Exemple N8ZRTXUF dans la bib Zotero de groupe`_
+
+.. _mention-de-page,-de-pagination-et-de-nombre-de-pages:
+
+Mention de page, de pagination et de nombre de pages
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+La mention de la pagination (articles, chapitres, etc.) ou du nombre de
+pages (livre, thèse, etc.) est effectuée uniquement dans la
+bibliographie.
+
+Dans les notes de bas de page, on affiche seulement la mention de page
+ou de section précisée comme ``locator``. En l'absence de ``locator``,
+rien n'est affiché, *i. e.* on n'affiche pas la pagination ni le nombre
+de pages ; ces éléments sont réservés à la bibliographie.
+
+.. _citations-de-references-multiples:
+
+Citations de références multiples
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+= améliorer rédaction Seule ponctuation insérée automatiquement = ````
+Cas du texte à insérer : préconiser préfixe et suffixe/ sauf pour notes
+longues
+`https://forums.zotero.org/discussion/33069/adding-text-excerpts-to-footnotes`_
+et
+`https://forums.zotero.org/discussion/61387/how-can-i-add-text-to-a-footnote-with-references-from-zotero`_
+
+.. _mentions-ajoutees-a-une-reference-en-note-de-bas-de-page-(prefixe-et-suffixe,-mention-de-page,-de-partie,-etc.):
+
+Mentions ajoutées à une référence en note de bas de page (préfixe et suffixe, mention de page, de partie, etc.)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Lorsque l'on souhaite ajouter une mention à une référence
+bibliographique en note de bas de page , il convient de recourir à la
+boîte de dialogue de l'extension de traitement de texte pour ce faire.
+Cela permet d'intégrer le contenu au champ Zotero et de le conserver au
+fil des mises à jour du document.
+
+Voir la `page plugin sur le site de Zotero`_
+
+--------------
+
+.. _citer-un-ouvrage-imprime:
+
+Citer un ouvrage imprimé
+------------------------
+
+.. _modele-pour-la-bibliographie:
+
+Modèle pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM prénom], *Titre de l’ouvrage, complément du titre*, tomaison
+[vol. X], édition [Xe éd.], autre responsabilité (préface, traduction,
+dirigé par…) [Nom prénom (préf., trad., dir.)], ville de publication,
+éditeur, année d’édition, pagination globale.
+
+.. _modele-pour-les-notes-de-bas-de-page:
+
+Modèle pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Auteur [NOM prénom], *Titre de l’ouvrage*, éditeur, année
+d’édition, numéro des pages concernées.
+
+Exemples pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+DUGUIT Léon, \_L’État‎, le droit objectif et la lo
+
+.. _Exemple KSE9EUTP dans la bib Zotero de groupe: https://www.zotero.org/groups/2190104/items/KSE9EUTP
+.. _Exemple N8ZRTXUF dans la bib Zotero de groupe: https://www.zotero.org/groups/2190104/items/N8ZRTXUF
+.. _`https://forums.zotero.org/discussion/33069/adding-text-excerpts-to-footnotes`: https://forums.zotero.org/discussion/33069/adding-text-excerpts-to-footnotes
+.. _`https://forums.zotero.org/discussion/61387/how-can-i-add-text-to-a-footnote-with-references-from-zotero`: https://forums.zotero.org/discussion/61387/how-can-i-add-text-to-a-footnote-with-references-from-zotero
+.. _page plugin sur le site de Zotero: https://www.zotero.org/support/word_processor_plugin_usage
