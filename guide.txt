@@ -1,7 +1,3 @@
-.. Table des matières::
-   :depth: 1
-..
-
 Modèles de citation des différents types de documents
 =====================================================
 
