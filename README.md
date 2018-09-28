@@ -1,2 +1,2 @@
-# -csl_ed_droit_ub_documentation-
+# Documentation du style ED droit ubx
 Entrepôt pour Read the docs
