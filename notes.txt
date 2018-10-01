@@ -1,5 +1,31 @@
-Notes CSL globales
-==================
+Lisez-moi
+=========
+
+Liste de ressources et bibliographie
+------------------------------------
+
+Le style est paramétré pour générer automatiquement une liste des
+ressources à la suite de la bibliographie ; il conviendra d'ajouter un
+saut de page, un intertitre ou autre lorsque le document sera
+entièrement finalisé et que la bibliographie ne sera plus mise à jour
+(sinon il faudra recommencer après chaque mise à jour...).
+
+Date de consultation
+--------------------
+
+enregistré automatiquement taper ``today`` pour incrémenter la date du
+jour
+
+URL et pagination : articles de revue
+-------------------------------------
+
+Par défaut, Zotero ignore les champs ``URL`` et ``Consulté le``
+lorsqu'une **pagination** est renseignée. Ainsi, afin que la date de
+consultation et l'URL soient bien affichées, vous devez activer l'option
+"Inclure les adresses URL des articles de journaux dans les références"
+depuis le gestionnaire de styles Zotero. La procédure est détaillée dans
+la `page "Citer" de la documentation
+Zotero <https://www.zotero.org/support/fr/preferences/cite>`__.
 
 Titre et complément de titre
 ----------------------------
@@ -13,23 +39,6 @@ dans la bibliothèque Zotero :
 
 `Exemple KSE9EUTP dans la bib Zotero de
 groupe <https://www.zotero.org/groups/2190104/items/KSE9EUTP>`__
-
-Titre des mélanges
-------------------
-
-On saisira selon un modèle analogue les titre des mélanges, lorsque l'on
-cite globalement le volume.
-
--  le titre complet sera saisi dans le champ ``Titre`` et apparaîtra en
-   bibliographie,
--  le titre abrégé du type *Mélanges XX* sera saisi dans le champ
-   ``XXX`` et apparaîtra dans les notes de bas de page.
-
-Mélange dans un volume de mélanges
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-= à faire `Exemple N8ZRTXUF dans la bib Zotero de
-groupe <https://www.zotero.org/groups/2190104/items/N8ZRTXUF>`__
 
 Mention de page, de pagination et de nombre de pages
 ----------------------------------------------------
