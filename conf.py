@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Documentation style CSL bx.
+# Documentation style CSL "Université de Bordeaux - École doctorale de droit (French)".
 
 import sys
 import os
@@ -33,8 +33,8 @@ source_suffix = '.txt'
 master_doc = 'index'
 
 # General information about the project.
-project = u'CSL ED droit UBx'
-copyright = u'Frédérique Flamerie'
+project = u'CSL : Université de Bordeaux - École doctorale de droit (French)'
+# copyright = u'Frédérique Flamerie'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -103,7 +103,7 @@ html_theme = 'sphinx_rtd_theme'
 #html_title = None
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
-#html_short_title = None
+html_short_title = CSL ED Droit - Univ Bordeaux
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
@@ -130,7 +130,7 @@ html_static_path = ['_static']
 
 # If true, SmartyPants will be used to convert quotes and dashes to
 # typographically correct entities.
-#html_use_smartypants = True
+html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
 #html_sidebars = {}
@@ -166,7 +166,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'CSLEDDroitUbx'
+#htmlhelp_basename = 'CSLEDDroitUbx'
 
 
 
