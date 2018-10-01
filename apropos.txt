@@ -1,0 +1,17 @@
+A propos
+=======================
+
+La documentation du style CSL "Université de Bordeaux - École doctorale de droit (French)" est dérivée de la 2ème édition du guide `Citer des références bibliographiques juridiques <http://weburfist.univ-bordeaux.fr/wp-content/uploads/2017/12/20171208-R%C3%A9dux-Guide-de-r%C3%A9daction-des-r%C3%A9f%C3%A9rences-bibliographiques-version-num%C3%A9rique.pdf>`.
+
+Elle reprend les consignes de rédaction et intègre des spécifications propres à l'usage de Zotero.
+
+La section `Lisez-moi <https://documentation-style-csl-ed-droit-ubx.readthedocs.io/en/latest/notes.html>` comporte les notes d'aplication générales et les recommandations de paramétrage de Zotero.
+
+La section `Modèles de citation des différents types de documents <https://documentation-style-csl-ed-droit-ubx.readthedocs.io/en/latest/guide.html>`est augmentée de liens vers des exemples de références disponibles dans une `bibliothèque Zotero en ligne <https://www.zotero.org/groups/2190104/style_csl_ed_droit_bx?>`
+
+BEYNEY Geoffrey, BODIN Marc, DELBREL Sophie et al., Citer des références bibliographiques juridiques: guide de rédaction : notes de bas de page et bibliographie, Gravier Pierre (éd.), Bordeaux, France, Urfist de Bordeaux, 2018, 36 p.
+
+|CCBYNCND|_
+
+.. |CCBYNCND| image:: /media/cc-by-sa-80x15.png
+.. _CCBYNCND: http://creativecommons.org/licenses/by-nc-nd/4.0/
