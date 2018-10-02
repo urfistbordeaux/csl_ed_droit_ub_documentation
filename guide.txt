@@ -10,7 +10,7 @@ rédaction proprement dites que les paramétrages à effectuer dans Zotero,
 figurent dans la section
 `Lisez-moi <https://documentation-style-csl-ed-droit-ubx.readthedocs.io/en/latest/notes.html>`__.
 
-.. contents:: **Table of Contents**
+.. contents:: **Table des matières**
 
 Citer un ouvrage imprimé
 ------------------------
