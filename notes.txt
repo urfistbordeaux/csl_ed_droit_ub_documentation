@@ -1,6 +1,10 @@
 Lisez-moi
 =========
 
+Vous trouverez dans cette section toutes les informations nécessaires à la bonne utilisation du style CSL, s'agissant tant des paramétrages à effectuer dans Zotero que des spécificités de saisie des références dans Zotero.
+
+.. contents:: **Table des matières**
+
 Liste de ressources et bibliographie
 ------------------------------------
 
