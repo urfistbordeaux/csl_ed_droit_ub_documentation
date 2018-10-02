@@ -1,3 +1,6 @@
+A propos
+=========
+
 La documentation du style CSL "Université de Bordeaux - École doctorale
 de droit (French)" est dérivée de la 2ème édition du guide `Citer des
 références bibliographiques
@@ -22,6 +25,6 @@ bibliographiques juridiques: guide de rédaction : notes de bas de page
 et bibliographie, Gravier Pierre (éd.), Bordeaux, France, Urfist de
 Bordeaux, 2018, 36 p.
 
-Ce(tte) œuvre est mise à disposition selon les termes de la Licence
+Ce(tte) œuvre est mise à disposition selon les termes de la `Licence
 Creative Commons Attribution - Pas d'Utilisation Commerciale - Pas de
-Modification 4.0 International.
+Modification 4.0 International <http://creativecommons.org/licenses/by-nc-nd/4.0/">` __.
