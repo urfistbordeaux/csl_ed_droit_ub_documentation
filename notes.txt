@@ -230,10 +230,10 @@ est générée automatiquement par Zotero.
 En note de bas de page, on affiche la mention de page (ou de section, de partie, etc.) associée à la référence lors de son insertion avec le module de traitement de texte de Zotero.  En l'absence d'une telle mention, ni la pagination ni le nombre
 de pages ne sont affichés en note de bas de page. Ces éléments sont réservés à la bibliographie.
 
-Pour la mention *passim*, on veillera à effectuer la saisie dans le champ ``Suffixe`` lors de l'insertion de la référence avec le module de traitement de texte Zotero, sous la forme suivante :
+Pour la mention *passim*, on veillera à effectuer la saisie dans le champ ``Suffixe`` lors de l'insertion de la référence avec le module de traitement de texte Zotero, sous la forme suivante.
 
 .. code-block::
-, <i>passim</i>.
+``, <i>passim</i>``
 
 Voir la documentation Zotero, page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/preferences/cite>`__.
 .. préciser la section.
@@ -276,7 +276,7 @@ il s’agit d’une page différente.
 abréviation est employée pour indiquer qu’il s’agit du même auteur ET de
 la même œuvre ET de la même page que pour la citation précédente.
 
-L’abréviation *eoc. loc.* (*eodem loco*, signifiant : au même endroit) a la même valeur. 
+L’abréviation *eoc. loc.* (*eodem loco*, signifiant : au même endroit) a la même valeur.
 
 *Opere citato*, abrégé en *op. cit.*, signifie « œuvre citée ». Cette
 abréviation est employée pour indiquer qu’il s’agit de la dernière œuvre
@@ -470,91 +470,92 @@ abréviations de juridictions.
 Lorsqu’une juridiction étrangère, portant le même nom qu’une juridiction
 française, est citée, elle est précédée du nom du pays concerné.
 
-+-------+-----------------------------------------------------------------------+
-| Intitulé de la juridiction   | Abréviation                                                 |
-+=======+=======================================================================+
-| Conseil constitutionnel | Cons. Const.                                                       |
-+-------+-----------------------------------------------------------------------+
-| Conseil des prud’hommes | Cons. prud.                                                        |
-+-------+-----------------------------------------------------------------------+
-| Conseil d’État  | CE                                                        |
-+-------+-----------------------------------------------------------------------+
-| Conseil d’État,assemblée du contentieux  | CE ass.                       |
-+-------+-----------------------------------------------------------------------+
-| Conseil d’État, plénière  | CE plén.                                                       |
-+-------+-----------------------------------------------------------------------+
-| Conseil d’État, section  | CE sect.                                                       |
-+-------+-----------------------------------------------------------------------+
-| Cour administrative d’appel  | CAA                                                        |
-+-------+-----------------------------------------------------------------------+
-| Cour d’appel  | [Ville]                                                       |
-+-------+-----------------------------------------------------------------------+
-| Cour d’assises  | C. assises                                                       |
-+-------+-----------------------------------------------------------------------+
-| Cour d’assises des mineurs | C. assises. min.                                                       |
-+-------+-----------------------------------------------------------------------+
-| Cour de cassation   | Cass.                                                       |
-+-------+-----------------------------------------------------------------------+
-| Cour de cassation, première chambre civile   | 1\ :sup:`re`\ civ.                                    |
-+-------+-----------------------------------------------------------------------+
-| Cour de cassation, deuxième chambre civile   | 2\ :sup:`e`\ civ.                                    |
-+-------+-----------------------------------------------------------------------+
-| Cour de cassation, troisième chambre civile   | 3\ :sup:`e`\ civ.                                    |
-+-------+-----------------------------------------------------------------------+
-| Cour de cassation, , chambre commerciale     | Com.                                    |
-+-------+-----------------------------------------------------------------------+
-| Cour de cassation, chambre sociale    | Soc.                                    |
-+-------+-----------------------------------------------------------------------+
-| Cour de cassation, criminelle   | Crim.                                    |
-+-------+-----------------------------------------------------------------------+
-| Cour de cassation, chambre des requêtes    | Req.                                    |
-+-------+-----------------------------------------------------------------------+
-| Cour de cassation, chambre mixte    | Ch. mixte                                    |
-+-------+-----------------------------------------------------------------------+
-| Cour de cassation, chambre réunies   | Ch. réun.                                  |
-+-------+-----------------------------------------------------------------------+
-| Cour de cassation, assemblée plénière    | Ass. plén.                                  |
-+-------+-----------------------------------------------------------------------+
-| Cour de discipline budgétaire et financière    | CDBF                                  |
-+-------+-----------------------------------------------------------------------+
-| Cour de justice de l’Union européenne    | CJUE                                  |
-+-------+-----------------------------------------------------------------------+
-| Cour de justice de la Communauté européenne    | CJCE                                 |
-+-------+-----------------------------------------------------------------------+
-| Cour des comptes   | C. comptes                                  |
-+-------+-----------------------------------------------------------------------+
-| Cour européenne des droits de l’homme    | CEDH                                  |
-+-------+-----------------------------------------------------------------------+
-| Cour internationale de justice     | CIJ                                  |
-+-------+-----------------------------------------------------------------------+
-| Cour européenne des droits de l’homme    | CEDH                                  |
-+-------+-----------------------------------------------------------------------+
-| Cour permanente de justice internationale    | CPJI                                   |
-+-------+-----------------------------------------------------------------------+
-| Juge de proximité      | J. prox.                                  |
-+-------+-----------------------------------------------------------------------+
-| Tribunal administratif     | TA                                  |
-+-------+-----------------------------------------------------------------------+
-| Tribunal arbitral du sport    | TAS                                  |
-+-------+-----------------------------------------------------------------------+
-| Tribunal correctionnel      | T. Corr.                                  |
-+-------+-----------------------------------------------------------------------+
-| Tribunal de commerce      | T. Com.                                  |
-+-------+-----------------------------------------------------------------------+
-| Tribunal de grande instance       | TGI                                 |
-+-------+-----------------------------------------------------------------------+
-| Tribunal de police      | T. Pol.                                  |
-+-------+-----------------------------------------------------------------------+
-| Tribunal des affaires de Sécurité Sociale      | TASS                                  |
-+-------+-----------------------------------------------------------------------+
-| Tribunal des conflits       | T. Confl.                                  |
-+-------+-----------------------------------------------------------------------+
-| Tribunal des enfants       | T. enfants                                 |
-+-------+-----------------------------------------------------------------------+
-| Tribunal d’instance       | TI                                  |
-+-------+-----------------------------------------------------------------------+
-| Tribunal paritaire des baux ruraux        | TPBR                                  |
-+-------+-----------------------------------------------------------------------+
++-------------------------------------------------------+----------------------+
+| Intitulé de la juridiction                                              | Abréviation             |
++====================================+==============+
+| Conseil constitutionnel                                              | Cons. Const.           |
++-------------------------------------------------------+----------------------+
+| Conseil des prud’hommes                                       | Cons. prud.              |
++-------------------------------------------------------+----------------------+
+| Conseil d’État                                                                | CE                                |
++-------------------------------------------------------+----------------------+
+| Conseil d’État,assemblée du contentieux         | CE ass.                       |
++-------------------------------------------------------+----------------------+
+| Conseil d’État, plénière                                             | CE plén.                    |
++-------------------------------------------------------+----------------------+
+| Conseil d’État, section                                               | CE sect.                    |
++-------------------------------------------------------+----------------------+
+| Cour administrative d’appel                                    | CAA                            |
++-------------------------------------------------------+----------------------+
+| Cour d’appel                                                                   | [Ville]                         |
++-------------------------------------------------------+----------------------+
+| Cour d’assises                                                                | C. assises                  |
++-------------------------------------------------------+----------------------+
+| Cour d’assises des mineurs                                      | C. assises. min.      |
++-------------------------------------------------------+----------------------+
+| Cour de cassation                                                        | Cass.                          |
++-------------------------------------------------------+----------------------+
+| Cour de cassation, première chambre civile    | 1\ :sup:`re`\ civ.      |
++-------------------------------------------------------+----------------------+
+| Cour de cassation, deuxième chambre civile   | 2\ :sup:`e`\ civ.       |
++-------------------------------------------------------+----------------------+
+| Cour de cassation, troisième chambre civile   | 3\ :sup:`e`\ civ.        |
++-------------------------------------------------------+----------------------+
+| Cour de cassation, , chambre commerciale      | Com.                          |
++-------------------------------------------------------+----------------------+
+| Cour de cassation, chambre sociale                     | Soc.                            |
++-------------------------------------------------------+----------------------+
+| Cour de cassation, criminelle                                  | Crim.                          |
++-------------------------------------------------------+----------------------+
+| Cour de cassation, chambre des requêtes         | Req.                           |
++-------------------------------------------------------+----------------------+
+| Cour de cassation, chambre mixte                       | Ch. mixte                 |
++-------------------------------------------------------+----------------------+
+| Cour de cassation, chambre réunies                    | Ch. réun.                 |
++-------------------------------------------------------+----------------------+
+| Cour de cassation, assemblée plénière              | Ass. plén.                 |
++-------------------------------------------------------+----------------------+
+| Cour de discipline budgétaire et financière      | CDBF                         |
++-------------------------------------------------------+----------------------+
+| Cour de justice de l’Union européenne              | CJUE                          |
++-------------------------------------------------------+----------------------+
+| Cour de justice de la                                                   |                                      |
+| Communauté européenne                                      | CJCE                           |
++-------------------------------------------------------+----------------------+
+| Cour des comptes                                                        | C. comptes             |
++-------------------------------------------------------+----------------------+
+| Cour européenne des droits de l’homme          | CEDH                         |
++-------------------------------------------------------+----------------------+
+| Cour internationale de justice                                | CIJ                               |
++-------------------------------------------------------+----------------------+
+| Cour européenne des droits de l’homme          | CEDH                         |
++-------------------------------------------------------+----------------------+
+| Cour permanente de justice internationale      | CPJI                            |
++-------------------------------------------------------+----------------------+
+| Juge de proximité                                                        | J. prox.                      |
++-------------------------------------------------------+----------------------+
+| Tribunal administratif                                                | TA                               |
++-------------------------------------------------------+----------------------+
+| Tribunal arbitral du sport                                          | TAS                            |
++-------------------------------------------------------+----------------------+
+| Tribunal correctionnel                                                | T. Corr.                      |
++-------------------------------------------------------+----------------------+
+| Tribunal de commerce                                               | T. Com.                     |
++-------------------------------------------------------+----------------------+
+| Tribunal de grande instance                                    | TGI                             |
++-------------------------------------------------------+----------------------+
+| Tribunal de police                                                        | T. Pol.                         |
++-------------------------------------------------------+----------------------+
+| Tribunal des affaires de Sécurité Sociale           | TASS                          |
++-------------------------------------------------------+----------------------+
+| Tribunal des conflits                                                   | T. Confl.                    |
++-------------------------------------------------------+----------------------+
+| Tribunal des enfants                                                   | T. enfants                 |
++-------------------------------------------------------+----------------------+
+| Tribunal d’instance                                                      | TI                                 |
++-------------------------------------------------------+----------------------+
+| Tribunal paritaire des baux ruraux                        | TPBR                         |
++-------------------------------------------------------+----------------------+
 
 
 Abréviations conseillées – Revues
