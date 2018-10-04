@@ -50,11 +50,11 @@ Deux méthodes méthodes sont applicables ; la première méthode demeure la mé
 
 Si la note comporte peu de texte, il convient d'insérer le contenu textuel et la ponctuation en recourant aux champs ``Suffixe`` et ``Préfixe`` lors de l'insertion des citations avec le module de traitement de texte de Zotero. Cette méthode permet d'intégrer tout le contenu aux champx Zotero.
 
-Voir le forum Zotero, discussion `*How can I add text to a footnote with references from zotero* <https://forums.zotero.org/discussion/61387/how-can-i-add-text-to-a-footnote-with-references-from-zotero>`__.
+Voir le forum Zotero, discussion `How can I add text to a footnote with references from zotero <https://forums.zotero.org/discussion/61387/how-can-i-add-text-to-a-footnote-with-references-from-zotero>`__.
 
 Si la note comporte beaucoup de texte en plus des citations, il peut être envisagé d'insérer d'abord la note dans Word ou LibreOffice, de saisir le texte, puis d'ajouter les citations directement dans la note.
 
-Voir le forum Zotero, discussion `*Adding text/excerpts to footnotes* <https://forums.zotero.org/discussion/33069/adding-text-excerpts-to-footnotes>`__.
+Voir le forum Zotero, discussion `Adding text/excerpts to footnotes <https://forums.zotero.org/discussion/33069/adding-text-excerpts-to-footnotes>`__.
 
 Date de consultation
 -------------------------------------
@@ -75,7 +75,7 @@ citer. À défaut, notamment pour les articles, on effectue la traduction
 en terminant la citation par [nous traduisons] et en donnant la version
 originale du texte en note de bas de page, notamment si la formulation
 en langue étrangère a de l’importance (concept propre à une langue,
-concept différent en français...).
+concept différent en français, etc.).
 
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -232,8 +232,8 @@ de pages ne sont affichés en note de bas de page. Ces éléments sont réservé
 
 Pour la mention *passim*, on veillera à effectuer la saisie dans le champ ``Suffixe`` lors de l'insertion de la référence avec le module de traitement de texte Zotero, sous la forme suivante :
 
-::.
-, <i>passim</i>
+.. code-block::
+, <i>passim</i>.
 
 Voir la documentation Zotero, page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/preferences/cite>`__.
 .. préciser la section.
@@ -274,7 +274,9 @@ il s’agit d’une page différente.
 
 *Loco citato*, abrégé en *loc. cit.*, signifie « passage cité ». Cette
 abréviation est employée pour indiquer qu’il s’agit du même auteur ET de
-la même œuvre ET de la même page que pour la citation précédente[^6].
+la même œuvre ET de la même page que pour la citation précédente.
+
+L’abréviation *eoc. loc.* (*eodem loco*, signifiant : au même endroit) a la même valeur. 
 
 *Opere citato*, abrégé en *op. cit.*, signifie « œuvre citée ». Cette
 abréviation est employée pour indiquer qu’il s’agit de la dernière œuvre
@@ -296,15 +298,15 @@ modifiée. Toute insertion de citation dans une partie de document déjà
 rédigée doit conduire à vérifier que la nouvelle citation ne s’intercale
 pas entre un terme latin de renvoi et sa citation de référence.
 
-Notes CSL
-~~~~~~~~~
+Application dans Zotero
+~~~~~~~~~~~~~~~~~~~
 
 -  Le style génère automatiquement les termes de renvoi, à l'exception
    de *Loco citato*, qui correspond au même cas que *Ibidem*. Au lieu de
-   *loc. cit.* sera affiché *Ibid.*
+   *loc. cit.* sera ainsi affiché *Ibid.*
 -  Le terme de renvoi *op. cit.* est généré automatiquement lorsque la
    référence citée n'est pas distante de plus de **7** notes de la
-   dernière occurrence ce cette référence.
+   dernière occurrence de cette référence.
 -  L'abréviation "Id." pour remplacer les auteurs est générée uniquement
    en bibliographie et non en note de bas de page. Elle est affichée
    lorsque **tous les auteurs** de la référence bibliographique
@@ -330,117 +332,119 @@ Cependant, lorsqu’un code étranger est cité, le pays producteur de la
 législation est cité comme auteur du document, afin de le différencier
 du code français. Ainsi :
 
-BELGIQUE, Code civil\_, 4 éd., Philippe Denis et Dehasse Delphine (éd.),
+BELGIQUE, *Code civil*, 4 éd., Philippe Denis et Dehasse Delphine (éd.),
 Bruylant, Bruxelles, 2006, 428 p.
 
 +-------+-----------------------------------------------------------------------+
-| Cod   | e administratif C. adm.                                               |
+| Intitulé du code   | Abréviation                                                 |
 +=======+=======================================================================+
-| Cod   | e civil C. civ.                                                       |
+| Code  administratif | C. adm.                                                       |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e constitutionnel et des droits fondamentaux C. const.                |
+| Code civil   |  C. civ.                                                       |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de commerce C. com.                                                 |
+| Code constitutionnel et des droits fondamentaux   |  C. const.                |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de justice administrative CJA                                       |
+| Code de commerce   |  C. com.                                                 |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de l’action sociale et des familles CASF                            |
+| Code de justice administrative   |  CJA                                       |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de l’avocat C. avocat                                               |
+| Code de l’action sociale et des familles   |  CASF                            |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de l’éducation C. éduc.                                             |
+| Code de l’avocat   |  C. avocat                                               |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de l’énergie C. énergie                                             |
+| Code de l’éducation   |  C. éduc.                                             |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de l’entrée et du séjour des étrangers et du droit d’asile Ceseda   |
+| Code de l’énergie   |  C. énergie                                             |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de l’environnement C. envir.                                        |
+| Code de l’entrée et du séjour des étrangers et du droit d’asile   | Ceseda   |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de l’organisation judiciaire COJ                                    |
+| Code de l’environnement   |  C. envir.                                        |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de l’urbanisme C. urb.                                              |
+| Code de l’organisation judiciaire   |  COJ                                    |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de la communication C. communic.                                    |
+| Code de l’urbanisme   |  C. urb.                                              |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de la consommation C. consom.                                       |
+| Code de la communication   |  C. communic.                                    |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de la construction et de l’habitation CCH                           |
+| Code de la consommation   | C. consom.                                       |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de la copropriété C. copr.                                          |
+| Code de la construction et de l’habitation    | CCH                           |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de la fonction publique C. fonc. publ.                              |
+| Code de la copropriété   |  C. copr.                                          |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de la mutualité C. mut.                                             |
+| Code de la fonction publique   |  C. fonc. publ.                              |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de la nationalité C. nat.                                           |
+| Code de la mutualité   |  C. mut.                                             |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de la propriété intellectuelle CPI                                  |
+| Code de la nationalité   |  C. nat.                                           |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de la route C. route                                                |
+| Code de la propriété intellectuelle   |  CPI                                  |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de la santé publique CSP                                            |
+| Code de la route    | C. route                                                |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de la sécurité sociale CSS                                          |
+| Code de la santé publique   |  CSP                                            |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de procédure civile C. pr. civ.                                     |
+| Code de la sécurité sociale   |  CSS                                          |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de procédure fiscale C. pr. fisc.                                   |
+| Code de procédure civile   |  C. pr. civ.                                     |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e de procédure pénale C. pr. pén.                                     |
+| Code de procédure fiscale    | C. pr. fisc.                                   |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e des associations C. assoc.                                          |
+| Code de procédure pénale   |  C. pr. pén.                                     |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e des assurances C. assur.                                            |
+| Code des associations   |  C. assoc.                                          |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e des baux C. baux                                                    |
+| Code des assurances   |  C. assur.                                            |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e des marchés publics C. marchés pub.                                 |
+| Code des baux   |  C. baux                                                    |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e des ports maritimes C. ports mar.                                   |
+| Code des marchés publics   |  C. marchés pub.                                 |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e des postes et télécommunications C. P et T                          |
+| Code des ports maritimes   |  C. ports mar.                                   |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e des procédures civiles d’exécution C. pr. exéc.                     |
+| Code des postes et télécommunications   |  C. P et T                          |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e des procédures collectives C. pr. coll.                             |
+| Code des procédures civiles d’exécution   |  C. pr. exéc.                     |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e des relations entre le public et l’administration CRPA              |
+| Code des procédures collectives   |  C. pr. coll.                             |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e des sociétés C. soc.                                                |
+| Code des relations entre le public et l’administration   |  CRPA              |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e des transports C. trans.                                            |
+| Code des sociétés   |  C. soc.                                                |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e du sport C. sport                                                   |
+| Code des transports   |  C. trans.                                            |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e du tourisme C. tourisme                                             |
+| Code du sport   |  C. sport                                                   |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e du travail C. trav.                                                 |
+| Code du tourisme   |  C. tourisme                                             |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e du vin C. vin                                                       |
+| Code du travail   |  C. trav.                                                 |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e électoral C. élect.                                                 |
+| Code du vin   |  C. vin                                                       |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e forestier C. for.                                                   |
+| Code électoral   |  C. élect.                                                 |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e général de la propriété des personnes publiques CGPPP               |
+| Code forestier   |  C. for.                                                   |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e général des collectivités territoriales CGCT                        |
+| Code général de la propriété des personnes publiques   |  CGPPP               |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e général des impôts CGI                                              |
+| Code général des collectivités territoriales   |  CGCT                        |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e minier C. minier                                                    |
+| Code général des impôts   |  CGI                                              |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e monétaire et financier C. mon. fin.                                 |
+| Code minier   |  C. minier                                                    |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e pénal C. pén.                                                       |
+| Code monétaire et financier   |  C. mon. fin.                                 |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e rural et de la pêche maritime C. rur.                               |
+| Code pénal   |  C. pén.                                                       |
 +-------+-----------------------------------------------------------------------+
-| Cod   | e rurale et forestier C. rur. et for.                                 |
+| Code rural et de la pêche maritime   |  C. rur.                               |
 +-------+-----------------------------------------------------------------------+
-| Liv   | re des procédures fiscales LPF                                        |
+| Code rurale et forestier   |  C. rur. et for.                                 |
 +-------+-----------------------------------------------------------------------+
-| Nou   | veau code de procédure civile NCPC                                    |
+| Livre des procédures fiscales   |  LPF                                        |
++-------+-----------------------------------------------------------------------+
+| Nouveau code de procédure civile   |  NCPC                                    |
 +-------+-----------------------------------------------------------------------+
 
 Abréviations conseillées – Juridictions
@@ -466,30 +470,92 @@ abréviations de juridictions.
 Lorsqu’une juridiction étrangère, portant le même nom qu’une juridiction
 française, est citée, elle est précédée du nom du pays concerné.
 
-Conseil constitutionnel Cons. Const.
++-------+-----------------------------------------------------------------------+
+| Intitulé de la juridiction   | Abréviation                                                 |
++=======+=======================================================================+
+| Conseil constitutionnel | Cons. Const.                                                       |
++-------+-----------------------------------------------------------------------+
+| Conseil des prud’hommes | Cons. prud.                                                        |
++-------+-----------------------------------------------------------------------+
+| Conseil d’État  | CE                                                        |
++-------+-----------------------------------------------------------------------+
+| Conseil d’État,assemblée du contentieux  | CE ass.                       |
++-------+-----------------------------------------------------------------------+
+| Conseil d’État, plénière  | CE plén.                                                       |
++-------+-----------------------------------------------------------------------+
+| Conseil d’État, section  | CE sect.                                                       |
++-------+-----------------------------------------------------------------------+
+| Cour administrative d’appel  | CAA                                                        |
++-------+-----------------------------------------------------------------------+
+| Cour d’appel  | [Ville]                                                       |
++-------+-----------------------------------------------------------------------+
+| Cour d’assises  | C. assises                                                       |
++-------+-----------------------------------------------------------------------+
+| Cour d’assises des mineurs | C. assises. min.                                                       |
++-------+-----------------------------------------------------------------------+
+| Cour de cassation   | Cass.                                                       |
++-------+-----------------------------------------------------------------------+
+| Cour de cassation, première chambre civile   | 1\ :sup:`re`\ civ.                                    |
++-------+-----------------------------------------------------------------------+
+| Cour de cassation, deuxième chambre civile   | 2\ :sup:`e`\ civ.                                    |
++-------+-----------------------------------------------------------------------+
+| Cour de cassation, troisième chambre civile   | 3\ :sup:`e`\ civ.                                    |
++-------+-----------------------------------------------------------------------+
+| Cour de cassation, , chambre commerciale     | Com.                                    |
++-------+-----------------------------------------------------------------------+
+| Cour de cassation, chambre sociale    | Soc.                                    |
++-------+-----------------------------------------------------------------------+
+| Cour de cassation, criminelle   | Crim.                                    |
++-------+-----------------------------------------------------------------------+
+| Cour de cassation, chambre des requêtes    | Req.                                    |
++-------+-----------------------------------------------------------------------+
+| Cour de cassation, chambre mixte    | Ch. mixte                                    |
++-------+-----------------------------------------------------------------------+
+| Cour de cassation, chambre réunies   | Ch. réun.                                  |
++-------+-----------------------------------------------------------------------+
+| Cour de cassation, assemblée plénière    | Ass. plén.                                  |
++-------+-----------------------------------------------------------------------+
+| Cour de discipline budgétaire et financière    | CDBF                                  |
++-------+-----------------------------------------------------------------------+
+| Cour de justice de l’Union européenne    | CJUE                                  |
++-------+-----------------------------------------------------------------------+
+| Cour de justice de la Communauté européenne    | CJCE                                 |
++-------+-----------------------------------------------------------------------+
+| Cour des comptes   | C. comptes                                  |
++-------+-----------------------------------------------------------------------+
+| Cour européenne des droits de l’homme    | CEDH                                  |
++-------+-----------------------------------------------------------------------+
+| Cour internationale de justice     | CIJ                                  |
++-------+-----------------------------------------------------------------------+
+| Cour européenne des droits de l’homme    | CEDH                                  |
++-------+-----------------------------------------------------------------------+
+| Cour permanente de justice internationale    | CPJI                                   |
++-------+-----------------------------------------------------------------------+
+| Juge de proximité      | J. prox.                                  |
++-------+-----------------------------------------------------------------------+
+| Tribunal administratif     | TA                                  |
++-------+-----------------------------------------------------------------------+
+| Tribunal arbitral du sport    | TAS                                  |
++-------+-----------------------------------------------------------------------+
+| Tribunal correctionnel      | T. Corr.                                  |
++-------+-----------------------------------------------------------------------+
+| Tribunal de commerce      | T. Com.                                  |
++-------+-----------------------------------------------------------------------+
+| Tribunal de grande instance       | TGI                                 |
++-------+-----------------------------------------------------------------------+
+| Tribunal de police      | T. Pol.                                  |
++-------+-----------------------------------------------------------------------+
+| Tribunal des affaires de Sécurité Sociale      | TASS                                  |
++-------+-----------------------------------------------------------------------+
+| Tribunal des conflits       | T. Confl.                                  |
++-------+-----------------------------------------------------------------------+
+| Tribunal des enfants       | T. enfants                                 |
++-------+-----------------------------------------------------------------------+
+| Tribunal d’instance       | TI                                  |
++-------+-----------------------------------------------------------------------+
+| Tribunal paritaire des baux ruraux        | TPBR                                  |
++-------+-----------------------------------------------------------------------+
 
-Conseil des prud’hommes Cons. prud. Conseil d’État CE Conseil d’État,
-assemblée du contentieux CE ass. Conseil d’État, plénière CE plén.
-Conseil d’État, section CE sect. Cour administrative d’appel CAA Cour
-d’appel [Ville] Cour d’assises C. assises Cour d’assises des mineurs C.
-assises. min. Cour de cassation Cass. Cour de cassation, première
-chambre civile 1\ :sup:`re`\ civ. Cour de cassation, deuxième chambre
-civile 2\ :sup:`e` civ. Cour de cassation, troisième chambre civile
-3\ :sup:`e` civ. Cour de cassation, chambre commerciale Com. Cour de
-cassation, chambre sociale Soc. Cour de cassation, chambre criminelle
-Crim. Cour de cassation, chambre des requêtes Req. Cour de cassation,
-chambre mixte Ch. mixte Cour de cassation, chambre réunies Ch. réun.
-Cour de cassation, assemblée plénière Ass. plén. Cour de discipline
-budgétaire et financière CDBF Cour de justice de l’Union européenne CJUE
-Cour de justice de la Communauté européenne CJCE Cour des comptes C.
-comptes Cour européenne des droits de l’homme CEDH Cour internationale
-de justice CIJ Cour permanente de justice internationale CPJI Juge de
-proximité J. prox. Tribunal administratif TA Tribunal arbitral du sport
-TAS Tribunal correctionnel T. Corr. Tribunal de commerce T. Com.
-Tribunal de grande instance TGI Tribunal de police T. Pol. Tribunal des
-affaires de Sécurité Sociale TASS Tribunal des conflits T. Confl.
-Tribunal des enfants T. enfants Tribunal d’instance TI Tribunal
-paritaire des baux ruraux TPBR
 
 Abréviations conseillées – Revues
 ---------------------------------
@@ -509,35 +575,3 @@ proposent un tableau présentant les abréviations juridiques les plus
 courantes, notamment pour les revues :
 
 http://ressscd.ut-capitole.fr/scd/abrev/
-
-.. raw:: html
-
-   <!--
-   Version imprimée en 2017,
-
-   par le service imprimerie de l’université de Bordeaux, à Pessac,\
-   pour le compte de l’Urfist de Bordeaux.
-
-   ![](media/image3.png){width="1.879699256342957in"
-   height="1.2879418197725285in"}
-
-   [^1]: COLLARD Anne et MONBALLIN Michèle, *Référentiel pour l'élaboration
-       et la rédaction d'un travail scientifique en sciences humaines*,
-       3^e^ édition, Namur, Presses universitaires de Namur, 2014, p. 15.
-
-   [^2]: *Ibid*, p. 10.
-
-   [^3]: PACTEAU Bernard, Où on voit le Conseil d'État rejuger même si
-       c'est sans se déjuger, *RFDA,* 2010, n° 2, p. 297-300.
-
-   [^4]: AGUESSEAU Henri François (d'), Mercuriales, in *Œuvres complètes
-       du chancelier d'Aguesseau*, tome premier, Paris, chez les libraires
-       associés, 1759, 620 p. cité dans PACTEAU Bernard, Où on voit le
-       Conseil d'État rejuger même si c'est sans se déjuger, *RFDA*, 2010,
-       n° 2, p. 297-300.
-
-   [^5]: BALZAC Honoré (de), *Scènes de la vie privée*, tome 4, Paris,
-       Furne, 1845, p. 517.
-
-   [^6]: L’abréviation *eoc. loc.* (*eodem loco*, signifiant : au même
-       endroit) a la même valeur. -->
