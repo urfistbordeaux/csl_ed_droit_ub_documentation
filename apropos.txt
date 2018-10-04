@@ -24,6 +24,9 @@ Besoin d'aide?
 ----------------------
 Pour signaler un dysfonctionnement, demander la prise en compte d'un nouveau type de document ou pour tout autre requête, merci de respecter les indications de la page  `Contribuer au projet <https://github.com/fflamerie/csl_ed_droit_ubx/wiki/Contribuer-au-projet>`__.
 
+Crédits
+----------------------
+
 Ce(tte) œuvre est mise à disposition selon les termes de la `Licence
 Creative Commons Attribution - Pas d'Utilisation Commerciale - Pas de
 Modification 4.0 International <http://creativecommons.org/licenses/by-nc-nd/4.0/">`__.
