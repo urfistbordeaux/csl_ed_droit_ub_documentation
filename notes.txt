@@ -470,10 +470,10 @@ Lorsqu’une juridiction étrangère, portant le même nom qu’une juridiction
 française, est citée, elle est précédée du nom du pays concerné.
 
 ====================================   ===============
-Intitulé de la juridiction                                                   Abréviation
+   Intitulé de la juridiction                                                   Abréviation
 ====================================   ===============
-Conseil constitutionnel                                                    Cons. Const.
-Conseil des prud’hommes                                              Cons. prud.
+Conseil constitutionnel                                                 Cons. Const.
+Conseil des prud’hommes                                           Cons. prud.
 ====================================   ===============
 
 
