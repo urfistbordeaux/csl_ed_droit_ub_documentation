@@ -11,8 +11,8 @@ propres à l'usage de Zotero.
 
 La section
 `Lisez-moi <https://documentation-style-csl-ed-droit-ubx.readthedocs.io/en/latest/notes.html>`__
-comporte les notes d'aplication générales et les recommandations de
-paramétrage de Zotero.
+comporte les notes d'aplication générales et des recommandations de
+paramétrage et d'usage de Zotero.
 
 La section `Modèles de citation des différents types de
 documents <https://documentation-style-csl-ed-droit-ubx.readthedocs.io/en/latest/guide.html>`__
@@ -20,6 +20,9 @@ est augmentée de liens vers des exemples de références disponibles dans
 une `bibliothèque Zotero en
 ligne <https://www.zotero.org/groups/2190104/style_csl_ed_droit_bx?>`__.
 
+Besoin d'aide?
+----------------------
+Pour signaler un dysfonctionnement, demander la prise en compte d'un nouveau type de document ou pour tout autre requête, merci de respecter les indications de la page  `Contribuer au projet <https://github.com/fflamerie/csl_ed_droit_ubx/wiki/Contribuer-au-projet>`__.
 
 Ce(tte) œuvre est mise à disposition selon les termes de la `Licence
 Creative Commons Attribution - Pas d'Utilisation Commerciale - Pas de

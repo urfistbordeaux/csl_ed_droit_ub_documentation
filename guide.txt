@@ -67,17 +67,10 @@ Générale, 1891, p. 686-712.
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
 
--  Ne pas mentionner d'URL, c'est un critère d'affichage pour la mention
-   ``[en ligne]`` pour les ouvrages numériques - voir *infra*.
--  Mentionner obligatoirement le nombre de pages, l'absence du nombre de
-   pages est le critère d'affichage pour la mention ``[microfiche]`` -
-   voir *infra*.
--  S'il n'y a pas d'auteur, Zotero affiche le nom de l'éditeur avec le
-   même formatage que les noms d'auteur, pour prendre en compte le cas
-   des actes publiés d'un colloque.
--  Les mentions de responsabilités secondaires (traducteur, etc.) sont
-   générées automatiquement par Zotero à partir du moment où les rôles
-   sont correctement saisis.
+-  Ne pas mentionner d'URL, c'est un critère d'affichage pour la mention ``[en ligne]`` pour les ouvrages numériques - voir *infra*.
+-  Mentionner obligatoirement le nombre de pages, l'absence du nombre de  pages est le critère d'affichage pour la mention ``[microfiche]`` -   voir *infra*.
+-  S'il n'y a pas d'auteur, Zotero affiche le nom de l'éditeur selon la même mise en forme que les noms d'auteur, pour prendre en compte le cas  des actes publiés d'un colloque.
+-  Les mentions de responsabilités secondaires (traducteur, etc.) sont  générées automatiquement par Zotero à partir du moment où les rôles sont correctement saisis.
 
 `Exemple 9KHHPKTJ dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/9KHHPKTJ>`__
@@ -507,7 +500,7 @@ Auteur [NOM prénom], « Titre de l’article » [en ligne], *Titre de la
 revue abrégé*, partie, année, numéro de paragraphe ou des pages
 concernées, [consulté le JJ mois AAAA].
 
-Application dans Zotero 
+Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 On renseigne la mention de partie dans le champ ``Volume`` de la notice

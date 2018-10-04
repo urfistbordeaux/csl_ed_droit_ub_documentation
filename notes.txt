@@ -1,88 +1,72 @@
 Lisez-moi
 =========
 
-Vous trouverez dans cette section toutes les informations nécessaires à la bonne utilisation du style CSL, s'agissant tant des paramétrages à effectuer dans Zotero que des spécificités de saisie des références dans Zotero.
+Vous trouverez dans cette section toutes les informations nécessaires à la bonne utilisation du style CSL, s'agissant tant des paramétrages à effectuer que des spécificités de saisie des références dans Zotero.
+
+Le style CSL permet d'automatiser la rédaction bibliographique, s'agissant tant du respect des consignes typographiques que de l'insertion des mentions telles que "dir.", "en ligne", tant de l'emploi opportun des mentions latines que du tri automatique de la bibliographie.
+
+**Les recommandations suivantes ne sont pas exhaustives. Elles listent des points de vigilance, signalent les consignes de rédaction qui n'ont pas pu être automatisées, explicitent certains paramètres d'automatisation, et vous suggèrent quelques trucs et astuces pour faciliter la saisie des références dans votre bibliothèque Zotero et la rédaction bibliographique.**
+
+La `bibliothèque Zotero d'exemples <https://www.zotero.org/groups/2190104/style_csl_ed_droit_bx>`__, vous fournit des modèles de saisie pour chaque type de document pris en charge par le style. N'hésitez pas à les enregistrer dans votre bibliothèque Zotero, le marqueur *exemple_style_eddroit_ubx* qui leur est associé vous permettra de les distinguer aisément de vos références propres.
 
 .. contents:: **Table des matières**
 
-Liste de ressources et bibliographie
-------------------------------------
+Paramétrages  Zotero
+-----------------------------------
 
-Le style est paramétré pour générer automatiquement une liste des
-ressources à la suite de la bibliographie ; il conviendra d'ajouter un
-saut de page, un intertitre ou autre lorsque le document sera
-entièrement finalisé et que la bibliographie ne sera plus mise à jour
-(sinon il faudra recommencer après chaque mise à jour...).
+Gestionnaire de styles
+~~~~~~~~~~~~~~~~~~~~~~
+
+Par défaut, Zotero ignore les champs ``URL`` et ``Consulté le`` pour les **articles**
+lorsqu'une **pagination** est renseignée. Ainsi, afin que la date de
+consultation et l'URL soient bien affichées dans la bibliographie, vous devez activer l'option
+*Inclure les adresses URL des articles de journaux dans les références*
+depuis le gestionnaire de styles Zotero.
+
+Voir la documentation Zotero,  page `Citer <https://www.zotero.org/support/fr/preferences/cite>`__.
+
+Module de traitement de texte
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Zotero dispose d'une fonctionnalité lui permettant d'abréger automatiquement les titres de revue à partir des titres complets saisis dans le champ ``Publication``. Le contenu du champ ``Abrév. de revue`` est alors ignoré. Les règles d'abréviation automatiques ne correspondent pas aux normes d'abréviation en droit, aussi convient-il de désactiver cette option, cochée par défaut lorsque l'on définit le style de citation dans les "Préférences du document" dans le module de traitement de texte.
+
+Voir la documentation Zotero,  page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/preferences/cite>`__.
+.. préciser la section.
+
+Liste de ressources et bibliographie
+--------------------------------------------------
+
+Certains types de documents (entretiens oraux, correspondance notamment) doivent être référencées non dans la bibliographie mais dans une liste de ressources distincte. Cette liste de ressources sera générée automatiquement à la suite de la bibliographie, toutefois les deux ensembles ne seront pas délimités par un séparateur explicite. Il vous reviendra donc d'ajouter un
+saut de page, un intertitre ou autre lorsque le document sera entièrement finalisé et que la bibliographie ne sera plus mise à jour.
+
+
+Citation de références multiples
+-----------------------------------------------
+
+Les références multiples dans un même appel de citation sont délimitées par une espace.
+Il vous revient donc d'insérer non seulement des éléments de texte si applicable, mais au minimum la ponctuation permettant de délimiter ces références.
+
+Deux méthodes méthodes sont applicables ; la première méthode demeure la méthode à privilégier dans la mesure du possible.
+
+Si la note comporte peu de texte, il convient d'insérer le contenu textuel et la ponctuation en recourant aux champs ``Suffixe`` et ``Préfixe`` lors de l'insertion des citations avec le module de traitement de texte de Zotero. Cette méthode permet d'intégrer tout le contenu aux champx Zotero.
+
+Voir le forum Zotero, discussion `*How can I add text to a footnote with references from zotero* <https://forums.zotero.org/discussion/61387/how-can-i-add-text-to-a-footnote-with-references-from-zotero>`__.
+
+Si la note comporte beaucoup de texte en plus des citations, il peut être envisagé d'insérer d'abord la note dans Word ou LibreOffice, de saisir le texte, puis d'ajouter les citations directement dans la note.
+
+Voir le forum Zotero, discussion `*Adding text/excerpts to footnotes* <https://forums.zotero.org/discussion/33069/adding-text-excerpts-to-footnotes>`__.
 
 Date de consultation
---------------------
-
-enregistré automatiquement taper ``today`` pour incrémenter la date du
-jour
-
-URL et pagination : articles de revue
 -------------------------------------
 
-Par défaut, Zotero ignore les champs ``URL`` et ``Consulté le``
-lorsqu'une **pagination** est renseignée. Ainsi, afin que la date de
-consultation et l'URL soient bien affichées, vous devez activer l'option
-"Inclure les adresses URL des articles de journaux dans les références"
-depuis le gestionnaire de styles Zotero. La procédure est détaillée dans
-la `page "Citer" de la documentation
-Zotero <https://www.zotero.org/support/fr/preferences/cite>`__.
+Pour les documents numériques, une date de consultation doit être mentionnée. Si le champ ``Consulté le`` est renseigné automatiquement lorsque vous enregistrez une page Web, ce n'est pas le cas pour les livres, les thèses ou les articles.
 
-Titre et complément de titre
-----------------------------
+Dans ces cas, une méthode rapide pour incrémenter la date de consultation consiste à saisir *today* dans le champ ``Consulté le``.
+Cette méthode peut être utilisée pour tous les champs de type date.
 
-Si on souhaite mentionner en note de bas de page seulement un *Titre* et
-en bibliographie un *Titre, complément du titre*, il convient de saisir
-dans la bibliothèque Zotero :
-
--  le *Titre, complément du titre* dans le champ ``Titre``,
--  le *Titre* dans le champ ``Titre abrégé``.
-
-`Exemple KSE9EUTP dans la bib Zotero de
-groupe <https://www.zotero.org/groups/2190104/items/KSE9EUTP>`__
-
-Mention de page, de pagination et de nombre de pages
-----------------------------------------------------
-
-La mention de la pagination (articles, chapitres, etc.) ou du nombre de
-pages (livre, thèse, etc.) est effectuée uniquement dans la
-bibliographie.
-
-Dans les notes de bas de page, on affiche seulement la mention de page
-ou de section précisée comme ``locator``. En l'absence de ``locator``,
-rien n'est affiché, *i. e.* on n'affiche pas la pagination ni le nombre
-de pages ; ces éléments sont réservés à la bibliographie.
-
-Citations de références multiples
----------------------------------
-
-= améliorer rédaction Seule ponctuation insérée automatiquement = \` \`
-Cas du texte à insérer : préconiser préfixe et suffixe/ sauf pour notes
-longues
-https://forums.zotero.org/discussion/33069/adding-text-excerpts-to-footnotes
-et
-https://forums.zotero.org/discussion/61387/how-can-i-add-text-to-a-footnote-with-references-from-zotero
-
-Mentions ajoutées à une référence en note de bas de page (préfixe et suffixe, mention de page, de partie, etc.)
----------------------------------------------------------------------------------------------------------------
-
-Lorsque l'on souhaite ajouter une mention à une référence
-bibliographique en note de bas de page , il convient de recourir à la
-boîte de dialogue de l'extension de traitement de texte pour ce faire.
-Cela permet d'intégrer le contenu au champ Zotero et de le conserver au
-fil des mises à jour du document.
-
-Voir la `page plugin sur le site de
-Zotero <https://www.zotero.org/support/word_processor_plugin_usage>`__
-
-Recommandations particulières
------------------------------
 
 Citation de documents en langue étrangère
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------------
 
 Si un texte en langue étrangère doit être cité, il est plus approprié de
 le traduire, même pour l’anglais et même s’il est supposé que le
@@ -93,15 +77,14 @@ originale du texte en note de bas de page, notamment si la formulation
 en langue étrangère a de l’importance (concept propre à une langue,
 concept différent en français...).
 
-Note CSL
-~~~~~~~~
+Application dans Zotero
+~~~~~~~~~~~~~~~~~~~~~~~~
 
-La mention [nous traduisons] doit être insérée en tant que suffixe à la
-référence bibliographique dans la boîte de dialogue de l'extension de
-traitement de texte Zotero.
+La mention [nous traduisons] ainsi que la formulation en langue étrangère doivent être insérées en tant que suffixe à la
+citation lors de son insertion avec le module de traitement de texte de Zotero.
 
 Cas particuliers concernant les auteurs
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------------
 
 Les noms des auteurs seront séparés par des virgules, sauf le nom des
 deux derniers qui sont séparés par « et ». On mentionnera un maximum de
@@ -118,21 +101,23 @@ l’omission nuirait à la bonne compréhension de la référence ou de son
 choix, peut exceptionnellement être placé en quatrième position avant la
 mention « \ *et al.* ».
 
-Les civilités (madame, monsieur…), qualités ou titres (professeur,
-docteur, conseiller d’État, avocat…) ne sont pas mentionnées en
+Les civilités (madame, monsieur, etc.), qualités ou titres (professeur,
+docteur, conseiller d’État, avocat, etc.) ne sont pas mentionnées en
 complément du nom.
 
 Les responsabilités secondaires (traducteur, préfacier, éditeur
-scientifique…) ne sont mentionnées que lorsqu’elles apportent une
+scientifique, etc.) ne sont mentionnées que lorsqu’elles apportent une
 information particulière sur le document exploité. Elles sont alors
 mentionnées à leur place indiquée dans les modèles, après le titre, en
 abrégé.
 
-Note CSL
-~~~~~~~~
+Application dans Zotero
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Le style gère l'affichage automatique de la mention « \ *et al.* » en
 fonction du nombre d'auteur.
+
+Les mentions de responsabilité secondaire sont affichées et mises en forme automatiquement à partir du moment où les informations sont correctement saisies dans Zotero - voir la note à ce sujet dans la rubrique `Citer un ouvrage imprimé <https://documentation-style-csl-ed-droit-ubx.readthedocs.io/en/latest/guide.html#application-dans-zotero>`__.
 
 Il n'est en revanche pas possible de paramétrer l'affichage sporadique
 d'un auteur en quatrième position.
@@ -143,23 +128,40 @@ Cas particuliers concernant les titres
 La fin des titres ou sous-titre d’une longueur excessive peut être
 abrégée par […].
 
-Note CSL
-~~~~~~~~
+Variante avec et sans guillemets
+~~~~~~~~~~~~~~~~~~~~~~~~
+Le style correspond à la variante avec guillemets encadrant les titres.
+
+La création d'une variante sans guillemets peut être considérée si des demandes sont formulées en ce sens sur le site GitHub du projet, selon les modalités définies sur la page `Contribuer au projet <https://github.com/fflamerie/csl_ed_droit_ubx/wiki/Contribuer-au-projet>`__.
+
+Application dans Zotero
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Un titre abrégé suivi de la mention […] sera saisi dans le champ
 ``Titre abrégé`` et affiché seulement en note de bas de page. En
 bibliographie, le titre complet saisi dans le champ ``Titre`` est
-toujours affiché
+toujours affiché. Le paramétrage suivant est en effet appliqué pour gérer l'afichage des titres et compléments de titre.
+
+Si on souhaite mentionner en note de bas de page seulement un ``Titre`` et
+en bibliographie un ``Titre, complément du titre``, il convient de saisir
+dans la bibliothèque Zotero :
+
+-  le *Titre, complément du titre* dans le champ ``Titre``,
+-  le *Titre* dans le champ ``Titre abrégé``.
+
+`Exemple KSE9EUTP dans la bib Zotero de
+groupe <https://www.zotero.org/groups/2190104/items/KSE9EUTP>`__
+
 
 Cas particuliers concernant les éditions
-----------------------------------------
+----------------------------------------------------
 
 La mention de l’édition est réduite au minimum, en employant des
 chiffres arabes : « XIIe édition revue et corrigée » devient dans les
 références bibliographiques : « 12e éd. ».
 
 Cas particuliers concernant la publication
-------------------------------------------
+--------------------------------------------------------
 
 La page de titre peut mentionner plusieurs éditeurs et plusieurs villes
 de publication. On ne cite alors qu’un seul éditeur et sa ville, en
@@ -187,8 +189,8 @@ crochets : [Paris], Dalloz, 1959. Pour résoudre ces difficultés, les
 catalogues de bibliothèques restituent ces informations de manière
 validée et structurée.
 
-Note CSL
-~~~~~~~~
+Application dans Zotero
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 Les mentions [s.l.], [s.n.] et [s.d.] sont générées automatiquement par
 Zotero lorsque les champs correspondants ne sont pas renseignés, et pour
@@ -200,7 +202,7 @@ e.* :
 -  les contributions à un colloque.
 
 Cas particuliers concernant la pagination
------------------------------------------
+-----------------------------------------------------
 
 En bibliographie, pour un livre ou une thèse, on mentionne la pagination
 totale du document, en se référant simplement à la dernière page
@@ -217,30 +219,25 @@ tranche concernée (p. 49). On peut employer les abréviations suivantes :
 -  p. 8 ; 12 = Pages 8 et 12
 -  p. 47 s. = Page 47 et suivantes
 -  p. 47 spéc. = Spécialement page 47
--  *passim* = En différents endroits du document, qu’on choisit de ne
-   pas lister
+-  *passim* = En différents endroits du document, qu’on choisit de ne  pas lister
 
-Note CSL
-~~~~~~~~
+Application dans Zotero
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 En bibliographie comme en note de bas de page, l'abréviation de "pages"
 est générée automatiquement par Zotero.
 
-Pour les mentions de page, on utilisera le champ ``locator`` dans la
-boîte de dialogue de l'extension de traitement de texte Zotero, en
-veillant à sélectionner le type adéquat (page, paragraphe, etc.) afin de
-générer l'abréviation adéquate. On ne peut pas intégrer de texte avant
-l'abréviation, aussi restituer ``spéc. p. 47`` ne sera pas possible. On
-pourrait en revanche générer ``p. 47 spéc.`` en saisissant ``47 spéc.``
-dans le champ ``locator``.
+En note de bas de page, on affiche la mention de page (ou de section, de partie, etc.) associée à la référence lors de son insertion avec le module de traitement de texte de Zotero.  En l'absence d'une telle mention, ni la pagination ni le nombre
+de pages ne sont affichés en note de bas de page. Ces éléments sont réservés à la bibliographie.
 
-Pour la mention *passim*, on veillera à effectuer la saisie dans le
-champ ``Suffixe`` de la boîte de dialogue de l'extension de traitement
-de texte Zotero, sous la forme suivante :
+Pour la mention *passim*, on veillera à effectuer la saisie dans le champ ``Suffixe`` lors de l'insertion de la référence avec le module de traitement de texte Zotero, sous la forme suivante :
 
-::
+::.
+, <i>passim</i>
 
-    , <i>passim</i>
+Voir la documentation Zotero, page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/preferences/cite>`__.
+.. préciser la section.
+
 
 Utilisation des termes latins de renvoi
 ---------------------------------------
