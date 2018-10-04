@@ -232,8 +232,7 @@ de pages ne sont affichés en note de bas de page. Ces éléments sont réservé
 
 Pour la mention *passim*, on veillera à effectuer la saisie dans le champ ``Suffixe`` lors de l'insertion de la référence avec le module de traitement de texte Zotero, sous la forme suivante.
 
-.. code-block::
-``, <i>passim</i>``
+   ``, <i>passim</i>``
 
 Voir la documentation Zotero, page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/preferences/cite>`__.
 .. préciser la section.
@@ -470,12 +469,13 @@ abréviations de juridictions.
 Lorsqu’une juridiction étrangère, portant le même nom qu’une juridiction
 française, est citée, elle est précédée du nom du pays concerné.
 
-+-------------------------------------------------------+----------------------+
-| Intitulé de la juridiction                                              | Abréviation             |
-+====================================+==============+
-| Conseil constitutionnel                                              | Cons. Const.           |
-+-------------------------------------------------------+----------------------+
-| Conseil des prud’hommes                                       | Cons. prud.              |
+====================================   ===============
+Intitulé de la juridiction                                                Abréviation
+===================================     ===============
+Conseil constitutionnel                                               Cons. Const.
+Conseil des prud’hommes                                         Cons. prud.
+===================================     ===============
+
 +-------------------------------------------------------+----------------------+
 | Conseil d’État                                                                | CE                                |
 +-------------------------------------------------------+----------------------+
