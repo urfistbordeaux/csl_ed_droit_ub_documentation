@@ -386,7 +386,7 @@ Application dans Zotero
 Citer des contributions à un ouvrage (articles de mélanges, d’ouvrage collectif…)
 ---------------------------------------------------------------------------------
 
-Modèles pour la bibliographie
+Modèle pour la bibliographie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Contributeur [NOM Prénom], « Titre de la contribution, complément du
@@ -394,15 +394,20 @@ titre », in responsabilité du document principal [Nom Prénom (éd.)],
 *Titre du document principal*, édition, ville d’édition, éditeur, année
 d’édition, pages de la contribution [p. X-X].
 
-Modèles pour les notes de bas de page
+Modèle pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Contributeur [NOM Prénom], « Titre de la contribution », in *Titre du
 document principal*, éditeur, année d’édition, numéro des pages
 concernées.
 
-Exemple pour la bibliographie
+Exemples pour la bibliographie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+LACOUE-LABARTHE Dominique, « Bâle II et IAS 39 : les nouvelles exigences en fonds propres réglementaires des banques et l’évaluation en juste valeur des instruments financiers », in Frison-Roche Marie-Anne (éd.), *Les banques entre droit et économie*, Paris, L.G.D.J., 2006, p. 265-294.
+
+`Exemple 62ITI758 dans la bibliothèque d'exemples
+Zotero <https://www.zotero.org/groups/2190104/items/62ITI758>`__
 
 BOIS DE GAUDUSSON Jean (du), « Réflexions sur les nouveaux
 développements du constitutionalisme en Afrique », in Aubin Gérard
@@ -412,12 +417,17 @@ Presses universitaires de Bordeaux, 1992, p. 179-187.
 `Exemple N8ZRTXUF dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/N8ZRTXUF>`__
 
-Exemple pour les notes de bas de page
+
+Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+LACOUE-LABARTHE Dominique, « Bâle II et IAS 39 : les nouvelles exigences en fonds propres réglementaires des banques et l’évaluation en juste valeur des instruments financiers », in *Les banques entre droit et économie*, L.G.D.J., 2006, p. 266.
 
 BOIS DE GAUDUSSON Jean (du), « Réflexions sur les nouveaux
 développements du constitutionalisme en Afrique », in *Mélanges
-Jaubert*, Presses universitaires de Bordeaux, 1992.
+Jaubert*, Presses universitaires de Bordeaux, 1992, p. 180.
+
+
 
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -579,7 +589,7 @@ Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 DUCOURTIEUX Cécile, « État de droit : l'UE incapable de sanctionner
-Budapest et Varsovie », *Le Monde*, 20 septembre 2018.
+Budapest et Varsovie », *Le Monde*, 20 septembre 2018, paragr. 2.
 
 DAVERAT Xavier, « Un arrêt de la CJUE ouvre la porte à la création d'un
 nouveau droit voisin », *Les Petites Affiches*, 22 décembre 2016.
@@ -615,7 +625,7 @@ Exemples pour la bibliographie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 DUCOURTIEUX Cécile, « État de droit : l'UE incapable de sanctionner
-Budapest et Varsovie » [en ligne], *Le Monde*, 19 septembre 2018,
+Budapest et Varsovie » [en ligne], *Le Monde*, 19 septembre 2018, paragr. 2,
 [consulté le 26 septembre 2018].
 https://www.lemonde.fr/europe/article/2018/09/19/etat-de-droit-une-procedure-article-7-symbolique-mais-quasi-inapplicable\_5357222\_3214.html
 
@@ -657,13 +667,13 @@ Citer les actes publiés d’un colloque
 Modèle pour la bibliographie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Responsabilité du colloque [NOM prénom (dir.)], *Titre du colloque*,
+Responsabilité du colloque [NOM Prénom (dir.)], *Titre du colloque*,
 lieu d’édition, éditeur, année, pagination globale.
 
 Modèle pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Responsabilité du colloque [NOM prénom (dir.)], *Titre du colloque*,
+Responsabilité du colloque [NOM Prénom (dir.)], *Titre du colloque*,
 éditeur, année, numéro des pages concernées.
 
 Exemples pour la bibliographie
@@ -723,20 +733,20 @@ Modèle pour la bibliographie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Auteur [NOM prénom], Titre de la contribution, in Responsabilité du
-colloque [NOM prénom (dir.)], *Titre du colloque*, lieu d’édition,
+colloque [Nom Prénom (dir.)], *Titre du colloque*, lieu d’édition,
 éditeur, année, pagination globale.
 
 Modèle pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Auteur [NOM prénom], Titre de la contribution, in Responsabilité du
-colloque [NOM prénom (dir.)], *Titre du colloque*, éditeur, année,
+colloque [Nom Prénom (dir.)], *Titre du colloque*, éditeur, année,
 numéro des pages concernées.
 
 Exemples pour la bibliographie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-MALABAT Valérie, Simplifier mais comment ?, in BONIS-GARÇON Évelyne
+MALABAT Valérie, Simplifier mais comment ?, in Bonis-Garçon Évelyne
 (dir.), *Pour une refonte du droit des peines : quels changements si les
 préconisations de la Commission Cotte étaient suivies ?*, Paris,
 LexisNexis, 2016, p. 89-93.
@@ -745,8 +755,7 @@ LexisNexis, 2016, p. 89-93.
 Zotero <https://www.zotero.org/groups/2190104/items/L9EMWHDG>`__
 
 GAUTRON Jean-Claude et GRARD Loïc, Le droit international dans la
-construction de l’Union européenne, in SOCIÉTÉ FRANÇAISE POUR LE DROIT
-INTERNATIONAL (dir.), *Droit international et droit communautaire,
+construction de l’Union européenne, in Société française pour le droit international (dir.), *Droit international et droit communautaire,
 perspectives actuelles*, Paris, Pedone, 2000, p. 11-152.
 
 `Exemple HBL825EX dans la bibliothèque d'exemples
@@ -755,13 +764,12 @@ Zotero <https://www.zotero.org/groups/2190104/items/HBL825EX>`__
 Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-MALABAT Valérie, Simplifier mais comment ?, in BONIS-GARÇON Évelyne
+MALABAT Valérie, Simplifier mais comment ?, in Bonis-Garçon Évelyne
 (dir.), *Pour une refonte du droit des peines : quels changements si les
 préconisations de la Commission Cotte étaient suivies ?*, 2016, p. 90.
 
 GAUTRON Jean-Claude et GRARD Loïc, Le droit international dans la
-construction de l’Union européenne, in SOCIÉTÉ FRANÇAISE POUR LE DROIT
-INTERNATIONAL (dir.), *Droit international et droit communautaire,
+construction de l’Union européenne, in Société française pour le droit international (dir.), *Droit international et droit communautaire,
 perspectives actuelles*, 2000, p. 57.
 
 Citer une norme juridique
