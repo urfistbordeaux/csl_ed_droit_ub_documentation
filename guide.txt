@@ -32,23 +32,23 @@ d’édition, numéro des pages concernées.
 Exemples pour la bibliographie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-DUGUIT Léon, *L’État‎, le droit objectif et la loi positive*, Moderne
+DUGUIT Léon, *L’État, le droit objectif et la loi positive*, Moderne
 Franck (préf.), Paris, Dalloz, 2003, 623 p.
 
-`Exemple UMRJGXBR dans la bibliothèque d'exemples
+|Z| `Exemple UMRJGXBR dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/UMRJGXBR>`__
 
 BAUDRY-LACANTINERIE Gabriel, *Précis de droit civil*, vol. 1, 14e éd.,
 Paris, Sirey, 1926, 914 p.
 
-`Exemple XPL2K7WU dans la bibliothèque d'exemples
+|Z| `Exemple XPL2K7WU dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/XPL2K7WU>`__
 
 DALLOZ Édouard, VERGÉ Charles, VERGÉ Charles fils *et al.*, *Code des
 lois politiques et administratives*, vol. 2, Bureau de la Jurisprudence
 Générale, 1891, 1432 p.
 
-`Exemple V8T4989M dans la bibliothèque d'exemples
+|Z| `Exemple V8T4989M dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/V8T4989M>`__
 
 Exemples pour les notes de bas de page
@@ -67,24 +67,25 @@ Générale, 1891, p. 686-712.
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
 
--  Ne pas mentionner d'URL, c'est un critère d'affichage pour la mention ``[en ligne]`` pour les ouvrages numériques - voir *infra*.
--  Mentionner obligatoirement le nombre de pages, l'absence du nombre de  pages est le critère d'affichage pour la mention ``[microfiche]`` -   voir *infra*.
--  S'il n'y a pas d'auteur, Zotero affiche le nom de l'éditeur selon la même mise en forme que les noms d'auteur, pour prendre en compte le cas  des actes publiés d'un colloque.
--  Les mentions de responsabilités secondaires (traducteur, etc.) sont  générées automatiquement par Zotero à partir du moment où les rôles sont correctement saisis.
+Ne pas mentionner d'**URL**, c'est un critère d'affichage pour la mention ``[en ligne]`` pour les ouvrages numériques - voir *infra*.
 
-`Exemple 9KHHPKTJ dans la bibliothèque d'exemples
+Mentionner obligatoirement le **nombre de pages**, l'absence du nombre de  pages est le critère d'affichage pour la mention ``[microfiche]`` -   voir *infra*.
+
+S'il n'y a pas d'auteur, Zotero affiche le nom de l'éditeur selon la même mise en forme que les noms d'auteur, pour prendre en compte le cas des actes publiés d'un colloque.
+
+Les mentions de responsabilités secondaires (traducteur, etc.) sont  générées automatiquement par Zotero à partir du moment où les rôles sont correctement saisis.
+
+|Z| `Exemple 9KHHPKTJ dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/9KHHPKTJ>`__
 
--  Le rôle de **préfacier** n'existe pas dans Zotero : si applicable, on
-   utilise le rôle ``editorial-director``. Ce champ n'existe pas en
-   standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir
-   sous la forme :
+Le rôle de **préfacier** n'existe pas dans Zotero : si applicable, on   utilise le rôle ``editorial-director``. Ce champ n'existe pas en
+standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir sous la forme :
 
 ::
 
     editorial-director: Moderne || Franck
 
-Rappel `Exemple UMRJGXBR dans la bibliothèque d'exemples
+Rappel |Z| `Exemple UMRJGXBR dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/UMRJGXBR>`__
 
 Citer un ouvrage numérique
@@ -112,7 +113,7 @@ COURBE Patrick et GOUTTENOIRE Adeline, *Droit de la famille* [en ligne],
 7e éd., Paris, Sirey, 2017, 572 p., [consulté le 9 janvier 2017].
 http://www.dalloz-bibliotheque.fr/bibliotheque/Droit_de_la_famille-58206.htm
 
-`Exemple 8ZY72VYJ dans la bibliothèque d'exemples
+|Z| `Exemple 8ZY72VYJ dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/8ZY72VYJ>`__
 
 MÉLIN-SOUCRAMANIEN Ferdinand et PACTET Pierre, *Droit
@@ -120,7 +121,7 @@ constitutionnel*\ [en ligne], 34eéd., Paris, Sirey, 2015, 680 p.,
 [consulté le 20 janvier 2017].
 http://www.dalloz-bibliotheque.fr/bibliotheque/Droit_constitutionnel-38072.htm
 
-`Exemple 6CL9SIY9 dans la bibliothèque d'exemples
+|Z| `Exemple 6CL9SIY9 dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/6CL9SIY9>`__
 
 Exemples pour les notes de bas de page
@@ -136,29 +137,21 @@ constitutionnel*\ [en ligne], Sirey, 2015, p. 18, 54 et 101-103 spéc.,
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
 
--  Mentionner obligatoirement le nombre de pages, l'absence du nombre de
-   pages est le critère d'affichage pour la mention ``[microfiche]`` -
-   voir *infra*.
--  S'il n'y a pas d'auteur, Zotero affiche le nom de l'éditeur avec le
-   même formatage que les noms d'auteur, pour prendre en compte le cas
-   des actes publiés d'un colloque.
--  Les mentions de responsabilités secondaires (traducteur, etc.) sont
-   générées automatiquement par Zotero à partir du moment où les rôles
-   sont correctement saisis.
+Mentionner obligatoirement le **nombre de pages**, l'absence du nombre de pages est le critère d'affichage pour la mention ``[microfiche]`` -  voir *infra*.
 
-`Exemple 9KHHPKTJ dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/9KHHPKTJ>`__
+S'il n'y a pas d'auteur, Zotero affiche le nom de l'éditeur avec le même formatage que les noms d'auteur, pour prendre en compte le cas des actes publiés d'un colloque.
 
--  Le rôle de **préfacier** n'existe pas dans Zotero : si applicable, on
-   utilise le rôle ``editorial-director``. Ce champ n'existe pas en
-   standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir
-   sous la forme :
+Les mentions de responsabilités secondaires (traducteur, etc.) sont générées automatiquement par Zotero à partir du moment où les rôles sont correctement saisis.
+
+|Z| `Exemple 9KHHPKTJ dans la bibliothèque d'exemples Zotero <https://www.zotero.org/groups/2190104/items/9KHHPKTJ>`__
+
+Le rôle de **préfacier** n'existe pas dans Zotero : si applicable, on utilise le rôle ``editorial-director``. Ce champ n'existe pas en  standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir sous la forme :
 
 ::
 
     editorial-director: Moderne || Franck
 
-Rappel `Exemple UMRJGXBR dans la bibliothèque d'exemples
+Rappel |Z| `Exemple UMRJGXBR dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/UMRJGXBR>`__
 
 Citer des travaux universitaires imprimés (thèses et mémoires)
@@ -189,7 +182,7 @@ AUBIN Gérard, *La seigneurie en Bordelais au 18eme siècle d'après la
 pratique notariale (1715-1789)*, Jaubert Pierre (dir.), thèse de
 doctorat, droit, université de Bordeaux I, 1981, 958 p.
 
-`Exemple 4DVMV6KA dans la bibliothèque d'exemples
+|Z| `Exemple 4DVMV6KA dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/4DVMV6KA>`__
 
 RADÉ Christophe, *Le droit à l’insertion dans la loi du 1er décembre
@@ -197,7 +190,7 @@ RADÉ Christophe, *Le droit à l’insertion dans la loi du 1er décembre
 (dir.), mémoire de DEA, droit social, université de Bordeaux I, 1991, 93
 p.
 
-`Exemple R2IX2IRW dans la bibliothèque d'exemples
+|Z| `Exemple R2IX2IRW dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/R2IX2IRW>`__
 
 Exemples pour les notes de bas de page
@@ -214,26 +207,20 @@ social, université de Bordeaux I, 1991, p. 74.
 Notes
 ~~~~~
 
--  L’intitulé du diplôme, de la discipline et le nom de l’université
-   sont repris de la page de titre ou de couverture.
--  Le niveau d’étude (par ex. diplôme d’étude approfondi) peut être
-   abrégé (DEA).
+L’intitulé du diplôme, de la discipline et le nom de l’université sont repris de la page de titre ou de couverture.
+
+Le niveau d’étude (par ex. diplôme d’étude approfondi) peut être abrégé (DEA).
 
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
 
--  Le champ "discipline" n'existe pas dans Zotero ni CSL, aussi
-   convient-il de renseigner la discipline à la suite de l'intitulé du
-   diplôme dans le champ ``Type``.
--  Ne pas mentionner d'URL, c'est un critère d'affichage pour la mention
-   ``[en ligne]`` des travaux universitaires numériques - voir *infra*.
--  Mentionner obligatoirement le nombre de pages, l'absence du nombre de
-   pages est le critère d'affichage pour la mention ``[microfiche]`` -
-   voir *infra*.
--  Le rôle de **directeur de thèse** n'existe pas dans Zotero : si
-   applicable, on utilise le rôle ``director``. Ce champ n'existe pas en
-   standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir
-   sous la forme :
+Le champ "discipline" n'existe pas dans Zotero ni CSL, aussi convient-il de renseigner la discipline à la suite de l'intitulé du diplôme dans le champ ``Type``.
+
+Ne pas mentionner d'URL, c'est un critère d'affichage pour la mention ``[en ligne]`` des travaux universitaires numériques - voir *infra*.
+
+Mentionner obligatoirement le nombre de pages, l'absence du nombre de pages est le critère d'affichage pour la mention ``[microfiche]`` - voir *infra*.
+
+Le rôle de **directeur de thèse** n'existe pas dans Zotero : si applicable, on utilise le rôle ``director``. Ce champ n'existe pas en standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir sous la forme :
 
 ::
 
@@ -267,10 +254,9 @@ Exemples pour la bibliographie
 
 MANGEMATIN Céline, *La faute de fonction en droit privé* [en ligne],
 Malabat Valérie (dir.), thèse, droit, université Montesquieu-Bordeaux
-IV, 2012, 770 p., [consulté le 20 janvier 2017].
-http://www.theses.fr/2012BOR40027
+IV, 2012, 770 p., [consulté le 20 janvier 2017]. http://www.theses.fr/2012BOR40027
 
-`Exemple PT2DWA4B dans la bibliothèque d'exemples
+|Z| `Exemple PT2DWA4B dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/PT2DWA4B>`__
 
 LESTRADE Éric, *Les principes directeurs du procès dans la jurisprudence
@@ -278,7 +264,7 @@ du Conseil Constitutionnel* [en ligne], Mélin-Soucramanien Ferdinand
 (dir.), thèse, droit, université Montesquieu-Bordeaux IV, 2013, 714 p.,
 [consulté le 9 janvier 2017]. http://www.theses.fr/2013BOR40033
 
-`Exemple GWXKFFTC dans la bibliothèque d'exemples
+|Z| `Exemple GWXKFFTC dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/GWXKFFTC>`__
 
 Exemples pour les notes de bas de page
@@ -302,16 +288,11 @@ thèses numériques en France, sont uniques et pérennes.
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
 
--  Le champ "discipline" n'existe pas dans Zotero ni CSL, aussi
-   convient-il de renseigner la discipline à la suite de l'intitulé du
-   diplôme dans le champ ``Type``.
--  Mentionner obligatoirement le nombre de pages, l'absence du nombre de
-   pages est le critère d'affichage pour la mention ``[microfiche]`` -
-   voir *infra*.
--  Le rôle de **directeur de thèse** n'existe pas dans Zotero : si
-   applicable, on utilise le rôle ``director``. Ce champ n'existe pas en
-   standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir
-   sous la forme :
+Le champ "discipline" n'existe pas dans Zotero ni CSL, aussi convient-il de renseigner la discipline à la suite de l'intitulé du diplôme dans le champ ``Type``.
+
+Mentionner obligatoirement le **nombre de pages**, l'absence du nombre de pages est le critère d'affichage pour la mention ``[microfiche]`` - voir *infra*.
+
+Le rôle de **directeur de thèse** n'existe pas dans Zotero : si applicable, on utilise le rôle ``director``. Ce champ n'existe pas en standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir sous la forme :
 
 ::
 
@@ -340,14 +321,14 @@ SAINT-PAU Jean-Christophe, *L’anonymat et le droit* [microfiche], Conte
 Philippe (dir.), thèse de doctorat, droit, université
 Montesquieu-Bordeaux IV, 1998.
 
-`Exemple 26KXBI64 dans la bibliothèque d'exemples
+|Z| `Exemple 26KXBI64 dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/26KXBI64>`__
 
 MAUBLANC Jean-Pierre, *L’interprétation de la loi fiscale par le juge de
 l’impôt* [microfiche], Lamarque Jean (dir.), thèse de doctorat, droit,
 université de Bordeaux I, 1984.
 
-`Exemple VQVZW3CU dans la bibliothèque d'exemples
+|Z| `Exemple VQVZW3CU dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/VQVZW3CU>`__
 
 Exemples pour les notes de bas de page
@@ -363,27 +344,22 @@ I, 1984.
 Note
 ~~~~
 
-Pas de mention de la pagination.
+Pas de mention du nombre de pages.
 
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
 
--  Le champ "discipline" n'existe pas dans Zotero ni CSL, aussi
-   convient-il de renseigner la discipline à la suite de l'intitulé du
-   diplôme dans le champ ``Type``.
--  Ne pas mentionner le nombre de pages ni d'URL, l'absence du nombre de
-   pages ET l'absence d'URL sont les critère d'affichage pour la mention
-   ``[microfiche]``.
--  Le rôle de **directeur de thèse** n'existe pas dans Zotero : si
-   applicable, on utilise le rôle ``director``. Ce champ n'existe pas en
-   standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir
-   sous la forme :
+Le champ "discipline" n'existe pas dans Zotero ni CSL, aussi convient-il de renseigner la discipline à la suite de l'intitulé du diplôme dans le champ ``Type``.
+   
+Ne pas mentionner le **nombre de pages** ni d'**URL**, l'absence du nombre de pages ET l'absence d'URL sont les critère d'affichage pour la mention ``[microfiche]``.
+   
+Le rôle de **directeur de thèse** n'existe pas dans Zotero : si applicable, on utilise le rôle ``director``. Ce champ n'existe pas en standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir sous la forme :
 
 ::
 
     director: Jaubert || Pierre
 
-Citer des contributions à un ouvrage (articles de mélanges, d’ouvrage collectif…)
+Citer des contributions à un ouvrage (articles de mélanges, d’ouvrage collectif, etc.)
 ---------------------------------------------------------------------------------
 
 Modèle pour la bibliographie
@@ -406,7 +382,7 @@ Exemples pour la bibliographie
 
 LACOUE-LABARTHE Dominique, « Bâle II et IAS 39 : les nouvelles exigences en fonds propres réglementaires des banques et l’évaluation en juste valeur des instruments financiers », in Frison-Roche Marie-Anne (éd.), *Les banques entre droit et économie*, Paris, L.G.D.J., 2006, p. 265-294.
 
-`Exemple 62ITI758 dans la bibliothèque d'exemples
+|Z| `Exemple 62ITI758 dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/62ITI758>`__
 
 BOIS DE GAUDUSSON Jean (du), « Réflexions sur les nouveaux
@@ -414,7 +390,7 @@ développements du constitutionalisme en Afrique », in Aubin Gérard
 (éd.), *Liber amicorum, études offertes à Pierre Jaubert*, Talence,
 Presses universitaires de Bordeaux, 1992, p. 179-187.
 
-`Exemple N8ZRTXUF dans la bibliothèque d'exemples
+|Z| `Exemple N8ZRTXUF dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/N8ZRTXUF>`__
 
 
@@ -456,14 +432,14 @@ Exemples pour la bibliographie
 HAUSER Jean, « Le préjudice d’être né, question de principe », *Droit et
 patrimoine*, janvier 2001, n° 89, p. 6-8.
 
-`Exemple M327JFZG dans la bibliothèque d'exemples
+|Z| `Exemple M327JFZG dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/M327JFZG>`__
 
 GOGOS-GINTRAND Amélie, « Le pacte commissoire : une institution
 dangereuse par nature », *Revue de la recherche juridique. Droit
 prospectif*, septembre 2011, n° 1, p. 401-422.
 
-`Exemple TUM2L65L dans la bibliothèque d'exemples
+|Z| `Exemple TUM2L65L dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/TUM2L65L>`__
 
 Exemples pour les notes de bas de page
@@ -481,8 +457,9 @@ Note
 
 On se réfèrera utilement à la façon dont chaque revue prescrit de
 référencer ses contenus, ainsi que l’abréviation recommandée par la
-revue. Par défaut, une liste des abréviations recommandées figure dans
-les notes globales.
+revue. Par défaut, une liste des abréviations recommandées figure en annexe du guide `Citer des
+références bibliographiques
+juridiques <http://weburfist.univ-bordeaux.fr/wp-content/uploads/2017/12/20171208-R%C3%A9dux-Guide-de-r%C3%A9daction-des-r%C3%A9f%C3%A9rences-bibliographiques-version-num%C3%A9rique.pdf>`__.
 
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -490,7 +467,7 @@ Application dans Zotero
 On renseigne la mention de partie dans le champ ``Volume`` de la notice
 Zotero.
 
-`Exemple RI3TNQIV dans la bibliothèque d'exemples
+|Z| `Exemple RI3TNQIV dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/RI3TNQIV>`__
 
 Citer un article de revue numérique
@@ -516,7 +493,7 @@ Application dans Zotero
 On renseigne la mention de partie dans le champ ``Volume`` de la notice
 Zotero.
 
-`Exemple RI3TNQIV dans la bibliothèque d'exemples
+|Z| `Exemple RI3TNQIV dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/RI3TNQIV>`__
 
 *Rappel* : par défaut, Zotero ignore les champs ``URL`` et
@@ -524,7 +501,7 @@ Zotero <https://www.zotero.org/groups/2190104/items/RI3TNQIV>`__
 que la date de consultation et l'URL soient bien affichées, vous devez
 activer l'option "Inclure les adresses URL des articles de journaux dans
 les références" depuis le gestionnaire de styles Zotero. La procédure
-est détaillée dans la `page "Citer" de la documentation
+est détaillée dans la |Z| `page "Citer" de la documentation
 Zotero <https://www.zotero.org/support/fr/preferences/cite>`__.
 
 Exemples pour la bibliographie
@@ -534,15 +511,14 @@ DAUGAREILH Isabelle, « L’audace retenue du Comité européen des droits
 sociaux » [en ligne], *Revue de droit sanitaire et social*, juillet
 2005, n° 4, p. 555-564, [consulté le 16 mars 2017]. http://www.dalloz.fr
 
-`Exemple 59CX6YJL dans la bibliothèque d'exemples
+|Z| `Exemple 59CX6YJL dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/59CX6YJL>`__
 
 DUPRAT Jean-Pierre, « Le parlement évaluateur » [en ligne], *Revue
 internationale de droit comparé*, avril 1998, n° 2, p. 552-576,
-[consulté le 16 mars 2017].
-https://www.persee.fr/doc/ridc_0035-3337_1998_num_50_2_1177
+[consulté le 16 mars 2017]. https://www.persee.fr/doc/ridc_0035-3337_1998_num_50_2_1177
 
-`Exemple 9CRLLBQP dans la bibliothèque d'exemples
+|Z| `Exemple 9CRLLBQP dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/9CRLLBQP>`__
 
 Exemples pour les notes de bas de page
@@ -575,15 +551,15 @@ Exemples pour la bibliographie
 DUCOURTIEUX Cécile, « État de droit : l'UE incapable de sanctionner
 Budapest et Varsovie », *Le Monde*, 20 septembre 2018, p. 3.
 
-`Exemple RSBZ3Y9L dans la bibliothèque d'exemples
+|Z| `Exemple RSBZ3Y9L dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/RSBZ3Y9L>`__
 
 DAVERAT Xavier, « Un arrêt de la CJUE ouvre la porte à la création d'un
 nouveau droit voisin », *Les Petites Affiches*, 22 décembre 2016, n°
 255, p. 13.
 
-[Exemple 2STBMD26 dans la bibliothèque d'exemples
-Zotero]https://www.zotero.org/groups/2190104/items/2STBMD26
+|Z| `Exemple 2STBMD26 dans la bibliothèque d'exemples
+Zotero <https://www.zotero.org/groups/2190104/items/2STBMD26>`__
 
 Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -597,12 +573,10 @@ nouveau droit voisin », *Les Petites Affiches*, 22 décembre 2016.
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
 
--  Le champ ``Numéro`` n'existe pas dans Zotero pour les articles de
-   presse : on ne saisit donc pas de numérotation pour les articles de
-   journaux. Ce champ est enrevanche disponible pour les magazines.
--  Le champ ``Date`` ne permet pas la saisie d'un intervalle de dates :
-   une date mentionnée sous la forme **15-22 juillet 1998** sur la
-   publication sera saisie dans Zotero sous la fome **15/07/1998**.
+Le champ ``Numéro`` n'existe pas dans Zotero pour les articles de presse : on ne saisit donc pas de numérotation pour les articles de journaux. Ce champ est en revanche disponible pour les magazines.
+
+Saisir un intervalle dans le champ ``Date`` n'est pas autorisé : une date mentionnée sous la forme **15-22 juillet 1998** sur la
+publication sera saisie dans Zotero sous la forme **15/07/1998**.
 
 Citer un article de presse ou de magazine numérique
 ---------------------------------------------------
@@ -626,19 +600,18 @@ Exemples pour la bibliographie
 
 DUCOURTIEUX Cécile, « État de droit : l'UE incapable de sanctionner
 Budapest et Varsovie » [en ligne], *Le Monde*, 19 septembre 2018, paragr. 2,
-[consulté le 26 septembre 2018].
-https://www.lemonde.fr/europe/article/2018/09/19/etat-de-droit-une-procedure-article-7-symbolique-mais-quasi-inapplicable\_5357222\_3214.html
+[consulté le 26 septembre 2018]. https://www.lemonde.fr/europe/article/2018/09/19/etat-de-droit-une-procedure-article-7-symbolique-mais-quasi-inapplicable\_5357222\_3214.html
 
-[Exemple 8Y3QA4YK dans la bibliothèque d'exemples
-Zotero]https://www.zotero.org/groups/2190104/items/8Y3QA4YK
+|Z| `Exemple 8Y3QA4YK dans la bibliothèque d'exemples
+Zotero <https://www.zotero.org/groups/2190104/items/8Y3QA4YK>`__
 
 DAVERAT Xavier, « Un arrêt de la CJUE ouvre la porte à la création d'un
 nouveau droit voisin » [en ligne], *Les Petites Affiches*, 22 décembre
 2016, n° 255, p. 13 [consulté le 26 septembre 2018].
 https://www-lextenso-fr.docelec.u-bordeaux.fr/petites-affiches/LPA121r1
 
-[Exemple 5X4XHJ94 dans la bibliothèque d'exemples
-Zotero]https://www.zotero.org/groups/2190104/items/5X4XHJ94
+|Z| `Exemple 5X4XHJ94 dans la bibliothèque d'exemples
+Zotero <https://www.zotero.org/groups/2190104/items/5X4XHJ94>`__
 
 Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -654,12 +627,10 @@ nouveau droit voisin » [en ligne], *Les Petites Affiches*, 22 décembre
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
 
--  Le champ ``Numéro`` n'existe pas dans Zotero pour les articles de
-   presse : on ne saisit donc pas de numérotation pour les articles de
-   journaux. Ce champ est enrevanche disponible pour les magazines.
--  Le champ ``Date`` ne permet pas la saisie d'un intervalle de dates :
-   une date mentionnée sous la forme **15-22 juillet 1998** sur la
-   publication sera saisie dans Zotero sous la fome **15/07/1998**.
+Le champ ``Numéro`` n'existe pas dans Zotero pour les articles de presse : on ne saisit donc pas de numérotation pour les articles de journaux. Ce champ est en revanche disponible pour les magazines.
+   
+Saisir un intervalle dans le champ ``Date`` n'est pas autorisé : une date mentionnée sous la forme **15-22 juillet 1998** sur la
+publication sera saisie dans Zotero sous la forme **15/07/1998**.
 
 Citer les actes publiés d’un colloque
 -------------------------------------
@@ -683,28 +654,28 @@ BONIS-GARÇON Évelyne (dir.), *Pour une refonte du droit des peines:
 quels changements si les préconisations de la Commission Cotte étaient
 suivies ?*, Paris, LexisNexis, 2016, 226 p.
 
-`Exemple JZSAUCG7 dans la bibliothèque d'exemples
+|Z| `Exemple JZSAUCG7 dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/JZSAUCG7>`__
 
 ALLINNE Jean-Pierre et SOULA Mathieu (dir.), *La mort pénale : les
 enjeux historiques et contemporains de la peine de mort*, Rennes,
 Presses Universitaires de Rennes, 2015, 208 p.
 
-`Exemple 4NKQTQRQ dans la bibliothèque d'exemples
+|Z| `Exemple 4NKQTQRQ dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/4NKQTQRQ>`__
 
 SOCIÉTÉ FRANÇAISE POUR LE DROIT INTERNATIONAL (dir.), *Droit
 international et droit communautaire, perspectives actuelles*, Paris,
 Pedone, 2000, 448 p.
 
-`Exemple KBMA75AS dans la bibliothèque d'exemples
+|Z| `Exemple KBMA75AS dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/KBMA75AS>`__
 
 CENTRE D’ÉTUDES ET DE RECHERCHES SUR LE DROIT DE LA MER (dir.),
 *L'immobilisation forcée des navires*, Talence, Presses Universitaires
 de Bordeaux, 1990, 175 p.
 
-`Exemple 47NCZPCL dans la bibliothèque d'exemples
+|Z| `Exemple 47NCZPCL dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/47NCZPCL>`__
 
 Exemples pour les notes de bas de page
@@ -723,7 +694,7 @@ international et droit communautaire, perspectives actuelles*, Pedone,
 2000, p. 37.
 
 CENTRE D’ÉTUDES ET DE RECHERCHES SUR LE DROIT DE LA MER
-(dir.),*L'immobilisation forcée des navires*, Presses Universitaires de
+(dir.), *L'immobilisation forcée des navires*, Presses Universitaires de
 Bordeaux, 1990, p. 3.
 
 Citer une contribution parmi les actes publiés d’un colloque
@@ -751,14 +722,14 @@ MALABAT Valérie, Simplifier mais comment ?, in Bonis-Garçon Évelyne
 préconisations de la Commission Cotte étaient suivies ?*, Paris,
 LexisNexis, 2016, p. 89-93.
 
-`Exemple L9EMWHDG dans la bibliothèque d'exemples
+|Z| `Exemple L9EMWHDG dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/L9EMWHDG>`__
 
 GAUTRON Jean-Claude et GRARD Loïc, Le droit international dans la
 construction de l’Union européenne, in Société française pour le droit international (dir.), *Droit international et droit communautaire,
 perspectives actuelles*, Paris, Pedone, 2000, p. 11-152.
 
-`Exemple HBL825EX dans la bibliothèque d'exemples
+|Z| `Exemple HBL825EX dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/HBL825EX>`__
 
 Exemples pour les notes de bas de page
@@ -795,7 +766,7 @@ FRANCE, MINISTÈRE DE L’ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE,
 de Bordeaux*, Journal officiel, n° 206, 5 septembre 2013, p. 15020,
 ESRS1317830D.
 
-`Exemple AU2GMBDG dans la bibliothèque d'exemples
+|Z| `Exemple AU2GMBDG dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/AU2GMBDG>`__
 
 FRANCE, MINISTÈRE DE L’ÉDUCATION NATIONALE, *Décret du 13 juillet 1949
@@ -804,7 +775,7 @@ portant création à Fort-de-France d’un institut d’études juridiques,
 politiques et économiques de cette université*, Journal officiel, 16
 juillet 1949, p. 6921.
 
-`Exemple FSMT6V8I dans la bibliothèque d'exemples
+|Z| `Exemple FSMT6V8I dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/FSMT6V8I>`__
 
 Exemples pour les notes de bas de page
@@ -852,16 +823,15 @@ Exemples pour la bibliographie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 MAÎTRE ÉOLAS, *Journal d’un avocat : Instantanés de la justice et du
-droit* [en ligne], [consulté le 5 octobre 2014].
-http://www.maitre-eolas.fr
+droit* [en ligne], [consulté le 5 octobre 2014]. http://www.maitre-eolas.fr
 
-`Exemple C3DARG2J dans la bibliothèque d'exemples
+|Z| `Exemple C3DARG2J dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/C3DARG2J>`__
 
 GROUPE D’INFORMATION ET DE SOUTIEN DES IMMIGRÉ.E.S, *Gisti* [en ligne],
 [consulté le 5 octobre 2014]. http://www.gisti.org
 
-`Exemple IXTT3BIR dans la bibliothèque d'exemples
+|Z| `Exemple IXTT3BIR dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/IXTT3BIR>`__
 
 Exemples pour les notes de bas de page
@@ -882,10 +852,9 @@ sera souvent le même que celui de l’institution.
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
 
--  On utilise le type de document ``Page Web``\ pour les sites en ligne
-   et ``Billet de blog`` pour les blogues.
--  Les champs ``Titre`` et ``Date`` ne sont pas renseignés, on renseigne
-   seulement les champs ``Titre du site Web`` et ``Titre du blog``.
+On utilise le type de document ``Page Web``\ pour les sites en ligne et ``Billet de blog`` pour les blogues.
+
+Les champs ``Titre`` et ``Date`` ne sont pas renseignés, on renseigne seulement les champs ``Titre du site Web`` et ``Titre du blog``.
 
 Citer un article ou une page d’un site en ligne, un blogue
 ----------------------------------------------------------
@@ -912,7 +881,7 @@ MAÎTRE ÉOLAS, « Pour en finir avec la séparation des pouvoirs », sur
 ligne], publié le 21 février 2017, [consulté le 21 mars 2017].
 http://www.maitre-eolas.fr/post/2017/02/19/Pour-en-finir-avec-la-s%C3%A9paration-des-pouvoirs
 
-`Exemple SWMIJKGL dans la bibliothèque d'exemples
+|Z| `Exemple SWMIJKGL dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/SWMIJKGL>`__
 
 GROUPE D’INFORMATION ET DE SOUTIEN DES IMMIGRÉ.E.S, « Pour en finir avec
@@ -920,7 +889,7 @@ le délit de solidarité », sur *Gisti* [en ligne], publié le 12 janvier
 2017, [consulté le 21 mars 2017].
 https://www.gisti.org/spip.php?article5605
 
-`Exemple I6MKTFB5 dans la bibliothèque d'exemples
+|Z| `Exemple I6MKTFB5 dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/I6MKTFB5>`__
 
 Exemples pour les notes de bas de page
@@ -955,19 +924,19 @@ Exemples pour la bibliographie et pour les notes de bas de page
 Brevet américain n° US D709251 S, *Set of hamster wheels*, 15 juillet
 2014.
 
-`Exemple 2E5RLHFY dans la bibliothèque d'exemples
+|Z| `Exemple 2E5RLHFY dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/2E5RLHFY>`__
 
 Brevet américain n° US Des. 430708, *Playground for small animal such as
-hamster* , 5 septembre 2000.
+hamster*, 5 septembre 2000.
 
-`Exemple UXCQVZRT dans la bibliothèque d'exemples
+|Z| `Exemple UXCQVZRT dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/UXCQVZRT>`__
 
 Brevet européen n° EP3155925, *Boîtier d’attache sucette*, 19 avril
 2017.
 
-`Exemple 3WQ3VFVJ dans la bibliothèque d'exemples
+|Z| `Exemple 3WQ3VFVJ dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/3WQ3VFVJ>`__
 
 Application dans Zotero
@@ -991,7 +960,7 @@ Exemple pour la liste des ressources et les notes de bas de page
 HOURQUEBIE Fabrice, *Re: Guide de la rédaction biblio : projet confirmé*
 [courriel], 9 novembre 2016.
 
-`Exemple RYNNPNIP dans la bibliothèque d'exemples
+|Z| `Exemple RYNNPNIP dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/RYNNPNIP>`__
 
 Citer une contribution à une liste de diffusion
@@ -1016,10 +985,9 @@ Exemple pour la liste des ressources
 
 GASNAULT Jean, *Quel logiciel de veille pour une direction juridique ?*
 [courriel], sur *Jurisconnexion*, 5 juin 2017, [consulté le 6 juin
-2017].
-https://fr.groups.yahoo.com/neo/groups/juriconnexion/conversations/messages
+2017]. https://fr.groups.yahoo.com/neo/groups/juriconnexion/conversations/messages
 
-`Exemple VHQTPB6X dans la bibliothèque d'exemples
+|Z| `Exemple VHQTPB6X dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/VHQTPB6X>`__
 
 Exemple pour les notes de bas de page
@@ -1052,7 +1020,7 @@ Exemple pour la liste des ressources
 GRANGER Sabrina, *Modalités de publication d’un guide bibliographique*
 [entretien] mené par Gravier Pierre, Pessac, 13 novembre 2016.
 
-`Exemple Z7FAZSL6 dans la bibliothèque d'exemples
+|Z| `Exemple Z7FAZSL6 dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/Z7FAZSL6>`__
 
 Exemple pour les notes de bas de page
@@ -1064,7 +1032,14 @@ GRANGER Sabrina, *Modalités de publication d’un guide bibliographique*
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
 
--  On renseigne le le lieu dans le champ ``Loc. dans l'archive``.
--  On renseigne la pagination de la transcription dans le champ
-   ``Cote``.
--  On renseigne la mention "entretien" dans le champ ``Média``.
+On renseigne le le lieu dans le champ ``Loc. dans l'archive``.
+
+On renseigne la pagination de la transcription dans le champ ``Cote``.
+
+On renseigne la mention "entretien" dans le champ ``Média``.
+
+
+.. |Z| image:: icone_zotero.png
+   :height: 25
+   :width: 25
+   :align: middle
