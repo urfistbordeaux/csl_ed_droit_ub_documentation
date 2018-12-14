@@ -28,6 +28,7 @@ depuis le gestionnaire de styles Zotero.
 .. |Z| image:: icone_zotero.png
    :height: 25
    :width: 25
+   :align: middle
 
 Module de traitement de texte
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
