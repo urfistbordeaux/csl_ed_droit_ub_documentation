@@ -317,4 +317,4 @@ L'abréviation "Id." pour remplacer les auteurs est générée **uniquement en b
 .. |Z| image:: icone_zotero.png
    :height: 15
    :width: 15
-   :align: right
+
