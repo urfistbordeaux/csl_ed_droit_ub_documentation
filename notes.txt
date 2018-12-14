@@ -310,10 +310,11 @@ Le terme de renvoi *op. cit.* est généré automatiquement lorsque la référen
    
 L'abréviation "Id." pour remplacer les auteurs est générée **uniquement en bibliographie** et non en note de bas de page. Elle est affichée lorsque **tous les auteurs** de la référence bibliographique précédente sont exactement identiques à **tous les auteurs** de la référence considérée. La liste entière des noms, y compris les termes tels que "et" ou "et al.", est alors remplacée par "Id."
 
+.. |H| image:: /images/heart.png
+   :height: 11
+   :width: 11
 
-
-.. |Z| image :: icone_zotero.png
-   :alt: icone zotero
+.. |Z| image:: icone_zotero.png
    :height: 15
    :width: 15
    :align: right
