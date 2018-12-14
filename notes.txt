@@ -80,13 +80,6 @@ originale du texte en note de bas de page, notamment si la formulation
 en langue étrangère a de l’importance (concept propre à une langue,
 concept différent en français, etc.).
 
-
-.. |Z| image : icone_zotero.png
-   :alt: icone zotero
-   :height: 15
-   :width: 15
-   :align: right
-
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -311,17 +304,16 @@ pas entre un terme latin de renvoi et sa citation de référence.
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~
 
-Le style génère automatiquement les termes de renvoi, à l'exception
-   de *Loco citato*, qui correspond au même cas que *Ibidem*. Au lieu de
-   *loc. cit.* sera ainsi affiché *Ibid.*
+Le style génère automatiquement les termes de renvoi, à l'exception de *Loco citato*, qui correspond au même cas que *Ibidem*. Au lieu de *loc. cit.* sera ainsi affiché *Ibid.*
    
-Le terme de renvoi *op. cit.* est généré automatiquement lorsque la
-   référence citée n'est pas distante de plus de **7** notes de la
-   dernière occurrence de cette référence.
+Le terme de renvoi *op. cit.* est généré automatiquement lorsque la référence citée n'est pas distante de plus de **7** notes de la dernière occurrence de cette référence.
    
-L'abréviation "Id." pour remplacer les auteurs est générée **uniquement
-   en bibliographie** et non en note de bas de page. Elle est affichée
-   lorsque **tous les auteurs** de la référence bibliographique
-   précédente sont exactement identiques à **tous les auteurs** de la
-   référence considérée. La liste entière des noms, y compris les termes
-   tels que "et" ou "et al.", est alors remplacée par "Id."
+L'abréviation "Id." pour remplacer les auteurs est générée **uniquement en bibliographie** et non en note de bas de page. Elle est affichée lorsque **tous les auteurs** de la référence bibliographique précédente sont exactement identiques à **tous les auteurs** de la référence considérée. La liste entière des noms, y compris les termes tels que "et" ou "et al.", est alors remplacée par "Id."
+
+
+
+.. |Z| image :: icone_zotero.png
+   :alt: icone zotero
+   :height: 15
+   :width: 15
+   :align: right
