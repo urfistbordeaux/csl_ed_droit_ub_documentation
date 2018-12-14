@@ -25,6 +25,10 @@ depuis le gestionnaire de styles Zotero.
 
 |Z| Voir la documentation Zotero,  page `Citer <https://www.zotero.org/support/fr/preferences/cite>`__.
 
+.. |Z| image:: icone_zotero.png
+   :height: 15
+   :width: 15
+
 Module de traitement de texte
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
