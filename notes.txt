@@ -23,40 +23,40 @@ consultation et l'URL soient bien affichées dans la bibliographie, vous devez a
 *Inclure les adresses URL des articles de journaux dans les références*
 depuis le gestionnaire de styles Zotero.
 
-Voir la documentation Zotero,  page `Citer <https://www.zotero.org/support/fr/preferences/cite>`__.
+|Z| Voir la documentation Zotero,  page `Citer <https://www.zotero.org/support/fr/preferences/cite>`__.
 
 Module de traitement de texte
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Zotero dispose d'une fonctionnalité lui permettant d'abréger automatiquement les titres de revue à partir des titres complets saisis dans le champ ``Publication``. Le contenu du champ ``Abrév. de revue`` est alors ignoré. Les règles d'abréviation automatiques ne correspondent pas aux normes d'abréviation en droit, aussi convient-il de désactiver cette option, cochée par défaut lorsque l'on définit le style de citation dans les "Préférences du document" dans le module de traitement de texte.
 
-Voir la documentation Zotero,  page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/word_processor_plugin_usage>`__.
+|Z| Voir la documentation Zotero,  page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/word_processor_plugin_usage>`__.
 
 
 Liste de ressources et bibliographie
 --------------------------------------------------
 
-Certains types de documents (entretiens oraux, correspondance notamment) doivent être référencées non dans la bibliographie mais dans une liste de ressources distincte. Cette liste de ressources sera générée automatiquement à la suite de la bibliographie, toutefois les deux ensembles ne seront pas délimités par un séparateur explicite. Il vous reviendra donc d'ajouter un
-saut de page, un intertitre ou autre lorsque le document sera entièrement finalisé et que la bibliographie ne sera plus mise à jour.
+Certains types de document (entretiens oraux, correspondance notamment) doivent être référencés non dans la bibliographie mais dans une liste de ressources distincte. Cette liste de ressources sera générée automatiquement à la suite de la bibliographie, toutefois les deux ensembles ne seront pas délimités par un séparateur explicite. Il vous reviendra donc d'ajouter un saut de page, un intertitre ou autre lorsque le document sera entièrement finalisé et que la bibliographie ne devra plus être mise à jour.
 
 
-Citation de références multiples
+Citations multiples
 -----------------------------------------------
 
-Les références multiples dans un même appel de citation sont délimitées par une espace.
+Une espace délimite les citations multiples.
+
 Il vous revient donc d'insérer non seulement des éléments de texte si applicable, mais au minimum la ponctuation permettant de délimiter ces références.
 
-Deux méthodes méthodes sont applicables ; la première méthode demeure la méthode à privilégier dans la mesure du possible.
+Deux méthodes méthodes sont applicables ; la première demeure à privilégier dans la mesure du possible.
 
-Si la note comporte peu de texte, il convient d'insérer le contenu textuel et la ponctuation en recourant aux champs ``Suffixe`` et ``Préfixe`` lors de l'insertion des citations avec le module de traitement de texte de Zotero. Cette méthode permet d'intégrer tout le contenu aux champx Zotero.
+1. **Méthode 1** - Si la note de bas de page comporte peu de texte, il convient d'insérer le contenu textuel et la ponctuation en recourant aux champs ``Suffixe`` et ``Préfixe`` lors de l'insertion des citations avec le module de traitement de texte de Zotero. Cette méthode permet d'intégrer tout le contenu aux champx Zotero.
 
 Voir le forum Zotero, discussion `How can I add text to a footnote with references from zotero <https://forums.zotero.org/discussion/61387/how-can-i-add-text-to-a-footnote-with-references-from-zotero>`__.
 
-Si la note comporte beaucoup de texte en plus des citations, il peut être envisagé d'insérer d'abord la note dans Word ou LibreOffice, de saisir le texte, puis d'ajouter les citations directement dans la note.
+2. **Méthode 2** - Si la note de bas de page comporte beaucoup de texte en plus des citations, il peut être envisagé d'insérer d'abord la note dans Word ou LibreOffice, de saisir le texte, puis d'ajouter les citations directement dans la note.
 
 Voir le forum Zotero, discussion `Adding text/excerpts to footnotes <https://forums.zotero.org/discussion/33069/adding-text-excerpts-to-footnotes>`__.
 
-Voir la documentation Zotero,  page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/word_processor_plugin_usage>`__.
+|Z| Voir la documentation Zotero,  page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/word_processor_plugin_usage>`__.
 
 
 Date de consultation
@@ -80,11 +80,20 @@ originale du texte en note de bas de page, notamment si la formulation
 en langue étrangère a de l’importance (concept propre à une langue,
 concept différent en français, etc.).
 
+
+.. |Z| image : icone_zotero.png
+   :alt: icone zotero
+   :height: 15
+   :width: 15
+   :align: right
+
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 La mention [nous traduisons] ainsi que la formulation en langue étrangère doivent être insérées en tant que suffixe à la
 citation lors de son insertion avec le module de traitement de texte de Zotero.
+
+|Z| Voir la documentation Zotero,  page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/word_processor_plugin_usage>`__.
 
 Cas particuliers concernant les auteurs
 -----------------------------------------------------------
@@ -118,12 +127,12 @@ Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 Le style gère l'affichage automatique de la mention « \ *et al.* » en
-fonction du nombre d'auteur.
+fonction du nombre d'auteurs.
 
 Les mentions de responsabilité secondaire sont affichées et mises en forme automatiquement à partir du moment où les informations sont correctement saisies dans Zotero - voir la note à ce sujet dans la rubrique `Citer un ouvrage imprimé <https://documentation-style-csl-ed-droit-ubx.readthedocs.io/en/latest/guide.html#application-dans-zotero>`__.
 
-Il n'est en revanche pas possible de paramétrer l'affichage sporadique
-d'un auteur en quatrième position.
+Il n'est en revanche pas possible de paramétrer l'affichage sporadique d'un auteur en quatrième position.
+
 
 Cas particuliers concernant les titres
 --------------------------------------
@@ -152,7 +161,7 @@ dans la bibliothèque Zotero :
 -  le *Titre, complément du titre* dans le champ ``Titre``,
 -  le *Titre* dans le champ ``Titre abrégé``.
 
-`Exemple KSE9EUTP dans la bib Zotero de
+|Z| `Exemple KSE9EUTP dans la bib Zotero de
 groupe <https://www.zotero.org/groups/2190104/items/KSE9EUTP>`__
 
 
@@ -230,14 +239,14 @@ Application dans Zotero
 En bibliographie comme en note de bas de page, l'abréviation de "pages"
 est générée automatiquement par Zotero.
 
-En note de bas de page, on affiche le "localisateur"  (mention de page, de section, de partie, etc.,) associé à la référence lors de son insertion avec le module de traitement de texte de Zotero.  En l'absence d'une telle mention, ni la pagination ni le nombre
-de pages ne sont affichés en note de bas de page. Ces éléments sont réservés à la bibliographie.
+En note de bas de page, on affiche le "localisateur"  (mention de page, de section, de partie, etc.,) associé à la référence lors de son insertion avec le module de traitement de texte de Zotero.  **En l'absence d'une telle mention, ni la pagination ni le nombre
+de pages ne sont affichés en note de bas de page.** Ces éléments sont réservés à la bibliographie.
 
 Pour la mention *passim*, on veillera à effectuer la saisie dans le champ ``Suffixe`` lors de l'insertion de la référence avec le module de traitement de texte Zotero, sous la forme suivante.
 
    ``, <i>passim</i>``
 
-Voir la documentation Zotero,  page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/word_processor_plugin_usage>`__.
+|Z| Voir la documentation Zotero,  page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/word_processor_plugin_usage>`__.
 
 
 Utilisation des termes latins de renvoi
@@ -302,14 +311,16 @@ pas entre un terme latin de renvoi et sa citation de référence.
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~
 
--  Le style génère automatiquement les termes de renvoi, à l'exception
+Le style génère automatiquement les termes de renvoi, à l'exception
    de *Loco citato*, qui correspond au même cas que *Ibidem*. Au lieu de
    *loc. cit.* sera ainsi affiché *Ibid.*
--  Le terme de renvoi *op. cit.* est généré automatiquement lorsque la
+   
+Le terme de renvoi *op. cit.* est généré automatiquement lorsque la
    référence citée n'est pas distante de plus de **7** notes de la
    dernière occurrence de cette référence.
--  L'abréviation "Id." pour remplacer les auteurs est générée uniquement
-   en bibliographie et non en note de bas de page. Elle est affichée
+   
+L'abréviation "Id." pour remplacer les auteurs est générée **uniquement
+   en bibliographie** et non en note de bas de page. Elle est affichée
    lorsque **tous les auteurs** de la référence bibliographique
    précédente sont exactement identiques à **tous les auteurs** de la
    référence considérée. La liste entière des noms, y compris les termes
