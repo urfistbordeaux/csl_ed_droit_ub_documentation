@@ -54,7 +54,7 @@ Zotero <https://www.zotero.org/groups/2190104/items/V8T4989M>`__
 Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-DUGUIT Léon, *L’État‎, le droit objectif et la loi positive*, Dalloz,
+DUGUIT Léon, *L’État, le droit objectif et la loi positive*, Dalloz,
 2003, p. 68 s.
 
 BAUDRY-LACANTINERIE Gabriel, *Précis de droit civil*, Sirey, 1926, p.
@@ -402,7 +402,6 @@ LACOUE-LABARTHE Dominique, « Bâle II et IAS 39 : les nouvelles exigences en f
 BOIS DE GAUDUSSON Jean (du), « Réflexions sur les nouveaux
 développements du constitutionalisme en Afrique », in *Mélanges
 Jaubert*, Presses universitaires de Bordeaux, 1992, p. 180.
-
 
 
 Application dans Zotero
