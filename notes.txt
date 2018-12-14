@@ -1,13 +1,13 @@
 Lisez-moi
 =========
 
-Vous trouverez dans cette section toutes les informations nécessaires à la bonne utilisation du style CSL, s'agissant tant des paramétrages à effectuer que des spécificités de saisie des références dans Zotero.
+Vous trouverez dans cette section toutes les informations nécessaires à la bonne utilisation du style CSL, concernant tant les paramétrages à effectuer que les spécificités de saisie des références dans Zotero.
 
 Le style CSL permet d'automatiser la rédaction bibliographique, s'agissant tant du respect des consignes typographiques que de l'insertion des mentions telles que "dir.", "en ligne", tant de l'emploi opportun des mentions latines que du tri automatique de la bibliographie.
 
 **Les recommandations suivantes ne sont pas exhaustives. Elles listent des points de vigilance, signalent les consignes de rédaction qui n'ont pas pu être automatisées, explicitent certains paramètres d'automatisation, et vous suggèrent quelques trucs et astuces pour faciliter la saisie des références dans votre bibliothèque Zotero et la rédaction bibliographique.**
 
-La `bibliothèque Zotero d'exemples <https://www.zotero.org/groups/2190104/style_csl_ed_droit_bx>`__, vous fournit des modèles de saisie pour chaque type de document pris en charge par le style. N'hésitez pas à les enregistrer dans votre bibliothèque Zotero, le marqueur *exemple_style_eddroit_ubx* qui leur est associé vous permettra de les distinguer aisément de vos références propres.
+La `bibliothèque Zotero d'exemples <https://www.zotero.org/groups/2190104/style_csl_ed_droit_bx>`__, vous fournit des modèles de saisie pour chaque type de document pris en charge par le style. N'hésitez pas à les enregistrer dans votre bibliothèque Zotero, le marqueur *exemple_style_eddroit_ubx* qui leur est associé vous permettra de les distinguer aisément de vos propres références.
 
 .. contents:: **Table des matières**
 
@@ -30,8 +30,8 @@ Module de traitement de texte
 
 Zotero dispose d'une fonctionnalité lui permettant d'abréger automatiquement les titres de revue à partir des titres complets saisis dans le champ ``Publication``. Le contenu du champ ``Abrév. de revue`` est alors ignoré. Les règles d'abréviation automatiques ne correspondent pas aux normes d'abréviation en droit, aussi convient-il de désactiver cette option, cochée par défaut lorsque l'on définit le style de citation dans les "Préférences du document" dans le module de traitement de texte.
 
-Voir la documentation Zotero,  page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/preferences/cite>`__.
-.. préciser la section.
+Voir la documentation Zotero,  page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/word_processor_plugin_usage>`__.
+
 
 Liste de ressources et bibliographie
 --------------------------------------------------
@@ -56,12 +56,15 @@ Si la note comporte beaucoup de texte en plus des citations, il peut être envis
 
 Voir le forum Zotero, discussion `Adding text/excerpts to footnotes <https://forums.zotero.org/discussion/33069/adding-text-excerpts-to-footnotes>`__.
 
+Voir la documentation Zotero,  page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/word_processor_plugin_usage>`__.
+
+
 Date de consultation
 -------------------------------------
 
 Pour les documents numériques, une date de consultation doit être mentionnée. Si le champ ``Consulté le`` est renseigné automatiquement lorsque vous enregistrez une page Web, ce n'est pas le cas pour les livres, les thèses ou les articles.
 
-Dans ces cas, une méthode rapide pour incrémenter la date de consultation consiste à saisir *today* dans le champ ``Consulté le``.
+Dans ces cas, une méthode rapide pour incrémenter la date de consultation consiste à saisir *today* dans le champ ``Consulté le``. La date du jour est alors automatiquement insérée.
 Cette méthode peut être utilisée pour tous les champs de type date.
 
 
@@ -140,7 +143,7 @@ Application dans Zotero
 Un titre abrégé suivi de la mention […] sera saisi dans le champ
 ``Titre abrégé`` et affiché seulement en note de bas de page. En
 bibliographie, le titre complet saisi dans le champ ``Titre`` est
-toujours affiché. Le paramétrage suivant est en effet appliqué pour gérer l'afichage des titres et compléments de titre.
+toujours affiché. Le paramétrage suivant est en effet appliqué pour gérer l'affichage des titres et compléments de titre.
 
 Si on souhaite mentionner en note de bas de page seulement un ``Titre`` et
 en bibliographie un ``Titre, complément du titre``, il convient de saisir
@@ -227,15 +230,14 @@ Application dans Zotero
 En bibliographie comme en note de bas de page, l'abréviation de "pages"
 est générée automatiquement par Zotero.
 
-En note de bas de page, on affiche la mention de page (ou de section, de partie, etc.) associée à la référence lors de son insertion avec le module de traitement de texte de Zotero.  En l'absence d'une telle mention, ni la pagination ni le nombre
+En note de bas de page, on affiche le "localisateur"  (mention de page, de section, de partie, etc.,) associé à la référence lors de son insertion avec le module de traitement de texte de Zotero.  En l'absence d'une telle mention, ni la pagination ni le nombre
 de pages ne sont affichés en note de bas de page. Ces éléments sont réservés à la bibliographie.
 
 Pour la mention *passim*, on veillera à effectuer la saisie dans le champ ``Suffixe`` lors de l'insertion de la référence avec le module de traitement de texte Zotero, sous la forme suivante.
 
    ``, <i>passim</i>``
 
-Voir la documentation Zotero, page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/preferences/cite>`__.
-.. préciser la section.
+Voir la documentation Zotero,  page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/word_processor_plugin_usage>`__.
 
 
 Utilisation des termes latins de renvoi
