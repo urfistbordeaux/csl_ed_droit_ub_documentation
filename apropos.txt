@@ -2,7 +2,7 @@ A propos
 =========
 
 La documentation du style CSL `Université de Bordeaux - École doctorale
-de droit (French) <https://www.zotero.org/styles/universite-de-bordeaux-ecole-doctorale-de-droit>`__ reprend les consignes de rédaction de la 2ème éédition du guide `Citer des
+de droit (French) <https://www.zotero.org/styles/universite-de-bordeaux-ecole-doctorale-de-droit>`__ reprend les consignes de rédaction de la 2ème édition du guide `Citer des
 références bibliographiques juridiques <http://weburfist.univ-bordeaux.fr/wp-content/uploads/2017/12/20171208-R%C3%A9dux-Guide-de-r%C3%A9daction-des-r%C3%A9f%C3%A9rences-bibliographiques-version-num%C3%A9rique.pdf>`__ et intègre des spécifications propres à l'usage de Zotero.
 
 .. image:: couv_guide_petit.jpg
