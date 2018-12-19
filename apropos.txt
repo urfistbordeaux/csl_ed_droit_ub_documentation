@@ -2,12 +2,11 @@ A propos
 =========
 
 La documentation du style CSL "Université de Bordeaux - École doctorale
-de droit (French)" est dérivée de la 2ème édition du guide `Citer des
-références bibliographiques
-juridiques <http://weburfist.univ-bordeaux.fr/wp-content/uploads/2017/12/20171208-R%C3%A9dux-Guide-de-r%C3%A9daction-des-r%C3%A9f%C3%A9rences-bibliographiques-version-num%C3%A9rique.pdf>`__.
+de droit (French)" reprend les consignes de rédaction de la 2ème éédition du guide `Citer des
+références bibliographiques juridiques <http://weburfist.univ-bordeaux.fr/wp-content/uploads/2017/12/20171208-R%C3%A9dux-Guide-de-r%C3%A9daction-des-r%C3%A9f%C3%A9rences-bibliographiques-version-num%C3%A9rique.pdf>`__. et intègre des spécifications propres à l'usage de Zotero.
 
-Elle reprend les consignes de rédaction et intègre des spécifications
-propres à l'usage de Zotero.
+.. image:: couv_guide_petit.jpg
+    :align: middle
 
 La section
 `Lisez-moi <https://documentation-style-csl-ed-droit-ubx.readthedocs.io/en/latest/notes.html>`__
@@ -27,7 +26,7 @@ Pour signaler un dysfonctionnement, demander la prise en compte d'un nouveau typ
 Crédits
 ----------------------
 
-Ce(tte) œuvre est mise à disposition selon les termes de la `Licence
+Cette œuvre est mise à disposition selon les termes de la `Licence
 Creative Commons Attribution - Pas d'Utilisation Commerciale - Pas de
 Modification 4.0 International <http://creativecommons.org/licenses/by-nc-nd/4.0/>`__.
 
@@ -37,5 +36,5 @@ Elle est dérivée de :
 
 BEYNEY Geoffrey, BODIN Marc, DELBREL Sophie et al., Citer des références
 bibliographiques juridiques: guide de rédaction : notes de bas de page
-et bibliographie, Gravier Pierre (éd.), Bordeaux, Urfist de
-Bordeaux, 2018, 36 p.
+et bibliographie, Gravier Pierre (éd.), 2:sup:`e` éd., Bordeaux, Urfist de
+Bordeaux, 2019, 36 p.
