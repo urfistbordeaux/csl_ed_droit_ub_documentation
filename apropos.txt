@@ -22,7 +22,10 @@ ligne <https://www.zotero.org/groups/2190104/style_csl_ed_droit_bx?>`__.
 
 Besoin d'aide?
 ----------------------
-Pour signaler un dysfonctionnement, demander la prise en compte d'un nouveau type de document ou pour tout autre requête, merci de respecter les indications de la page  `Contribuer au projet <https://github.com/fflamerie/csl_ed_droit_ubx/wiki/Contribuer-au-projet>`__.
+Pour signaler un dysfonctionnement lié au style, demander la prise en compte d'un nouveau type de document ou pour tout autre requête, merci de respecter les indications de la page `Contribuer au projet <https://github.com/fflamerie/csl_ed_droit_ubx/wiki/Contribuer-au-projet>`__.
+
+Si vous rencontrez des difficultés dans l'utilisation de Zotero, vous trouverez probablement une réponse dans la `documentation Zotero <https://www.zotero.org/support/>`__ ou sur le `forum Zotero <https://forums.zotero.org/>`__. Le forum permet de réunir l’ensemble des discussions des utilisateurs, de retrouver les questions posées et les réponses qu’ont pu suggérer les utilisateurs et développeurs de Zotero. Si vous ne trouvez pas de fil de discussion pour le sujet qui vous occupe, créez-en un : cela permet d’alimenter la base de connaissance qu’est le forum, de partager votre question et de lui voir peut-être apporter une réponse. Si la majorité des discussions sont en anglais, n’hésitez pas toutefois à créer un fil en français : certains contributeurs comprennent le français et/ou pourront vous répondre en français.
+
 
 Crédits
 ----------------------
