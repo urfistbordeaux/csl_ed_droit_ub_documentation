@@ -551,4 +551,4 @@ Il n’est matériellement pas possible d’établir une liste d’abréviations
 
 Il est recommandé d’établir une liste des abréviations utilisées en début de document de recherche pour les revues les plus utilisées. À cette fin, il est recommandé de se reporter à la manière dont les revues préconisent de se citer elles-mêmes, en recourant à leur site et indications aux auteurs.
 Les bibliothèques universitaires de l’université Toulouse 1 Capitole proposent un tableau présentant les abréviations juridiques les plus courantes, notamment pour les revues :
-<http://ressscd.ut-capitole.fr/scd/abrev/>
+http://ressscd.ut-capitole.fr/scd/abrev/
