@@ -316,4 +316,79 @@ Le terme de renvoi *op. cit.* est généré automatiquement lorsque la référen
 L'abréviation "Id." pour remplacer les auteurs est générée **uniquement en bibliographie** et non en note de bas de page. Elle est affichée lorsque **tous les auteurs** de la référence bibliographique précédente sont exactement identiques à **tous les auteurs** de la référence considérée. La liste entière des noms, y compris les termes tels que "et" ou "et al.", est alors remplacée par "Id."
 
 
+Abréviations conseillées – Codes
+--------------------------------
+
+La liste suivante ne peut être exhaustive, elle ne recense notamment pas
+toutes les variantes de titres portés par les codes au long de leur vie
+éditoriale et chez les différents éditeurs.
+
+Le document de recherche comprendra, avant son introduction, une liste
+des abréviations de codes utilisées.
+
+Par exception, lorsqu’un code est cité de manière habituelle, il peut
+l’être en note de bas de page avec pour seule information son
+abréviation.
+
+Cependant, lorsqu’un code étranger est cité, le pays producteur de la
+législation est cité comme auteur du document, afin de le différencier
+du code français. Ainsi :
+
+BELGIQUE, *Code civil*, 4 \ :sup:`e`\  éd., Philippe Denis et Dehasse Delphine (éd.),
+Bruylant, Bruxelles, 2006, 428 p.
+
+Code administratif	**C. adm.**
+Code civil	**C. civ.**
+Code constitutionnel et des droits fondamentaux	**C. const.**
+Code de commerce	**C. com.**
+Code de justice administrative	**CJA**
+Code de l’action sociale et des familles	**CASF**
+Code de l’avocat	**C. avocat**
+Code de l’éducation	**C. éduc.**
+Code de l’énergie	**C. énergie**
+Code de l’entrée et du séjour des étrangers et du droit d’asile	**Ceseda**
+Code de l’environnement	**C. envir.**
+Code de l’organisation judiciaire	**COJ**
+Code de l’urbanisme	**C. urb.**
+Code de la communication	**C. communic.**
+Code de la consommation	**C. consom.**
+Code de la construction et de l’habitation	**CCH**
+Code de la copropriété	**C. copr.**
+Code de la fonction publique	**C. fonc. publ.**
+Code de la mutualité	**C. mut.**
+Code de la nationalité	**C. nat.**
+Code de la propriété intellectuelle	**CPI**
+Code de la route	**C. route**
+Code de la santé publique	**CSP**
+Code de la sécurité sociale	**CSS**
+Code de procédure civile	**C. pr. civ.**
+Code de procédure fiscale	**C. pr. fisc.**
+Code de procédure pénale	**C. pr. pén.**
+Code des associations	**C. assoc.**
+Code des assurances	**C. assur.**
+Code des baux	**C. baux**
+Code des marchés publics	**C. marchés pub.**
+Code des ports maritimes	**C. ports mar.**
+Code des postes et télécommunications	**C. P et T**
+Code des procédures civiles d’exécution	**C. pr. exéc.**
+Code des procédures collectives	**C. pr. coll.**
+Code des relations entre le public et l’administration	**CRPA**
+Code des sociétés	**C. soc**
+Code des transports	**C. trans.**
+Code du sport	**C. sport**
+Code du tourisme	**C. tourisme**
+Code du travail	**C. trav.**
+Code du vin	**C. vin**
+Code électoral	**C. élect.**
+Code forestier	**C. for.**
+Code général de la propriété des personnes publiques	**CGPPP**
+Code général des collectivités territoriales	**CGCT**
+Code général des impôts	**CGI**
+Code minier	**C. minier**
+Code monétaire et financier	**C. mon. fin.**
+Code pénal	**C. pén.**
+Code rural et de la pêche maritime	**C. rur.**
+Code rurale et forestier	**C. rur. et for.**
+Livre des procédures fiscales	**LPF**
+Nouveau code de procédure civile	**NCPC**
 
