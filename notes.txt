@@ -486,11 +486,11 @@ Cour d’assises des mineurs	**C. assises. min.**
 
 Cour de cassation	**Cass.**
 
-Cour de cassation, première chambre civile	**1** \ :sup:`re`\  **civ.** 
+Cour de cassation, première chambre civile	**1**\ :sup:`re`\  **civ.** 
 
-Cour de cassation, deuxième chambre civile	**2** \ :sup:`e`\  **civ.**
+Cour de cassation, deuxième chambre civile	**2**\ :sup:`e`\  **civ.**
 
-Cour de cassation, troisième chambre civile	**3** \ :sup:`e`\  **civ.**
+Cour de cassation, troisième chambre civile	**3**\ :sup:`e`\  **civ.**
 
 Cour de cassation, chambre commerciale	**Com.**
 
@@ -544,3 +544,11 @@ Tribunal d’instance	**TI**
 
 Tribunal paritaire des baux ruraux	**TPBR**
 
+Abréviations conseillées - Revues
+--------------------------------
+
+Il n’est matériellement pas possible d’établir une liste d’abréviations recommandées, du fait du nombre des revues juridiques et de leurs fréquents changements de nom, fusions, scissions…
+
+Il est recommandé d’établir une liste des abréviations utilisées en début de document de recherche pour les revues les plus utilisées. À cette fin, il est recommandé de se reporter à la manière dont les revues préconisent de se citer elles-mêmes, en recourant à leur site et indications aux auteurs.
+Les bibliothèques universitaires de l’université Toulouse 1 Capitole proposent un tableau présentant les abréviations juridiques les plus courantes, notamment pour les revues :
+<http://ressscd.ut-capitole.fr/scd/abrev/>
