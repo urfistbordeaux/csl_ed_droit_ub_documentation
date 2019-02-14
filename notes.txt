@@ -316,7 +316,7 @@ Le terme de renvoi *op. cit.* est généré automatiquement lorsque la référen
 L'abréviation "Id." pour remplacer les auteurs est générée **uniquement en bibliographie** et non en note de bas de page. Elle est affichée lorsque **tous les auteurs** de la référence bibliographique précédente sont exactement identiques à **tous les auteurs** de la référence considérée. La liste entière des noms, y compris les termes tels que "et" ou "et al.", est alors remplacée par "Id."
 
 
-Abréviations conseillées – Codes
+Abréviations conseillées - Codes
 --------------------------------
 
 La liste suivante ne peut être exhaustive, elle ne recense notamment pas
@@ -486,11 +486,11 @@ Cour d’assises des mineurs	**C. assises. min.**
 
 Cour de cassation	**Cass.**
 
-Cour de cassation, première chambre civile	**1 \ :sup:`re`\  civ.** 
+Cour de cassation, première chambre civile	**1 \ :sup:`re`\   civ.** 
 
-Cour de cassation, deuxième chambre civile	**2\ :sup:`e`\  civ.**
+Cour de cassation, deuxième chambre civile	**2\ :sup:`e`\   civ.**
 
-Cour de cassation, troisième chambre civile	**3\ :sup:`e`\  civ.**
+Cour de cassation, troisième chambre civile	**3\ :sup:`e`\   civ.**
 
 Cour de cassation, chambre commerciale	**Com.**
 
