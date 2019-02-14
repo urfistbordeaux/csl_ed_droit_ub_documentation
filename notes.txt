@@ -486,11 +486,11 @@ Cour d’assises des mineurs	**C. assises. min.**
 
 Cour de cassation	**Cass.**
 
-Cour de cassation, première chambre civile	**1 \ :sup:`re`\   civ.** 
+Cour de cassation, première chambre civile	**1** \ :sup:`re`\  **civ.** 
 
-Cour de cassation, deuxième chambre civile	**2\ :sup:`e`\   civ.**
+Cour de cassation, deuxième chambre civile	**2** \ :sup:`e`\  **civ.**
 
-Cour de cassation, troisième chambre civile	**3\ :sup:`e`\   civ.**
+Cour de cassation, troisième chambre civile	**3** \ :sup:`e`\  **civ.**
 
 Cour de cassation, chambre commerciale	**Com.**
 
