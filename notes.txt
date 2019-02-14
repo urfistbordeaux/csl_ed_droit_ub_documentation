@@ -445,3 +445,102 @@ Livre des procédures fiscales	**LPF**
 
 Nouveau code de procédure civile	**NCPC**
 
+Abréviations conseillées - Juridictions
+--------------------------------
+
+Les jugements et arrêts sont cités sous la forme : Juridiction, date du jugement ou de l’arrêt, numéro de référence, éventuellement nom des parties, commentaires éventuels. Ainsi :
+
+CE, 19 mai 1933, Benjamin
+
+Soc., 26 juin 2013, n° 12-15.208
+
+Crim., 25 juin 2008, n° 07-80.261
+
+Cons. const., 16 juin 1999, n° 99-411
+
+CEDH, 7 oct. 1988, série A, n° 141-A
+
+Le document de recherche comprendra avant son introduction une liste des abréviations de juridictions.
+
+Lorsqu’une juridiction étrangère, portant le même nom qu’une juridiction française, est citée, elle est précédée du nom du pays concerné.
+
+Conseil constitutionnel	**Cons. Const.**
+
+Conseil des prud’hommes	**Cons. prud.**
+
+Conseil d’État	**CE**
+
+Conseil d’État, assemblée du contentieux	**CE ass.**
+
+Conseil d’État, plénière	**CE plén.**
+
+Conseil d’État, section	**CE sect.**
+
+Cour administrative d’appel	**CAA**
+
+Cour d’appel	**[Ville]**
+
+Cour d’assises	**C. assises**
+
+Cour d’assises des mineurs	**C. assises. min.**
+
+Cour de cassation	**Cass.**
+
+Cour de cassation, première chambre civile	**1 \ :sup:`re`\  civ.** 
+
+Cour de cassation, deuxième chambre civile	**2\ :sup:`e`\  civ.**
+
+Cour de cassation, troisième chambre civile	**3\ :sup:`e`\  civ.**
+
+Cour de cassation, chambre commerciale	**Com.**
+
+Cour de cassation, chambre sociale	**Soc.**
+
+Cour de cassation, chambre criminelle	**Crim.**
+
+Cour de cassation, chambre des requêtes	**Req.**
+
+Cour de cassation, chambre mixte	**Ch. mixte**
+
+Cour de cassation, chambre réunies	**Ch. réun.**
+
+Cour de cassation, assemblée plénière	**Ass. plén.**
+
+Cour de discipline budgétaire et financière	**CDBF**
+
+Cour de justice de l’Union européenne	**CJUE**
+
+Cour de justice de la Communauté européenne	**CJCE**
+
+Cour des comptes	**C. comptes**
+
+Cour européenne des droits de l’homme	**CEDH**
+
+Cour internationale de justice	**CIJ**
+
+Cour permanente de justice internationale	**CPJI**
+
+Juge de proximité	**J. prox.**
+
+Tribunal administratif	**TA**
+
+Tribunal arbitral du sport	**TAS**
+
+Tribunal correctionnel	**T. Corr.**
+
+Tribunal de commerce	**T. Com.**
+
+Tribunal de grande instance	**TGI**
+
+Tribunal de police	**T. Pol.**
+
+Tribunal des affaires de Sécurité Sociale	**TASS**
+
+Tribunal des conflits	**T. Confl.**
+
+Tribunal des enfants	**T. enfants**
+
+Tribunal d’instance	**TI**
+
+Tribunal paritaire des baux ruraux	**TPBR**
+
