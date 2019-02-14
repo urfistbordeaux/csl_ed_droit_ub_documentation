@@ -19,7 +19,7 @@ Modèle pour la bibliographie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Auteur [NOM prénom], *Titre de l’ouvrage, complément du titre*, tomaison
-[vol. X], édition [Xe éd.], autre responsabilité (préface, traduction,
+[vol. X], édition [X\ :sup:`e`\ éd.], autre responsabilité (préface, traduction,
 dirigé par…) [Nom prénom (préf., trad., dir.)], ville de publication,
 éditeur, année d’édition, pagination globale.
 
@@ -38,7 +38,7 @@ Franck (préf.), Paris, Dalloz, 2003, 623 p.
 |Z| `Exemple UMRJGXBR dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/UMRJGXBR>`__
 
-BAUDRY-LACANTINERIE Gabriel, *Précis de droit civil*, vol. 1, 14e éd.,
+BAUDRY-LACANTINERIE Gabriel, *Précis de droit civil*, vol. 1, 14\ :sup:`e`\ éd.,
 Paris, Sirey, 1926, 914 p.
 
 |Z| `Exemple XPL2K7WU dans la bibliothèque d'exemples
@@ -95,7 +95,7 @@ Modèle pour la bibliographie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Auteur [NOM prénom], *Titre de l’ouvrage, complément du titre* [en
-ligne], tomaison [vol. X], édition [Xe éd.], autre responsabilité
+ligne], tomaison [vol. X], édition [X\ :sup:`e`\ éd.], autre responsabilité
 (préface, traduction, dirigé par…) [Nom prénom (préf., trad., dir.)],
 ville de publication, éditeur, année d’édition, pagination globale,
 [consulté le JJ mois AAAA]. URL
@@ -110,14 +110,14 @@ Exemples pour la bibliographie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 COURBE Patrick et GOUTTENOIRE Adeline, *Droit de la famille* [en ligne],
-7e éd., Paris, Sirey, 2017, 572 p., [consulté le 9 janvier 2017].
+7\ :sup:`e`\ éd., Paris, Sirey, 2017, 572 p., [consulté le 9 janvier 2017].
 http://www.dalloz-bibliotheque.fr/bibliotheque/Droit_de_la_famille-58206.htm
 
 |Z| `Exemple 8ZY72VYJ dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/8ZY72VYJ>`__
 
 MÉLIN-SOUCRAMANIEN Ferdinand et PACTET Pierre, *Droit
-constitutionnel*\ [en ligne], 34e éd., Paris, Sirey, 2015, 680 p.,
+constitutionnel*\ [en ligne], 34\ :sup:`e`\ éd., Paris, Sirey, 2015, 680 p.,
 [consulté le 20 janvier 2017].
 http://www.dalloz-bibliotheque.fr/bibliotheque/Droit_constitutionnel-38072.htm
 
@@ -350,9 +350,9 @@ Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 Le champ "discipline" n'existe pas dans Zotero ni CSL, aussi convient-il de renseigner la discipline à la suite de l'intitulé du diplôme dans le champ ``Type``.
-   
+
 Ne pas mentionner le **nombre de pages** ni d'**URL**, l'absence du nombre de pages ET l'absence d'URL sont les critère d'affichage pour la mention ``[microfiche]``.
-   
+
 Le rôle de **directeur de thèse** n'existe pas dans Zotero : si applicable, on utilise le rôle ``director``. Ce champ n'existe pas en standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir sous la forme :
 
 ::
@@ -627,7 +627,7 @@ Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 Le champ ``Numéro`` n'existe pas dans Zotero pour les articles de presse : on ne saisit donc pas de numérotation pour les articles de journaux. Ce champ est en revanche disponible pour les magazines.
-   
+
 Saisir un intervalle dans le champ ``Date`` n'est pas autorisé : une date mentionnée sous la forme **15-22 juillet 1998** sur la
 publication sera saisie dans Zotero sous la forme **15/07/1998**.
 
@@ -782,7 +782,7 @@ Exemples pour les notes de bas de page
 
 FRANCE, MINISTÈRE DE L’ENSEIGNEMENT SUPÉRIEUR ET DE LA RECHERCHE,
 *Décret n° 2013-805 du 3 septembre 2013 portant création de l’Université
-de Bordeaux*, Journal officiel, n°206, 5 septembre 2013.
+de Bordeaux*, Journal officiel, n° 206, 5 septembre 2013.
 
 MINISTÈRE DE L’ÉDUCATION NATIONALE, *Décret du 13 juillet 1949
 approuvant une délibération du conseil de l’université de Bordeaux
