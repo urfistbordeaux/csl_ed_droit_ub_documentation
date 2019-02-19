@@ -5,7 +5,7 @@ Vous trouverez dans cette section toutes les informations nécessaires à la bon
 
 Le style CSL permet d'automatiser la rédaction bibliographique, s'agissant tant du respect des consignes typographiques que de l'insertion des mentions telles que "dir.", "en ligne", tant de l'emploi opportun des mentions latines que du tri automatique de la bibliographie.
 
-**Les recommandations suivantes ne sont pas exhaustives. Elles listent des points de vigilance, signalent les consignes de rédaction qui n'ont pas pu être automatisées, explicitent certains paramètres d'automatisation, et vous suggèrent quelques trucs et astuces pour faciliter la saisie des références dans votre bibliothèque Zotero et la rédaction bibliographique.**
+**Les recommandations suivantes ne sont pas exhaustives. Elles listent des points de vigilance, signalent les consignes de rédaction qui n'ont pas pu être automatisées et explicitent certains paramètres d'automatisation. Enfin, elles vous suggèrent quelques trucs et astuces pour faciliter tant la saisie des références dans votre bibliothèque Zotero que la rédaction bibliographique.**
 
 La `bibliothèque Zotero d'exemples <https://www.zotero.org/groups/2190104/style_csl_ed_droit_bx>`__, vous fournit des modèles de saisie pour chaque type de document pris en charge par le style. N'hésitez pas à les enregistrer dans votre bibliothèque Zotero, le marqueur *exemple_style_eddroit_ubx* qui leur est associé vous permettra de les distinguer aisément de vos propres références.
 
@@ -14,7 +14,7 @@ La `bibliothèque Zotero d'exemples <https://www.zotero.org/groups/2190104/style
 Paramétrages  Zotero
 -----------------------------------
 
-Gestionnaire de styles
+Gestionnaire de styles : affichage de l'URL des articles
 ~~~~~~~~~~~~~~~~~~~~~~
 
 Par défaut, Zotero ignore les champs ``URL`` et ``Consulté le`` pour les **articles**
@@ -30,10 +30,12 @@ depuis le gestionnaire de styles Zotero.
    :width: 25
    :align: middle
 
-Module de traitement de texte
+Module de traitement de texte : gestion des titres abrégés de revue
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Zotero dispose d'une fonctionnalité lui permettant d'abréger automatiquement les titres de revue à partir des titres complets saisis dans le champ ``Publication``. Le contenu du champ ``Abrév. de revue`` est alors ignoré. Les règles d'abréviation automatiques ne correspondent pas aux normes d'abréviation en droit, aussi convient-il de désactiver cette option, cochée par défaut lorsque l'on définit le style de citation dans les "Préférences du document" dans le module de traitement de texte.
+
+Il convient également de saisir manuellement pour chaque article le titre abrégé de la revue dans laquelle il est paru dans le champ ``Abrév. de revue``.
 
 |Z| Voir la documentation Zotero,  page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/word_processor_plugin_usage>`__.
 
@@ -51,15 +53,15 @@ Une espace délimite les citations multiples.
 
 Il vous revient donc d'insérer non seulement des éléments de texte si applicable, mais au minimum la ponctuation permettant de délimiter ces références.
 
-Deux méthodes méthodes sont applicables ; la première demeure à privilégier dans la mesure du possible.
+Deux méthodes sont applicables ; la première demeure à privilégier dans la mesure du possible.
 
-1. **Méthode 1** - Si la note de bas de page comporte peu de texte, il convient d'insérer le contenu textuel et la ponctuation en recourant aux champs ``Suffixe`` et ``Préfixe`` lors de l'insertion des citations avec le module de traitement de texte de Zotero. Cette méthode permet d'intégrer tout le contenu aux champx Zotero.
+1. **Méthode 1** - Si la note de bas de page comporte peu de texte, il convient d'insérer le contenu textuel et la ponctuation en recourant aux champs ``Suffixe`` et ``Préfixe`` lors de l'insertion des citations avec le module de traitement de texte de Zotero. Cette méthode permet d'intégrer tout le contenu aux champs Zotero.
 
-Voir le forum Zotero, discussion `How can I add text to a footnote with references from zotero <https://forums.zotero.org/discussion/61387/how-can-i-add-text-to-a-footnote-with-references-from-zotero>`__.
+|Z| Discussion sur le forum Zotero : `How can I add text to a footnote with references from zotero <https://forums.zotero.org/discussion/61387/how-can-i-add-text-to-a-footnote-with-references-from-zotero>`__.
 
 2. **Méthode 2** - Si la note de bas de page comporte beaucoup de texte en plus des citations, il peut être envisagé d'insérer d'abord la note dans Word ou LibreOffice, de saisir le texte, puis d'ajouter les citations directement dans la note.
 
-Voir le forum Zotero, discussion `Adding text/excerpts to footnotes <https://forums.zotero.org/discussion/33069/adding-text-excerpts-to-footnotes>`__.
+|Z| Discussion sur le forum Zotero : `Adding text/excerpts to footnotes <https://forums.zotero.org/discussion/33069/adding-text-excerpts-to-footnotes>`__.
 
 |Z| Voir la documentation Zotero,  page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/word_processor_plugin_usage>`__.
 
@@ -138,19 +140,13 @@ Cas particuliers concernant les titres
 La fin des titres ou sous-titre d’une longueur excessive peut être
 abrégée par […].
 
-Variante avec et sans guillemets
-~~~~~~~~~~~~~~~~~~~~~~~~
-Le style correspond à la variante avec guillemets encadrant les titres.
-
-La création d'une variante sans guillemets peut être considérée si des demandes sont formulées en ce sens sur le site GitHub du projet, selon les modalités définies sur la page `Contribuer au projet <https://github.com/fflamerie/csl_ed_droit_ubx/wiki/Contribuer-au-projet>`__.
-
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 Un titre abrégé suivi de la mention […] sera saisi dans le champ
 ``Titre abrégé`` et affiché seulement en note de bas de page. En
 bibliographie, le titre complet saisi dans le champ ``Titre`` est
-toujours affiché. Le paramétrage suivant est en effet appliqué pour gérer l'affichage des titres et compléments de titre.
+toujours affiché. Le paramétrage suivant est en effet appliqué pour générer l'affichage des titres et compléments de titre.
 
 Si on souhaite mentionner en note de bas de page seulement un ``Titre`` et
 en bibliographie un ``Titre, complément du titre``, il convient de saisir
@@ -162,13 +158,19 @@ dans la bibliothèque Zotero :
 |Z| `Exemple KSE9EUTP dans la bib Zotero de
 groupe <https://www.zotero.org/groups/2190104/items/KSE9EUTP>`__
 
+Variante avec et sans guillemets
+~~~~~~~~~~~~~~~~~~~~~~~~
+Le style correspond à la variante avec guillemets encadrant les titres.
+
+La création d'une variante sans guillemets peut être considérée si des demandes sont formulées en ce sens sur le site GitHub du projet, selon les modalités définies sur la page `Contribuer au projet <https://github.com/fflamerie/csl_ed_droit_ubx/wiki/Contribuer-au-projet>`__.
+
 
 Cas particuliers concernant les éditions
 ----------------------------------------------------
 
 La mention de l’édition est réduite au minimum, en employant des
-chiffres arabes : « XIIe édition revue et corrigée » devient dans les
-références bibliographiques : « 12e éd. ».
+chiffres arabes : « XII \ :sup:`e`\   édition revue et corrigée » devient dans les
+références bibliographiques : « 12 \ :sup:`e`\   éd. ».
 
 Cas particuliers concernant la publication
 --------------------------------------------------------
@@ -225,11 +227,11 @@ En note de bas de page, on mentionne les pages concernées par la
 citation. L’abréviation de « pages » est placée avant la page ou la
 tranche concernée (p. 49). On peut employer les abréviations suivantes :
 
--  p. 8-12 = Pages 8 à 12
--  p. 8 ; 12 = Pages 8 et 12
--  p. 47 s. = Page 47 et suivantes
--  p. 47 spéc. = Spécialement page 47
--  *passim* = En différents endroits du document, qu’on choisit de ne  pas lister
+ -  p. 8-12 = Pages 8 à 12
+ -  p. 8 ; 12 = Pages 8 et 12
+ -  p. 47 s. = Page 47 et suivantes
+ -  p. 47 spéc. = Spécialement page 47
+ -  *passim* = En différents endroits du document, qu’on choisit de ne  pas lister
 
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -237,7 +239,7 @@ Application dans Zotero
 En bibliographie comme en note de bas de page, l'abréviation de "pages"
 est générée automatiquement par Zotero.
 
-En note de bas de page, on affiche le "localisateur"  (mention de page, de section, de partie, etc.,) associé à la référence lors de son insertion avec le module de traitement de texte de Zotero.  **En l'absence d'une telle mention, ni la pagination ni le nombre
+En note de bas de page, on affiche le "localisateur"  (mention de page, de section, de partie, etc.) associé à la référence lors de son insertion avec le module de traitement de texte de Zotero.  **En l'absence d'une telle mention, ni la pagination ni le nombre
 de pages ne sont affichés en note de bas de page.** Ces éléments sont réservés à la bibliographie.
 
 Pour la mention *passim*, on veillera à effectuer la saisie dans le champ ``Suffixe`` lors de l'insertion de la référence avec le module de traitement de texte Zotero, sous la forme suivante.
@@ -256,15 +258,13 @@ s’accompagne donc d’une grande vigilance, notamment quand plusieurs de
 ces termes se succèdent.
 
 *Idem*, abrégé en *Id.*, signifie « le même ». Cette abréviation est
-employée pour indiquer qu’il s’agit du même auteur que pour la citation
-précédente.
+employée pour indiquer qu’il s’agit du même auteur que pour la citation précédente.
 
     BARCKHAUSEN Henri, *Essai sur le régime législatif de Bordeaux au
     Moyen-âge*, Bordeaux, Gounouilhou, 1890, 34 p.
 
-    Id., *Rapport de la commission de la Faculté sur le projet de
-    réorganisation de la Licence en droit*, Bordeaux, Cadoret, 1889, 11
-    p.
+    *Id.*, *Rapport de la commission de la Faculté sur le projet de
+    réorganisation de la Licence en droit*, Bordeaux, Cadoret, 1889, 11 p.
 
 *Ibidem*, abrégé en *ibid.*, signifie « au même endroit ». Cette
 abréviation est employée pour indiquer qu’il s’agit du même auteur ET de
@@ -310,17 +310,17 @@ Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~
 
 Le style génère automatiquement les termes de renvoi, à l'exception de *Loco citato*, qui correspond au même cas que *Ibidem*. Au lieu de *loc. cit.* sera ainsi affiché *Ibid.*
-   
+
 Le terme de renvoi *op. cit.* est généré automatiquement lorsque la référence citée n'est pas distante de plus de **7** notes de la dernière occurrence de cette référence.
-   
-L'abréviation "Id." pour remplacer les auteurs est générée **uniquement en bibliographie** et non en note de bas de page. Elle est affichée lorsque **tous les auteurs** de la référence bibliographique précédente sont exactement identiques à **tous les auteurs** de la référence considérée. La liste entière des noms, y compris les termes tels que "et" ou "et al.", est alors remplacée par "Id."
+
+L'abréviation *Id.* pour remplacer les auteurs est générée **uniquement en bibliographie** et non en note de bas de page. Elle est affichée lorsque **tous les auteurs** de la référence bibliographique précédente sont exactement identiques à **tous les auteurs** de la référence considérée. La liste entière des noms, y compris les termes tels que "et" ou "et al.", est alors remplacée par *Id.*
 
 
 Abréviations conseillées - Codes
 --------------------------------
 
 La liste suivante ne peut être exhaustive, elle ne recense notamment pas
-toutes les variantes de titres portés par les codes au long de leur vie
+toutes les variantes de titres portées par les codes au long de leur vie
 éditoriale et chez les différents éditeurs.
 
 Le document de recherche comprendra, avant son introduction, une liste
@@ -486,7 +486,7 @@ Cour d’assises des mineurs	**C. assises. min.**
 
 Cour de cassation	**Cass.**
 
-Cour de cassation, première chambre civile	**1**\ :sup:`re`\  **civ.** 
+Cour de cassation, première chambre civile	**1**\ :sup:`re`\  **civ.**
 
 Cour de cassation, deuxième chambre civile	**2**\ :sup:`e`\  **civ.**
 
