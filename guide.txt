@@ -69,7 +69,7 @@ Application dans Zotero
 
 Ne pas mentionner d'**URL**, c'est un critère d'affichage pour la mention ``[en ligne]`` pour les ouvrages numériques - voir *infra*.
 
-Mentionner obligatoirement le **nombre de pages**, l'absence du nombre de  pages est le critère d'affichage pour la mention ``[microfiche]`` -   voir *infra*.
+Mentionner obligatoirement le **nombre de pages**, l'absence du nombre de  pages est le critère d'affichage pour la mention ``[microfiche]`` pour les travaux universitaires microfichés -   voir *infra*.
 
 S'il n'y a pas d'auteur, Zotero affiche le nom de l'éditeur selon la même mise en forme que les noms d'auteur, pour prendre en compte le cas des actes publiés d'un colloque.
 
@@ -137,9 +137,9 @@ constitutionnel* [en ligne], Sirey, 2015, p. 18, 54 et 101-103 spéc.,
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Mentionner obligatoirement le **nombre de pages**, l'absence du nombre de pages est le critère d'affichage pour la mention ``[microfiche]`` -  voir *infra*.
+Mentionner obligatoirement le **nombre de pages**, l'absence du nombre de pages est le critère d'affichage pour la mention ``[microfiche]`` pour les travaux universitaires microfichés -  voir *infra*.
 
-S'il n'y a pas d'auteur, Zotero affiche le nom de l'éditeur avec le même formatage que les noms d'auteur, pour prendre en compte le cas des actes publiés d'un colloque.
+S'il n'y a pas d'auteur, Zotero affiche le nom de l'éditeur selon la même mise en forme que les noms d'auteur, pour prendre en compte le cas des actes publiés d'un colloque.
 
 Les mentions de responsabilités secondaires (traducteur, etc.) sont générées automatiquement par Zotero à partir du moment où les rôles sont correctement saisis.
 
@@ -218,7 +218,7 @@ Le champ "discipline" n'existe pas dans Zotero ni CSL, aussi convient-il de rens
 
 Ne pas mentionner d'URL, c'est un critère d'affichage pour la mention ``[en ligne]`` des travaux universitaires numériques - voir *infra*.
 
-Mentionner obligatoirement le nombre de pages, l'absence du nombre de pages est le critère d'affichage pour la mention ``[microfiche]`` - voir *infra*.
+Mentionner obligatoirement le nombre de pages, l'absence du nombre de pages est le critère d'affichage pour la mention ``[microfiche]``pour les travaux universitaires microfichés - voir *infra*.
 
 Le rôle de **directeur de thèse** n'existe pas dans Zotero : si applicable, on utilise le rôle ``director``. Ce champ n'existe pas en standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir sous la forme :
 
@@ -290,7 +290,7 @@ Application dans Zotero
 
 Le champ "discipline" n'existe pas dans Zotero ni CSL, aussi convient-il de renseigner la discipline à la suite de l'intitulé du diplôme dans le champ ``Type``.
 
-Mentionner obligatoirement le **nombre de pages**, l'absence du nombre de pages est le critère d'affichage pour la mention ``[microfiche]`` - voir *infra*.
+Mentionner obligatoirement le **nombre de pages**, l'absence du nombre de pages est le critère d'affichage pour la mention ``[microfiche]`` pour les travaux universitaires microfichés- voir *infra*.
 
 Le rôle de **directeur de thèse** n'existe pas dans Zotero : si applicable, on utilise le rôle ``director``. Ce champ n'existe pas en standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir sous la forme :
 
@@ -574,8 +574,7 @@ Application dans Zotero
 
 Le champ ``Numéro`` n'existe pas dans Zotero pour les articles de presse : on ne saisit donc pas de numérotation pour les articles de journaux. Ce champ est en revanche disponible pour les magazines.
 
-Saisir un intervalle dans le champ ``Date`` n'est pas autorisé : une date mentionnée sous la forme **15-22 juillet 1998** sur la
-publication sera saisie dans Zotero sous la forme **15/07/1998**.
+Il est possible de saisir un intervalle dans le champ ``Date``, mais cet intervalle ne pourra pas être restitué à l'affichage. Une date saisie sous la forme **15-22/07/1998** sera restituée sous la forme **15 juillet  1998**.
 
 Citer un article de presse ou de magazine numérique
 ---------------------------------------------------
@@ -736,11 +735,11 @@ Exemples pour les notes de bas de page
 
 MALABAT Valérie, Simplifier mais comment ?, in Bonis-Garçon Évelyne
 (dir.), *Pour une refonte du droit des peines : quels changements si les
-préconisations de la Commission Cotte étaient suivies ?*, 2016, p. 90.
+préconisations de la Commission Cotte étaient suivies ?*, LexisNexis, 2016, p. 90.
 
 GAUTRON Jean-Claude et GRARD Loïc, Le droit international dans la
 construction de l’Union européenne, in Société française pour le droit international (dir.), *Droit international et droit communautaire,
-perspectives actuelles*, 2000, p. 57.
+perspectives actuelles*, Pedone, 2000, p. 57.
 
 Citer une norme juridique
 -------------------------
@@ -851,7 +850,7 @@ sera souvent le même que celui de l’institution.
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-On utilise le type de document ``Page Web``\ pour les sites en ligne et ``Billet de blog`` pour les blogues.
+On utilise le type de document ``Page Web`` pour les sites en ligne et ``Billet de blog`` pour les blogues.
 
 Les champs ``Titre`` et ``Date`` ne sont pas renseignés, on renseigne seulement les champs ``Titre du site Web`` et ``Titre du blog``.
 
@@ -895,7 +894,7 @@ Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 MAÎTRE ÉOLAS, « Pour en finir avec la séparation des pouvoirs », sur
-*Journal d’un avocat : Instantanés de la justice et du droit*\ [en
+*Journal d’un avocat : Instantanés de la justice et du droit* [en
 ligne], publié le 21 février 2017, [consulté le 21 mars 2017].
 
 GROUPE D’INFORMATION ET DE SOUTIEN DES IMMIGRÉ.E.S, « Pour en finir avec
@@ -1031,7 +1030,7 @@ GRANGER Sabrina, *Modalités de publication d’un guide bibliographique*
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-On renseigne le le lieu dans le champ ``Loc. dans l'archive``.
+On renseigne le lieu dans le champ ``Loc. dans l'archive``.
 
 On renseigne la pagination de la transcription dans le champ ``Cote``.
 
