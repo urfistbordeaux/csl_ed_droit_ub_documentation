@@ -69,8 +69,6 @@ Application dans Zotero
 
 Ne pas mentionner d'**URL**, c'est un critère d'affichage pour la mention ``[en ligne]`` pour les ouvrages numériques - voir *infra*.
 
-Mentionner obligatoirement le **nombre de pages**, l'absence du nombre de  pages est le critère d'affichage pour la mention ``[microfiche]`` pour les travaux universitaires microfichés -   voir *infra*.
-
 S'il n'y a pas d'auteur, Zotero affiche le nom de l'éditeur selon la même mise en forme que les noms d'auteur, pour prendre en compte le cas des actes publiés d'un colloque.
 
 Les mentions de responsabilités secondaires (traducteur, etc.) sont  générées automatiquement par Zotero à partir du moment où les rôles sont correctement saisis.
@@ -136,8 +134,6 @@ constitutionnel* [en ligne], Sirey, 2015, p. 18, 54 et 101-103 spéc.,
 
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
-
-Mentionner obligatoirement le **nombre de pages**, l'absence du nombre de pages est le critère d'affichage pour la mention ``[microfiche]`` pour les travaux universitaires microfichés -  voir *infra*.
 
 S'il n'y a pas d'auteur, Zotero affiche le nom de l'éditeur selon la même mise en forme que les noms d'auteur, pour prendre en compte le cas des actes publiés d'un colloque.
 
