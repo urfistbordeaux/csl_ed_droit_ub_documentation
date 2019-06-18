@@ -454,7 +454,7 @@ On se réfèrera utilement à la façon dont chaque revue prescrit de
 référencer ses contenus, ainsi que l’abréviation recommandée par la
 revue. Par défaut, une liste des abréviations recommandées figure en annexe du guide `Citer des
 références bibliographiques
-juridiques <http://weburfist.univ-bordeaux.fr/wp-content/uploads/2017/12/20171208-R%C3%A9dux-Guide-de-r%C3%A9daction-des-r%C3%A9f%C3%A9rences-bibliographiques-version-num%C3%A9rique.pdf>`__.
+juridiques <https://hal.archives-ouvertes.fr/hal-02151987>`__.
 
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -468,14 +468,14 @@ Zotero <https://www.zotero.org/groups/2190104/items/RI3TNQIV>`__
 Citer un article de revue numérique
 -----------------------------------
 
-Modèles pour la bibliographie
+Modèle pour la bibliographie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Auteur [NOM prénom], « Titre de l’article, complément du titre » [en
 ligne], *Titre de la revue*, partie, mois année, numéro, pagination
 globale, [consulté le JJ mois AAAA]. URL
 
-Modèles pour les notes de bas de page
+Modèle pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Auteur [NOM prénom], « Titre de l’article » [en ligne], *Titre de la
@@ -575,14 +575,14 @@ Il est possible de saisir un intervalle dans le champ ``Date``, mais cet interva
 Citer un article de presse ou de magazine numérique
 ---------------------------------------------------
 
-Modèles pour la bibliographie
+Modèle pour la bibliographie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Auteur [NOM prénom], « Titre de l’article, complément du titre » [en
 ligne], *Titre du journal ou du magazine*, JJ mois AAAA, numéro,
 pagination globale, [consulté le JJ mois AAAA]. URL
 
-Modèles pour les notes de bas de page
+Modèle pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Auteur [NOM prénom], « Titre de l’article » [en ligne], *Titre du
@@ -853,14 +853,14 @@ Les champs ``Titre`` et ``Date`` ne sont pas renseignés, on renseigne seulement
 Citer un article ou une page d’un site en ligne, un blogue
 ----------------------------------------------------------
 
-Modèles pour la bibliographie
+Modèle pour la bibliographie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 AUTEUR, « Titre de l’article ou de la page », sur *Titre de la page
 d'accueil* [en ligne], publié le JJ mois AAAA, [consulté le JJ mois
 AAAA]. URL
 
-Modèles pour les notes de bas de page
+Modèle pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 AUTEUR, « Titre de l’article ou de la page », sur *Titre de la page
