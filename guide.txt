@@ -36,20 +36,20 @@ DUGUIT Léon, *L’État, le droit objectif et la loi positive*, Moderne
 Franck (préf.), Paris, Dalloz, 2003, 623 p.
 
 |Z| `Exemple UMRJGXBR dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/UMRJGXBR>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/itemKey/UMRJGXBR>`__
 
 BAUDRY-LACANTINERIE Gabriel, *Précis de droit civil*, vol. 1, 14\ :sup:`e`\  éd.,
 Paris, Sirey, 1926, 914 p.
 
 |Z| `Exemple XPL2K7WU dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/XPL2K7WU>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/XPL2K7WU>`__
 
 DALLOZ Édouard, VERGÉ Charles, VERGÉ Charles fils *et al.*, *Code des
 lois politiques et administratives*, vol. 2, Bureau de la Jurisprudence
 Générale, 1891, 1432 p.
 
 |Z| `Exemple V8T4989M dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/V8T4989M>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/V8T4989M>`__
 
 Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -74,7 +74,7 @@ S'il n'y a pas d'auteur, Zotero affiche le nom de l'éditeur selon la même mise
 Les mentions de responsabilités secondaires (traducteur, etc.) sont  générées automatiquement par Zotero à partir du moment où les rôles sont correctement saisis.
 
 |Z| `Exemple 9KHHPKTJ dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/9KHHPKTJ>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/9KHHPKTJ>`__
 
 Le rôle de **préfacier** n'existe pas dans Zotero : si applicable, on   utilise le rôle ``editorial-director``. Ce champ n'existe pas en
 standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir sous la forme :
@@ -84,7 +84,7 @@ standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir sous la form
     editorial-director: Moderne || Franck
 
 Rappel |Z| `Exemple UMRJGXBR dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/UMRJGXBR>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/UMRJGXBR>`__
 
 Citer un ouvrage numérique
 --------------------------
@@ -112,7 +112,7 @@ COURBE Patrick et GOUTTENOIRE Adeline, *Droit de la famille* [en ligne],
 http://www.dalloz-bibliotheque.fr/bibliotheque/Droit_de_la_famille-58206.htm
 
 |Z| `Exemple 8ZY72VYJ dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/8ZY72VYJ>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/8ZY72VYJ>`__
 
 MÉLIN-SOUCRAMANIEN Ferdinand et PACTET Pierre, *Droit
 constitutionnel* [en ligne], 34\ :sup:`e`\  éd., Paris, Sirey, 2015, 680 p.,
@@ -120,7 +120,7 @@ constitutionnel* [en ligne], 34\ :sup:`e`\  éd., Paris, Sirey, 2015, 680 p.,
 http://www.dalloz-bibliotheque.fr/bibliotheque/Droit_constitutionnel-38072.htm
 
 |Z| `Exemple 6CL9SIY9 dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/6CL9SIY9>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/6CL9SIY9>`__
 
 Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -139,7 +139,7 @@ S'il n'y a pas d'auteur, Zotero affiche le nom de l'éditeur selon la même mise
 
 Les mentions de responsabilités secondaires (traducteur, etc.) sont générées automatiquement par Zotero à partir du moment où les rôles sont correctement saisis.
 
-|Z| `Exemple 9KHHPKTJ dans la bibliothèque d'exemples Zotero <https://www.zotero.org/groups/2190104/items/9KHHPKTJ>`__
+|Z| `Exemple 9KHHPKTJ dans la bibliothèque d'exemples Zotero <https://www.zotero.org/groups/2190104/items/itemKey/9KHHPKTJ>`__
 
 Le rôle de **préfacier** n'existe pas dans Zotero : si applicable, on utilise le rôle ``editorial-director``. Ce champ n'existe pas en  standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir sous la forme :
 
@@ -148,7 +148,7 @@ Le rôle de **préfacier** n'existe pas dans Zotero : si applicable, on utilise 
     editorial-director: Moderne || Franck
 
 Rappel |Z| `Exemple UMRJGXBR dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/UMRJGXBR>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/UMRJGXBR>`__
 
 Citer des travaux universitaires imprimés (thèses et mémoires)
 --------------------------------------------------------------
@@ -156,7 +156,7 @@ Citer des travaux universitaires imprimés (thèses et mémoires)
 Il s’agit ici des éditions de dépôt dans les bibliothèques
 universitaires, c’est-à-dire des éditions non-commerciales. Les éditions
 de thèses et mémoires publiées chez des éditeurs commerciaux sont
-traitées comme des ouvrages.
+traitées comme des ouvrages.https://www.zotero.org/groups/2190104/items/itemKey/itemKey/
 
 Modèle pour la bibliographie
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -179,7 +179,7 @@ pratique notariale (1715-1789)*, Jaubert Pierre (dir.), thèse de
 doctorat, droit, université de Bordeaux I, 1981, 958 p.
 
 |Z| `Exemple 4DVMV6KA dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/4DVMV6KA>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/4DVMV6KA>`__
 
 RADÉ Christophe, *Le droit à l’insertion dans la loi du 1er décembre
 1988 relative au revenu minimum d’insertion*, Laborde Jean-Pierre
@@ -187,7 +187,7 @@ RADÉ Christophe, *Le droit à l’insertion dans la loi du 1er décembre
 p.
 
 |Z| `Exemple R2IX2IRW dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/R2IX2IRW>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/R2IX2IRW>`__
 
 Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -253,7 +253,7 @@ Malabat Valérie (dir.), thèse, droit, université Montesquieu-Bordeaux
 IV, 2012, 770 p., [consulté le 20 janvier 2017]. http://www.theses.fr/2012BOR40027
 
 |Z| `Exemple PT2DWA4B dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/PT2DWA4B>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/PT2DWA4B>`__
 
 LESTRADE Éric, *Les principes directeurs du procès dans la jurisprudence
 du Conseil Constitutionnel* [en ligne], Mélin-Soucramanien Ferdinand
@@ -261,7 +261,7 @@ du Conseil Constitutionnel* [en ligne], Mélin-Soucramanien Ferdinand
 [consulté le 9 janvier 2017]. http://www.theses.fr/2013BOR40033
 
 |Z| `Exemple GWXKFFTC dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/GWXKFFTC>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/GWXKFFTC>`__
 
 Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -318,14 +318,14 @@ Philippe (dir.), thèse de doctorat, droit, université
 Montesquieu-Bordeaux IV, 1998.
 
 |Z| `Exemple 26KXBI64 dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/26KXBI64>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/26KXBI64>`__
 
 MAUBLANC Jean-Pierre, *L’interprétation de la loi fiscale par le juge de
 l’impôt* [microfiche], Lamarque Jean (dir.), thèse de doctorat, droit,
 université de Bordeaux I, 1984.
 
 |Z| `Exemple VQVZW3CU dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/VQVZW3CU>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/VQVZW3CU>`__
 
 Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -379,7 +379,7 @@ Exemples pour la bibliographie
 LACOUE-LABARTHE Dominique, « Bâle II et IAS 39 : les nouvelles exigences en fonds propres réglementaires des banques et l’évaluation en juste valeur des instruments financiers », in Frison-Roche Marie-Anne (éd.), *Les banques entre droit et économie*, Paris, L.G.D.J., 2006, p. 265-294.
 
 |Z| `Exemple 62ITI758 dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/62ITI758>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/62ITI758>`__
 
 BOIS DE GAUDUSSON Jean (du), « Réflexions sur les nouveaux
 développements du constitutionalisme en Afrique », in Aubin Gérard
@@ -387,7 +387,7 @@ développements du constitutionalisme en Afrique », in Aubin Gérard
 Presses universitaires de Bordeaux, 1992, p. 179-187.
 
 |Z| `Exemple N8ZRTXUF dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/N8ZRTXUF>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/N8ZRTXUF>`__
 
 
 Exemples pour les notes de bas de page
@@ -428,14 +428,14 @@ HAUSER Jean, « Le préjudice d’être né, question de principe », *Droit e
 patrimoine*, janvier 2001, n° 89, p. 6-8.
 
 |Z| `Exemple M327JFZG dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/M327JFZG>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/M327JFZG>`__
 
 GOGOS-GINTRAND Amélie, « Le pacte commissoire : une institution
 dangereuse par nature », *Revue de la recherche juridique. Droit
 prospectif*, septembre 2011, n° 1, p. 401-422.
 
 |Z| `Exemple TUM2L65L dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/TUM2L65L>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/TUM2L65L>`__
 
 Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -463,7 +463,7 @@ On renseigne la mention de partie dans le champ ``Volume`` de la notice
 Zotero.
 
 |Z| `Exemple RI3TNQIV dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/RI3TNQIV>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/RI3TNQIV>`__
 
 Citer un article de revue numérique
 -----------------------------------
@@ -489,7 +489,7 @@ On renseigne la mention de partie dans le champ ``Volume`` de la notice
 Zotero.
 
 |Z| `Exemple RI3TNQIV dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/RI3TNQIV>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/RI3TNQIV>`__
 
 *Rappel* : par défaut, Zotero ignore les champs ``URL`` et
 ``Consulté le`` lorsqu'une **pagination** est renseignée. Ainsi, afin
@@ -507,14 +507,14 @@ sociaux » [en ligne], *Revue de droit sanitaire et social*, juillet
 2005, n° 4, p. 555-564, [consulté le 16 mars 2017]. http://www.dalloz.fr
 
 |Z| `Exemple 59CX6YJL dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/59CX6YJL>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/59CX6YJL>`__
 
 DUPRAT Jean-Pierre, « Le parlement évaluateur » [en ligne], *Revue
 internationale de droit comparé*, avril 1998, n° 2, p. 552-576,
 [consulté le 16 mars 2017]. https://www.persee.fr/doc/ridc_0035-3337_1998_num_50_2_1177
 
 |Z| `Exemple 9CRLLBQP dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/9CRLLBQP>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/9CRLLBQP>`__
 
 Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -547,14 +547,14 @@ DUCOURTIEUX Cécile, « État de droit : l'UE incapable de sanctionner
 Budapest et Varsovie », *Le Monde*, 20 septembre 2018, p. 3.
 
 |Z| `Exemple RSBZ3Y9L dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/RSBZ3Y9L>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/RSBZ3Y9L>`__
 
 DAVERAT Xavier, « Un arrêt de la CJUE ouvre la porte à la création d'un
 nouveau droit voisin », *Les Petites Affiches*, 22 décembre 2016, n°
 255, p. 13.
 
 |Z| `Exemple 2STBMD26 dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/2STBMD26>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/2STBMD26>`__
 
 Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -597,7 +597,7 @@ Budapest et Varsovie » [en ligne], *Le Monde*, 19 septembre 2018, paragr. 2,
 [consulté le 26 septembre 2018]. https://www.lemonde.fr/europe/article/2018/09/19/etat-de-droit-une-procedure-article-7-symbolique-mais-quasi-inapplicable\_5357222\_3214.html
 
 |Z| `Exemple 8Y3QA4YK dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/8Y3QA4YK>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/8Y3QA4YK>`__
 
 DAVERAT Xavier, « Un arrêt de la CJUE ouvre la porte à la création d'un
 nouveau droit voisin » [en ligne], *Les Petites Affiches*, 22 décembre
@@ -605,7 +605,7 @@ nouveau droit voisin » [en ligne], *Les Petites Affiches*, 22 décembre
 https://www-lextenso-fr.docelec.u-bordeaux.fr/petites-affiches/LPA121r1
 
 |Z| `Exemple 5X4XHJ94 dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/5X4XHJ94>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/5X4XHJ94>`__
 
 Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -649,28 +649,28 @@ quels changements si les préconisations de la Commission Cotte étaient
 suivies ?*, Paris, LexisNexis, 2016, 226 p.
 
 |Z| `Exemple JZSAUCG7 dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/JZSAUCG7>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/JZSAUCG7>`__
 
 ALLINNE Jean-Pierre et SOULA Mathieu (dir.), *La mort pénale : les
 enjeux historiques et contemporains de la peine de mort*, Rennes,
 Presses Universitaires de Rennes, 2015, 208 p.
 
 |Z| `Exemple 4NKQTQRQ dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/4NKQTQRQ>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/4NKQTQRQ>`__
 
 SOCIÉTÉ FRANÇAISE POUR LE DROIT INTERNATIONAL (dir.), *Droit
 international et droit communautaire, perspectives actuelles*, Paris,
 Pedone, 2000, 448 p.
 
 |Z| `Exemple KBMA75AS dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/KBMA75AS>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/KBMA75AS>`__
 
 CENTRE D’ÉTUDES ET DE RECHERCHES SUR LE DROIT DE LA MER (dir.),
 *L'immobilisation forcée des navires*, Talence, Presses Universitaires
 de Bordeaux, 1990, 175 p.
 
 |Z| `Exemple 47NCZPCL dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/47NCZPCL>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/47NCZPCL>`__
 
 Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -717,14 +717,14 @@ préconisations de la Commission Cotte étaient suivies ?*, Paris,
 LexisNexis, 2016, p. 89-93.
 
 |Z| `Exemple L9EMWHDG dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/L9EMWHDG>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/L9EMWHDG>`__
 
 GAUTRON Jean-Claude et GRARD Loïc, Le droit international dans la
 construction de l’Union européenne, in Société française pour le droit international (dir.), *Droit international et droit communautaire,
 perspectives actuelles*, Paris, Pedone, 2000, p. 11-152.
 
 |Z| `Exemple HBL825EX dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/HBL825EX>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/HBL825EX>`__
 
 Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -761,7 +761,7 @@ de Bordeaux*, Journal officiel, n° 206, 5 septembre 2013, p. 15020,
 ESRS1317830D.
 
 |Z| `Exemple AU2GMBDG dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/AU2GMBDG>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/AU2GMBDG>`__
 
 FRANCE, MINISTÈRE DE L’ÉDUCATION NATIONALE, *Décret du 13 juillet 1949
 approuvant une délibération du conseil de l’université de Bordeaux
@@ -770,7 +770,7 @@ politiques et économiques de cette université*, Journal officiel, 16
 juillet 1949, p. 6921.
 
 |Z| `Exemple FSMT6V8I dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/FSMT6V8I>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/FSMT6V8I>`__
 
 Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -820,13 +820,13 @@ MAÎTRE ÉOLAS, *Journal d’un avocat : Instantanés de la justice et du
 droit* [en ligne], [consulté le 5 octobre 2014]. http://www.maitre-eolas.fr
 
 |Z| `Exemple C3DARG2J dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/C3DARG2J>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/C3DARG2J>`__
 
 GROUPE D’INFORMATION ET DE SOUTIEN DES IMMIGRÉ.E.S, *Gisti* [en ligne],
 [consulté le 5 octobre 2014]. http://www.gisti.org
 
 |Z| `Exemple IXTT3BIR dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/IXTT3BIR>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/IXTT3BIR>`__
 
 Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -876,7 +876,7 @@ ligne], publié le 21 février 2017, [consulté le 21 mars 2017].
 http://www.maitre-eolas.fr/post/2017/02/19/Pour-en-finir-avec-la-s%C3%A9paration-des-pouvoirs
 
 |Z| `Exemple SWMIJKGL dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/SWMIJKGL>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/SWMIJKGL>`__
 
 GROUPE D’INFORMATION ET DE SOUTIEN DES IMMIGRÉ.E.S, « Pour en finir avec
 le délit de solidarité », sur *Gisti* [en ligne], publié le 12 janvier
@@ -884,7 +884,7 @@ le délit de solidarité », sur *Gisti* [en ligne], publié le 12 janvier
 https://www.gisti.org/spip.php?article5605
 
 |Z| `Exemple I6MKTFB5 dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/I6MKTFB5>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/I6MKTFB5>`__
 
 Exemples pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -919,19 +919,19 @@ Brevet américain n° US D709251 S, *Set of hamster wheels*, 15 juillet
 2014.
 
 |Z| `Exemple 2E5RLHFY dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/2E5RLHFY>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/2E5RLHFY>`__
 
 Brevet américain n° US Des. 430708, *Playground for small animal such as
 hamster*, 5 septembre 2000.
 
 |Z| `Exemple UXCQVZRT dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/UXCQVZRT>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/UXCQVZRT>`__
 
 Brevet européen n° EP3155925, *Boîtier d’attache sucette*, 19 avril
 2017.
 
 |Z| `Exemple 3WQ3VFVJ dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/3WQ3VFVJ>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/3WQ3VFVJ>`__
 
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -955,7 +955,7 @@ HOURQUEBIE Fabrice, *Re: Guide de la rédaction biblio : projet confirmé*
 [courriel], 9 novembre 2016.
 
 |Z| `Exemple RYNNPNIP dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/RYNNPNIP>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/RYNNPNIP>`__
 
 Citer une contribution à une liste de diffusion
 -----------------------------------------------
@@ -982,7 +982,7 @@ GASNAULT Jean, *Quel logiciel de veille pour une direction juridique ?*
 2017]. https://fr.groups.yahoo.com/neo/groups/juriconnexion/conversations/messages
 
 |Z| `Exemple VHQTPB6X dans la bibliothèque d'exemples
-Zotero <https://www.zotero.org/groups/2190104/items/VHQTPB6X>`__
+Zotero <https://www.zotero.org/groups/2190104/items/itemKey/VHQTPB6X>`__
 
 Exemple pour les notes de bas de page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

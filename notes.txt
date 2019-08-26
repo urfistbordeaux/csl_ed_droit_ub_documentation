@@ -156,7 +156,7 @@ dans la bibliothèque Zotero :
 -  le *Titre* dans le champ ``Titre abrégé``.
 
 |Z| `Exemple KSE9EUTP dans la bib Zotero de
-groupe <https://www.zotero.org/groups/2190104/items/KSE9EUTP>`__
+groupe <https://www.zotero.org/groups/2190104/items/itemKey/KSE9EUTP>`__
 
 Variante avec et sans guillemets
 ~~~~~~~~~~~~~~~~~~~~~~~~
