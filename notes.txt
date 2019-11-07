@@ -56,9 +56,7 @@ Il est alors prudent de créer deux versions de votre fichier Word ou LibreOffic
 - une **version de travail** conservant les liens avec votre bibliothèque Zotero, dans laquelle vous pourrez continuer à mettre à jour vos citations avec Zotero,
 - une version de laquelle vous aurez retiré ces liens en cliquant sur le bouton *Unlink citations* de Zotero dans le module de traitement de texte.
 
-C'est dans cette dernière version **sans codes** de champ Zotero, qui ne pourra donc plus être modifiée par Zotero, qu'il conviendra de supprimer la jurisprudence en fin de bibliographie.
-
-Dans la version de travail de votre fichier, un clic sur le bouton *Refresh* de Zotero dans le module de traitement de texte mettra en effet à jour la bibliographie en insérant une bibliographie complète, incluant donc la jurisprudence.
+C'est dans cette dernière version **sans codes de champ** Zotero, qui ne pourra donc plus être modifiée par Zotero, qu'il conviendra de supprimer la jurisprudence en fin de bibliographie. Dans la version de travail de votre fichier, un clic sur le bouton *Refresh* de Zotero dans le module de traitement de texte mettra en effet à jour la bibliographie en insérant une bibliographie complète, incluant donc la jurisprudence.
 
 |Z| Voir la documentation Zotero,  page `Utiliser le module Zotero pour Word <https://www.zotero.org/support/fr/word_processor_plugin_usage>`__.
 
