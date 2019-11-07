@@ -1076,7 +1076,7 @@ Exemple pour les notes de bas de page
 
 CJUE (Grande Chambre), 6 octobre 2015, n° C-73/14.
 
-`Exemple dans la bibliothèque Zotero <https://www.zotero.org/groups/style_csl_ed_droit_bx/items/itemKey/UP7L45FD>`__
+|Z| `Exemple dans la bibliothèque Zotero <https://www.zotero.org/groups/style_csl_ed_droit_bx/items/itemKey/UP7L45FD>`__
 
 Application dans Zotero
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1091,7 +1091,9 @@ avec le module de traitement de texte de Zotero.
 
 Afin que la ponctuation soit correctement générée, il convient de faire
 précéder votre commentaire d'une virgule. Vous saisirez ainsi dans le
-champ ``Suffixe`` : ``, contenu textuel de votre commentaire``
+champ ``Suffixe`` ::
+
+  , contenu textuel de votre commentaire
 
 Les recommandations pour les `citations
 multiples <https://documentation-style-csl-ed-droit-ubx.readthedocs.io/en/latest/notes.html#citations-multiples>`__
