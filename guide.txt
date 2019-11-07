@@ -1033,6 +1033,81 @@ On renseigne la pagination de la transcription dans le champ ``Cote``.
 On renseigne la mention "entretien" dans le champ ``Média``.
 
 
+Citer des arrêts, des jugements
+-----------------------------------------------------------------
+
+Le guide `Citer des références bibliographiques
+juridiques <https://hal.archives-ouvertes.fr/hal-02151987>`__ prévoit
+que les arrêts et jugements soient cités uniquement en note de bas de
+page, selon les modalités spécifiées dans la rubrique `Abréviations
+conseillées -
+Juridictions <https://documentation-style-csl-ed-droit-ubx.readthedocs.io/en/latest/notes.html#abreviations-conseillees-juridictions>`__.
+
+Zotero ne permet pas de citer des documents uniquement en note de bas de
+page sans qu'ils soient mentionnés dans la bibliographie. Aussi un
+modèle pour la bibliographie est-il intégré au style CSL; vous trouverez
+tous les détails concernant ce point dans la note d'application Zotero
+ci-dessous.
+
+**Le modèle pour les notes de bas de page applique exactement les
+recommandations du guide.**
+
+Modèle pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Juridiction, JJ mois AAAA, numéro de référence, *nom de l’affaire*,
+recueil, volume-première page, numéro ECLI.
+
+Modèle pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Juridiction, JJ mois AAAA, numéro de référence, *nom des parties*
+[facultatif], commentaires [facultatif].
+
+Exemple pour la bibliographie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CJUE (Grande Chambre), 6 octobre 2015, n° C-73/14, *Conseil de l'Union
+européenne contre Commission*, Recueil de jurisprudence, vol.
+1982-00417, ECLI:EU:C:2015:663.
+
+Exemple pour les notes de bas de page
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CJUE (Grande Chambre), 6 octobre 2015, n° C-73/14.
+
+`Exemple dans la bibliothèque Zotero <https://www.zotero.org/groups/style_csl_ed_droit_bx/items/itemKey/UP7L45FD>`__
+
+Application dans Zotero
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Le nom des parties est saisi dans le champ ``Titre abrégé``.
+
+Le numéro ECLI est saisi dans le champ ``Histoire``.
+
+Pour ajouter un commentaire en note de bas de page, privilégiez
+l'utilisation du champ ``Suffixe`` lors de l’insertion de la citation
+avec le module de traitement de texte de Zotero.
+
+Afin que la ponctuation soit correctement générée, il convient de faire
+précéder votre commentaire d'une virgule. Vous saisirez ainsi dans le
+champ ``Suffixe`` : ``, contenu textuel de votre commentaire``
+
+Les recommandations pour les `citations
+multiples <https://documentation-style-csl-ed-droit-ubx.readthedocs.io/en/latest/notes.html#citations-multiples>`__
+s'appliquent également pour la jurisprudence.
+
+L'impossibilité d'omettre dans la bibliographie des références citées
+impose de les supprimer manuellement une fois la bibliographie insérée.
+Afin de minimiser cet inconvénient, le style est paramétré pour
+regrouper tous les jugement et arrêts dans une section distincte, après
+la bibliographie et la liste de ressources. La `rubrique Lisez-moi >
+Bibliographie, liste de ressources et
+jurisprudence <https://documentation-style-csl-ed-droit-ubx.readthedocs.io/en/latest/notes.html#bibliographie-liste-de-ressources-et-jurisprudence>`__
+comporte toutes les informations et recommandations utiles si vous
+souhaitez retirer la jurisprudence de la bibliographie.
+
+
 .. |Z| image:: icone_zotero.png
    :height: 25
    :width: 25
