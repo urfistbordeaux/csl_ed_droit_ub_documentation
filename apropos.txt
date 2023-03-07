@@ -2,7 +2,7 @@ A propos
 =========
 
 La documentation du style CSL `Université de Bordeaux - École doctorale
-de droit (French) <https://www.zotero.org/styles/universite-de-bordeaux-ecole-doctorale-de-droit>`__ reprend les consignes de rédaction de la 2ème édition du guide `Citer des
+de droit (Français) <https://www.zotero.org/styles/universite-de-bordeaux-ecole-doctorale-de-droit>`__ reprend les consignes de rédaction de la 2ème édition du guide `Citer des
 références bibliographiques juridiques <https://hal.archives-ouvertes.fr/hal-02151987>`__ et intègre des spécifications propres à l'usage de Zotero.
 
 .. image:: couv_guide_petit.jpg
@@ -24,13 +24,13 @@ Besoin d'aide?
 ----------------------
 Pour signaler un dysfonctionnement lié au style, demander la prise en compte d'un nouveau type de document ou pour tout autre requête, merci de respecter les indications de la page `Contribuer au projet <https://github.com/fflamerie/csl_ed_droit_ubx/wiki/Contribuer-au-projet>`__.
 
-Si vous rencontrez des difficultés dans l'utilisation de Zotero, vous trouverez probablement une réponse dans la `documentation Zotero <https://www.zotero.org/support/>`__ ou sur le `forum Zotero <https://forums.zotero.org/>`__. Le forum permet de réunir l’ensemble des discussions des utilisateurs, de retrouver les questions posées et les réponses qu’ont pu suggérer les utilisateurs et développeurs de Zotero. Si vous ne trouvez pas de fil de discussion pour le sujet qui vous occupe, créez-en un : cela permet d’alimenter la base de connaissance qu’est le forum, de partager votre question et de lui voir peut-être apporter une réponse. Si la majorité des discussions sont en anglais, n’hésitez pas toutefois à créer un fil en français : certains contributeurs comprennent le français et/ou pourront vous répondre en français.
+Si vous rencontrez des difficultés dans l'utilisation de Zotero, vous trouverez probablement une réponse dans la `documentation Zotero <https://docs.zotero-fr.org/>`__ ou sur le `forum Zotero <https://forums.zotero.org/>`__. Le forum permet de réunir l’ensemble des discussions des utilisateurs, de retrouver les questions posées et les réponses qu’ont pu suggérer les utilisateurs et développeurs de Zotero. Si vous ne trouvez pas de fil de discussion pour le sujet qui vous occupe, créez-en un : cela permet d’alimenter la base de connaissance qu’est le forum, de partager votre question et de lui voir peut-être apporter une réponse. Si la majorité des discussions sont en anglais, n’hésitez pas toutefois à créer un fil en français : certains contributeurs comprennent le français et/ou pourront vous répondre en français.
 
 
 Crédits
 ----------------------
 
-Cette œuvre est mise à disposition selon les termes de la `Licence
+Cette documentation est mise à disposition selon les termes de la `Licence
 Creative Commons Attribution - Pas d'Utilisation Commerciale - Pas de
 Modification 4.0 International <http://creativecommons.org/licenses/by-nc-nd/4.0/>`__.
 
@@ -42,3 +42,5 @@ BEYNEY Geoffrey, BODIN Marc, DELBREL Sophie et al., Citer des références
 bibliographiques juridiques: guide de rédaction : notes de bas de page
 et bibliographie, Gravier Pierre (éd.), 2\ :sup:`e`\  éd., Bordeaux, Urfist de
 Bordeaux, 2019, 36 p.
+
+Elle est rédigée et maintenue par : `Frédérique Flamerie <https://cv.hal.science/frederique-flamerie>`__
