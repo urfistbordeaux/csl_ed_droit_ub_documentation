@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Documentation style CSL "Université de Bordeaux - École doctorale de droit (French)".
+# Documentation style CSL "Université de Bordeaux - École doctorale de droit (Français)".
 
 import sys
 import os
