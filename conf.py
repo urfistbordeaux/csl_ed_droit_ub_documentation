@@ -33,7 +33,7 @@ source_suffix = '.txt'
 master_doc = 'index'
 
 # General information about the project.
-project = u'CSL : Université de Bordeaux - École doctorale de droit (French)'
+project = u'CSL : Université de Bordeaux - École doctorale de droit (Français)'
 copyright = u'Urfist de Bordeaux - CC BY-NC-ND'
 
 # The version info for the project you're documenting, acts as replacement for
