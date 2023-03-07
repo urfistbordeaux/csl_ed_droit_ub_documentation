@@ -1,7 +1,7 @@
 
 .. documentation CSL ED Droit Bx
 
-Documentation du style CSL "Université de Bordeaux - École doctorale de droit (French)" pour Zotero
+Documentation du style CSL "Université de Bordeaux - École doctorale de droit (Français)" pour Zotero
 =======================================
 
 .. toctree::
