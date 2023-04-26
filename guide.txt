@@ -76,12 +76,8 @@ Les mentions de responsabilités secondaires (traducteur, etc.) sont  générée
 |Z| `Exemple 9KHHPKTJ dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/itemKey/9KHHPKTJ>`__
 
-Le rôle de **préfacier** n'existe pas dans Zotero : si applicable, on   utilise le rôle ``editorial-director``. Ce champ n'existe pas en
-standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir sous la forme :
-
-::
-
-    editorial-director: Moderne || Franck
+Le rôle de **préfacier** n'existe pas dans Zotero : si applicable, on utilise la fonction de  "Collaborateur". 
+Dans les références de livre et de chapitre de livre, il convient de réserver cette fonction de « "Collaborateur" au seul préfacier, et par conséquent de supprimer les autres noms d’auteur référencés avec cette fonction.
 
 Rappel |Z| `Exemple UMRJGXBR dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/itemKey/UMRJGXBR>`__
@@ -141,11 +137,8 @@ Les mentions de responsabilités secondaires (traducteur, etc.) sont générées
 
 |Z| `Exemple 9KHHPKTJ dans la bibliothèque d'exemples Zotero <https://www.zotero.org/groups/2190104/items/itemKey/9KHHPKTJ>`__
 
-Le rôle de **préfacier** n'existe pas dans Zotero : si applicable, on utilise le rôle ``editorial-director``. Ce champ n'existe pas en  standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir sous la forme :
-
-::
-
-    editorial-director: Moderne || Franck
+Le rôle de **préfacier** n'existe pas dans Zotero : si applicable, on utilise la fonction de  "Collaborateur". 
+Dans les références de livre et de chapitre de livre, il convient de réserver cette fonction de « "Collaborateur" au seul préfacier, et par conséquent de supprimer les autres noms d’auteur référencés avec cette fonction.
 
 Rappel |Z| `Exemple UMRJGXBR dans la bibliothèque d'exemples
 Zotero <https://www.zotero.org/groups/2190104/items/itemKey/UMRJGXBR>`__
@@ -214,11 +207,11 @@ Le champ "discipline" n'existe pas dans Zotero ni CSL, aussi convient-il de rens
 
 Ne pas mentionner d'URL, c'est un critère d'affichage pour la mention ``[en ligne]`` des travaux universitaires numériques - voir *infra*.
 
-Mentionner obligatoirement le nombre de pages, l'absence du nombre de pages est le critère d'affichage pour la mention ``[microfiche]``pour les travaux universitaires microfichés - voir *infra*.
+Mentionner obligatoirement le nombre de pages, l'absence du nombre de pages est le critère d'affichage pour la mention ``[microfiche]`` pour les travaux universitaires microfichés - voir *infra*.
 
 Le rôle de **directeur de thèse** n'existe pas dans Zotero : si applicable, on utilise la fonction de  "Collaborateur". 
 
-Lors de l'enregistrement de références de thèses depuis le site `theses.fr <https://www.theses.fr/>`_, le directeur de thèse est automatiquement renseigné de cette façon. Dans les références de thèse et mémoire, il convient de réserver cette fonction de « Collaborateur » au directeur du travail universitaire, et par conséquent de supprimer le cas échéant les autres noms référencés avec cette fonction.
+Lors de l'enregistrement de références de thèses depuis le site `theses.fr <https://www.theses.fr/>`_, le directeur de thèse est automatiquement renseigné de cette façon. Dans les références de thèse et mémoire, il convient de réserver cette fonction de "Collaborateur" au directeur du travail universitaire, et par conséquent de supprimer le cas échéant les autres noms référencés avec cette fonction.
 
 Citer des travaux universitaires numériques (thèses et mémoires)
 ----------------------------------------------------------------
@@ -288,7 +281,7 @@ Mentionner obligatoirement le **nombre de pages**, l'absence du nombre de pages 
 
 Le rôle de **directeur de thèse** n'existe pas dans Zotero : si applicable, on utilise la fonction de  "Collaborateur". 
 
-Lors de l'enregistrement de références de thèses depuis le site `theses.fr <https://www.theses.fr/>`_, le directeur de thèse est automatiquement renseigné de cette façon. Dans les références de thèse et mémoire, il convient de réserver cette fonction de « Collaborateur » au directeur du travail universitaire, et par conséquent de supprimer le cas échéant les autres noms référencés avec cette fonction.
+Lors de l'enregistrement de références de thèses depuis le site `theses.fr <https://www.theses.fr/>`_, le directeur de thèse est automatiquement renseigné de cette façon. Dans les références de thèse et mémoire, il convient de réserver cette fonction de "Collaborateur" au directeur du travail universitaire, et par conséquent de supprimer le cas échéant les autres noms référencés avec cette fonction.
 
 Citer des travaux universitaires microfichés (thèses et mémoires)
 -----------------------------------------------------------------
@@ -347,7 +340,7 @@ Ne pas mentionner le **nombre de pages** ni d'**URL**, l'absence du nombre de pa
 
 Le rôle de **directeur de thèse** n'existe pas dans Zotero : si applicable, on utilise la fonction de  "Collaborateur". 
 
-Lors de l'enregistrement de références de thèses depuis le site `theses.fr <https://www.theses.fr/>`_, le directeur de thèse est automatiquement renseigné de cette façon. Dans les références de thèse et mémoire, il convient de réserver cette fonction de « Collaborateur » au directeur du travail universitaire, et par conséquent de supprimer le cas échéant les autres noms référencés avec cette fonction.
+Lors de l'enregistrement de références de thèses depuis le site `theses.fr <https://www.theses.fr/>`_, le directeur de thèse est automatiquement renseigné de cette façon. Dans les références de thèse et mémoire, il convient de réserver cette fonction de "Collaborateur" au directeur du travail universitaire, et par conséquent de supprimer le cas échéant les autres noms référencés avec cette fonction.
 
 Citer des contributions à un ouvrage (articles de mélanges, d’ouvrage collectif, etc.)
 ---------------------------------------------------------------------------------
