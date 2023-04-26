@@ -216,11 +216,9 @@ Ne pas mentionner d'URL, c'est un critère d'affichage pour la mention ``[en lig
 
 Mentionner obligatoirement le nombre de pages, l'absence du nombre de pages est le critère d'affichage pour la mention ``[microfiche]``pour les travaux universitaires microfichés - voir *infra*.
 
-Le rôle de **directeur de thèse** n'existe pas dans Zotero : si applicable, on utilise le rôle ``director``. Ce champ n'existe pas en standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir sous la forme :
+Le rôle de **directeur de thèse** n'existe pas dans Zotero : si applicable, on utilise la fonction de  "Collaborateur". 
 
-::
-
-    director: Jaubert || Pierre
+Lors de l'enregistrement de références de thèses depuis le site `theses.fr <https://www.theses.fr/>`_, le directeur de thèse est automatiquement renseigné de cette façon. Dans les références de thèse et mémoire, il convient de réserver cette fonction de « Collaborateur » au directeur du travail universitaire, et par conséquent de supprimer le cas échéant les autres noms référencés avec cette fonction.
 
 Citer des travaux universitaires numériques (thèses et mémoires)
 ----------------------------------------------------------------
@@ -288,11 +286,9 @@ Le champ "discipline" n'existe pas dans Zotero ni CSL, aussi convient-il de rens
 
 Mentionner obligatoirement le **nombre de pages**, l'absence du nombre de pages est le critère d'affichage pour la mention ``[microfiche]`` pour les travaux universitaires microfichés- voir *infra*.
 
-Le rôle de **directeur de thèse** n'existe pas dans Zotero : si applicable, on utilise le rôle ``director``. Ce champ n'existe pas en standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir sous la forme :
+Le rôle de **directeur de thèse** n'existe pas dans Zotero : si applicable, on utilise la fonction de  "Collaborateur". 
 
-::
-
-    director: Jaubert || Pierre
+Lors de l'enregistrement de références de thèses depuis le site `theses.fr <https://www.theses.fr/>`_, le directeur de thèse est automatiquement renseigné de cette façon. Dans les références de thèse et mémoire, il convient de réserver cette fonction de « Collaborateur » au directeur du travail universitaire, et par conséquent de supprimer le cas échéant les autres noms référencés avec cette fonction.
 
 Citer des travaux universitaires microfichés (thèses et mémoires)
 -----------------------------------------------------------------
@@ -349,11 +345,9 @@ Le champ "discipline" n'existe pas dans Zotero ni CSL, aussi convient-il de rens
 
 Ne pas mentionner le **nombre de pages** ni d'**URL**, l'absence du nombre de pages ET l'absence d'URL sont les critère d'affichage pour la mention ``[microfiche]``.
 
-Le rôle de **directeur de thèse** n'existe pas dans Zotero : si applicable, on utilise le rôle ``director``. Ce champ n'existe pas en standard dans Zotero, il faut utiliser le champ ``Extra`` et saisir sous la forme :
+Le rôle de **directeur de thèse** n'existe pas dans Zotero : si applicable, on utilise la fonction de  "Collaborateur". 
 
-::
-
-    director: Jaubert || Pierre
+Lors de l'enregistrement de références de thèses depuis le site `theses.fr <https://www.theses.fr/>`_, le directeur de thèse est automatiquement renseigné de cette façon. Dans les références de thèse et mémoire, il convient de réserver cette fonction de « Collaborateur » au directeur du travail universitaire, et par conséquent de supprimer le cas échéant les autres noms référencés avec cette fonction.
 
 Citer des contributions à un ouvrage (articles de mélanges, d’ouvrage collectif, etc.)
 ---------------------------------------------------------------------------------
