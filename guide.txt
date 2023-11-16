@@ -5,8 +5,8 @@ On trouve dans cette section les modèles commentés correspondant à
 chaque type de document, ainsi que les notes d'application spécifiques à
 un type de document.
 
-Les recommandations globales et générales, concernant tant les règles de
-rédaction proprement dites que les paramétrages à effectuer dans Zotero,
+Les recommandations globales et générales concernant tant les règles de
+rédaction proprement dites que les paramétrages à effectuer dans Zotero
 figurent dans la section
 `Lisez-moi <https://documentation-style-csl-ed-droit-ubx.readthedocs.io/en/latest/notes.html>`__.
 
